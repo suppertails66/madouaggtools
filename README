@@ -1,0 +1,54 @@
+********************************************************************************
+*              Madou Monogatari A: Doki-Doki Vacation (Game Gear)              *
+*                     English Translation Patch Materials                      *
+********************************************************************************
+
+This package contains the source materials (code/art/script) for the English
+translation project for the Game Gear game Madou Monogatari A: Doki-Doki
+Vacation.
+
+                    ****************************************
+                    *          Build Instructions          *
+                    ****************************************
+                    
+The build system is only set up for Unix-like systems, though none of the code
+is fundamentally dependent on this and could be ported with a bit of effort.
+You'll need GCC and libpng.
+
+You'll first need a ROM image of Madou Monogatari A: Doki-Doki Vacation for the
+Game Gear. It should match the following specifications:
+
+  No-Intro filename: Madou Monogatari A - Dokidoki Vacation (Japan).gg
+  CRC32:             7EC95282
+  MD5:               AB0D1EB20AC63A984D874A885CA2588D
+  SHA-1:             C027AA76FE0E09A2D1B982EEA0DF2C8B687AADF7
+
+Rename it "madoua.gg" and place it in the "madoua" folder. Then:
+
+$ cd madoua
+$ ./build.sh
+
+build.sh should then build all the necessary tools and output the translated
+ROM as madoua_en.gg.
+
+If you want to modify the project, check build.sh to see where the resources
+that get inserted into the game are coming from.
+
+                    ****************************************
+                    *              Licensing               *
+                    ****************************************
+
+See COPYING. Basically, everything by me (Supper) is GPLv3, and everything else
+is under the terms of whoever wrote it.
+
+                    ****************************************
+                    *               Credits                *
+                    ****************************************
+
+                               Filler -- Translation
+                               Supper -- Hacking
+                        TheMajinZenki -- Additional Translation
+                               cccmar -- Testing
+                          Oddoai-sama -- Testing
+                        Kingofcrusher -- Special Thanks
+
