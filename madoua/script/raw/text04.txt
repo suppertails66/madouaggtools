@@ -1,0 +1,155 @@
+#STARTMSG(0x25BB7, 23, 2)
+
+// ふふふ　　　　
+Heh-heh-heh
+// なに？　　　　[br]
+What?[br]
+// 金　　　　　　
+G
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25BCE, 23, 2)
+
+// ふふふ　　　　[br]
+Heh-heh-heh[br]
+// 金　　　　　　
+G
+// なのね。　　　
+It is.
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25BE5, 24, 2)
+
+// ふふふ　　　　[br]
+Heh-heh-heh[br]
+// 金　　　　　　
+G
+// ならどう？　　
+how about?
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25BFD, 23, 2)
+
+// なんにするのー
+What will you do
+// 　　　　　　　[br]
+[br]
+// 金　　　　　　
+G
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C14, 23, 2)
+
+// もももー。　　[br]
+Momomoh.[br]
+// 金　　　　　　
+G
+// 　　　　　　　
+
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C2B, 24, 2)
+
+// それ　　　　　[br]
+That's[br]
+// 金　　　　　　
+G
+// で　かいとるー
+to buy
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C43, 23, 2)
+
+// なにに　　　　
+What
+// いたします？　[br]
+would you like?[br]
+// 金　　　　　　
+G
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C5A, 24, 2)
+
+// それは　　　　[br]
+That[br]
+// 金　　　　　　
+G
+// です。　　　　
+it is.
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C72, 24, 2)
+
+// でしたら　　　
+In that case
+// 金　　　　　　で
+G with
+// は？　　　　
+?
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C8A, 23, 2)
+
+// どうするーな？
+What do you say?
+// 　　　　　　　金
+G
+// 　　　　　　
+
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25CA1, 23, 2)
+
+// それ　　　　　[br]
+That[br]
+// 金　　　　　　
+G
+// いるーの。　　
+it is.
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25CB8, 23, 2)
+
+// それじゃあ　　
+Well then,
+// 金　　　　　　と
+G with
+// かえるーの。
+Can buy/will return.
+[end]
+
+#ENDMSG()
+#BREAK()

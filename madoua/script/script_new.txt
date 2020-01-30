@@ -1,0 +1,36 @@
+
+//===================================
+// gold display on main menu
+//===================================
+
+#STARTMSG(-1, -1, 2)
+
+// [br]
+// [br]
+// 金　
+[br]
+[br]
+[br]
+[br]
+[gold_big][space8px][num5digit_big]<$CB><$3B>
+[end]
+
+#ENDMSG()
+#BREAK()
+
+//===================================
+// sound test (orig from $18C13)
+//===================================
+
+#STARTMSG(-1, -1, 2)
+
+// 　ＳＤ　００[br]
+// 　ＶＯ　００[end]
+[memchar]<$C8><$BF>Sound [space1px][num2digit_big]<$C8><$A4>[br]
+[br]
+[memchar]<$C8><$C6>Voice [space3px][num2digit_big]<$C8><$A5>
+[end]
+
+#ENDMSG()
+#BREAK()
+

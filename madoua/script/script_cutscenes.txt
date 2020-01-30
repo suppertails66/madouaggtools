@@ -1,0 +1,1621 @@
+#SETSIZE(128, 3)
+
+//===========================================================
+// Pointer table 0x1B162
+//===========================================================
+
+#SETWIDTH(112)
+
+#STARTMSG(0x1A66D, 17, 2)
+
+// 『じゃあ、[br]
+// いってきまーすっ。
+{Okay, I'm off!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A67E, 14, 2)
+
+// 『きをつけてね、[br]
+// アルル。
+{Be careful, Arle.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A68C, 22, 2)
+
+// おばあちゃんのいう[br]
+// コトきくんですよ。
+And listen to anything Grandmother tells you.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A6A2, 7, 2)
+
+// 『はーいっ！
+{O-kaaay!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A6A9, 16, 2)
+
+// きょうから[br]
+// なつやすみです。
+My summer vacation starts today.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A6B9, 18, 2)
+
+// ボクは　ようせいの[br]
+// もりをこえて
+I've decided to go through the Fairy Forest
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A6CB, 21, 2)
+
+// おばあちゃんちに[br]
+// いくコトにしました。
+to visit Grandma.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A6E0, 22, 2)
+
+// いつもはおかあさんと[br]
+// いっしょだけど、
+Usually, I go with Mommy,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A6F6, 20, 2)
+
+// ボクだって[br]
+// もう　おねーさんです
+but I'm a big girl now.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A70A, 14, 2)
+
+// だから[br]
+// おねがいして、
+So when I asked,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A718, 22, 2)
+
+// ひとりで　いくのを[br]
+// ゆるしてもらいました
+she let me go all by myself.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A72E, 18, 2)
+
+// もし　もりのなかで[br]
+// まよっても、
+If I get lost in the forest,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A740, 19, 2)
+
+// ようせいさんが[br]
+// たすけてくれます。
+the fairies will help me.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A753, 19, 2)
+
+// ボクと　もりの[br]
+// ようせいさんたちは
+Me and the fairies in this forest
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A766, 16, 2)
+
+// とっても[br]
+// なかよしなんです。
+are really good friends.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A776, 3, 2)
+
+// ん？
+Huh?
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A779, 21, 2)
+
+// 『どーしたんだろ[br]
+// ようせいさんたち…
+//{What happened to the fairies...?
+{What's going on with the fairies...?
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A78E, 11, 2)
+
+// ああっ！　もりが…
+AAH! The forest...!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A799, 15, 2)
+
+// 『おや、[br]
+// おじょうちゃん…
+{Whoa there, little miss...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A7A8, 18, 2)
+
+// あぶないから[br]
+// はなれていなさい。
+Keep back.[br]
+It's dangerous here.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A7BA, 18, 2)
+
+// レジャーランドを[br]
+// つくるために
+We're felling the trees in this forest
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A7CC, 21, 2)
+
+// もりのきを　ばっさい[br]
+// しているからね。
+to make an amusement park.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A7E1, 12, 2)
+
+// 『レジャーランド？
+{An amusement park?}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A7ED, 11, 2)
+
+// 『ああ、そうだよ。
+{Yes, that's right!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A7F8, 19, 2)
+
+// こんな　つまんない[br]
+// もりをなくして、
+Instead of this boring old forest,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A80B, 23, 2)
+
+// たのしい　のりものや[br]
+// おみせがいっぱいの
+we're going to build a theme park
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A822, 14, 2)
+
+// ゆうえんちを[br]
+// つくるのさ。
+with a whole bunch of fun rides and shops.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A830, 18, 2)
+
+// きみも　そのほうが[br]
+// いいだろ？
+You'd like that too, wouldn't you?}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A842, 13, 2)
+
+// 『そんなの[br]
+// いらないっ！
+{Like it, my foot!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A84F, 12, 2)
+
+// ここは[br]
+// ようせいさんや
+This is the home of all
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A85B, 20, 2)
+
+// どうぶつたちの[br]
+// おうちなんだよ。
+the animals and fairies.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A86F, 12, 2)
+
+// そんなのを[br]
+// つくったら
+If you turn it into a theme park,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A87B, 18, 2)
+
+// みんなが[br]
+// すめなくなるじゃない
+they won't have a place to live anymore.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A88D, 16, 2)
+
+// ボク、[br]
+// そんなのヤだよっ！
+I don't want that!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A89D, 19, 2)
+
+// もりで　みんなと[br]
+// あそぶほうが
+Playing with everyone in the forest
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A8B0, 14, 2)
+
+// ずーっと[br]
+// たのしいもん。
+is way way WAY more fun!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A8BE, 19, 2)
+
+// 『むっ、かわいくない[br]
+// こどもだ。
+{Ugh. Obnoxious child.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A8D1, 16, 2)
+
+// だが、[br]
+// なんといわれようと
+But no matter what you say,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A8E1, 17, 2)
+
+// このもりは[br]
+// レジャーランドに
+I shall turn this forest
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A8F2, 9, 2)
+
+// かえてやるぞ。
+into an amusement park.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A8FB, 12, 2)
+
+// おう、やろうどもっ！
+HEY, IDIOTS!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A907, 21, 2)
+
+// こいつを　もりから[br]
+// おいだすんだっ！
+Drive this brat out of the forest!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A91C, 18, 2)
+
+// 『おまかせを[br]
+// サタンさ…いやいや、
+{Leave it to us, Lord Sa...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A92E, 17, 2)
+
+// がってんでさ、[br]
+// おやかたっ！
+I mean, you got it, Boss!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A93F, 15, 2)
+
+// 『わあああっ！[br]
+// たすけてぇ！
+{WAAAAH![br]
+Save meeee!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A94E, 22, 2)
+
+// 『はァ　はァ　はァ[br]
+// もうダメはしれないよ
+{*hoo* *hah* *hoo*[br]
+I can't run any more...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A964, 23, 2)
+
+// うー、このままじゃ[br]
+// もりが　なくなるよ。
+Urrgh! At this rate, the forest is doomed!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A97B, 18, 2)
+
+// ボクが　なんとか[br]
+// しなくちゃ！
+{I've gotta do something!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A98D, 16, 2)
+
+// 『アルルっ！[br]
+// とどめだよ。
+{Arle![br]
+This is the finishing blow!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A99D, 17, 2)
+
+// まりょくを[br]
+// しゅうちゅうしてッ！
+Focus your magic power!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A9AE, 6, 2)
+
+// 『うんッ！
+{Got it!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A9B4, 8, 2)
+
+// 『くらえーッ！
+{Take THIIIIS!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A9BC, 12, 2)
+
+// 『どわあああああッ！
+{GHAAAAAAH!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A9C8, 20, 2)
+
+// 『やったね、アルル。[br]
+// ごくろうさま。
+{You did it, Arle![br]
+Great job.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A9DC, 18, 2)
+
+// 『これで　もう[br]
+// あんしんだよ。
+{Now we can finally be at peace.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A9EE, 15, 2)
+
+// 『あとのことは[br]
+// あたしたちと
+{You can leave the rest to us
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1A9FD, 15, 2)
+
+// もりのものたちに[br]
+// まかせて。
+and everyone else in the forest.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA0C, 21, 2)
+
+// 『アルルは　はやく[br]
+// おばあちゃんちへ。
+{You're in a hurry to get to your grandma's.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA21, 8, 2)
+
+// 『ありがと。
+{Thank you.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA29, 14, 2)
+
+// それから[br]
+// ソクラテスを…　
+Oh, but... Socrates...}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA37, 13, 2)
+
+// 『それも[br]
+// まかせといて。
+{We'll take care of that, too.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA44, 23, 2)
+
+// りっぱな　おはかを[br]
+// つくってあげるから。
+We'll make him a magnificent grave.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA5B, 13, 2)
+
+// ほんとに[br]
+// ありがとう。
+{Thank you.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA68, 15, 2)
+
+// それじゃ[br]
+// ボク　いくね。
+Well then, guess I'll be on my way.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA77, 10, 2)
+
+// 『バイバーイ。
+{Bye-bye.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA81, 19, 2)
+
+// 『またあした[br]
+// あそびにおいでぇ。
+{Come and play again tomorrow!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AA94, 12, 2)
+
+// 『あッ、おばあちゃん
+{Oh, Grandma!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AAA0, 19, 2)
+
+// …というのが[br]
+// ボクの　なつやすみ
+...So that's how the first day
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AAB3, 19, 2)
+
+// いちにちめの[br]
+// できごとでした。
+of my summer vacation went.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AAC6, 18, 2)
+
+// このあと　やすみが[br]
+// おわるまで
+After that, I had a bunch of adventures
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AAD8, 22, 2)
+
+// ボクは　いろんな[br]
+// ぼうけんをしました。
+up 'til the end of vacation.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AAEE, 14, 2)
+
+// ほんとは[br]
+// そのときのことも
+Actually, I wanted to tell you about those too,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AAFC, 23, 2)
+
+// おはなししたいけど[br]
+// きょうは　ここまで。
+but that's enough for today.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB13, 15, 2)
+
+// なんだか[br]
+// つかれちゃった…
+Somehow, I've gotten all worn out...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB22, 12, 2)
+
+// ちょっと[br]
+// ねむたいよ…
+I'm just a little sleepy...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB2E, 9, 2)
+
+// おやすみなさい…
+Goodnight...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB37, 20, 2)
+
+// プロデューサー[br]
+// 　ＭＯＯ　にいたに
+Producer[br]
+   MOO Niitani
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB4B, 18, 2)
+
+// ディレクター[br]
+// 　ＷＡＯ　ＩＳＥＥ
+Director[br]
+   WAO ISEE
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB5D, 19, 2)
+
+// プログラマー[br]
+// 　ＷＡＯ　ＩＳＥＥ
+Programmer[br]
+   WAO ISEE
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB70, 19, 2)
+
+// プログラマー[br]
+// 　せとう　まさとし
+Programmer[br]
+   Setou Masatoshi
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB83, 15, 2)
+
+// グラフィック[br]
+// 　ねこにゃん
+Graphics[br]
+   Nekonyan
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB92, 12, 2)
+
+// シナリオ[br]
+// 　うえみぞ
+Scenario[br]
+   Uemizo
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AB9E, 10, 2)
+
+// シナリオ[br]
+// 　ケロル
+Scenario[br]
+   Keroru
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ABA8, 17, 2)
+
+// サウンド[br]
+// 　スーパー　けんた
+Sound[br]
+   Super Kenta
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ABB9, 26, 2)
+
+// サンプリング　マン[br]
+// 　ポリゴンジャンキー
+Sampling Man[br]
+   Polygon Junkie
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ABD3, 20, 2)
+
+// マニュアル　ライト[br]
+// 　かづと　ひそく
+Manual Writer[br]
+   Kadzuto Hisoku
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ABE7, 18, 2)
+
+// マニュアル　イラスト[br]
+// 　ねこにゃん
+Manual Illustration[br]
+   Nekonyan
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ABF9, 22, 2)
+
+// マニュアル　イラスト[br]
+// 　ゆみ　げんのすけ
+Manual Illustration[br]
+   Yumi Gennosuke
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC0F, 18, 2)
+
+// マニュアル　イラスト[br]
+// 　たんきとう
+Manual Illustration[br]
+   Tankitou
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC21, 20, 2)
+
+// パッケージ　イラスト[br]
+// 　ねこにゃん
+Package Illustration[br]
+   Nekonyan
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC35, 25, 2)
+
+// パッケージ　デザイン[br]
+// 　かづと　ひそく
+Package Design[br]
+   Kadzuto Hisoku
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC4E, 18, 2)
+
+// ポスター　イラスト[br]
+// 　ねこにゃん
+Poster Illustration[br]
+   Nekonyan
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC60, 23, 2)
+
+// ポスター　デザイン[br]
+// 　Ａ．ＫＩＺＵＫＩ
+Poster Design[br]
+   A. KIZUKI
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC77, 18, 2)
+
+// えいぎょう　ぶたい[br]
+// 　にっしん
+Business Unit[br]
+   Nisshin
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC89, 18, 2)
+
+// えいぎょう　ぶたい[br]
+// 　マーシー
+Business Unit[br]
+   Marcy
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AC9B, 10, 2)
+
+// ボイス　スタッフ
+Voice Staff
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ACA5, 22, 2)
+
+// ボイス　ディレクター　そんちょう　さわ
+Voice Director[br]
+   Sonchou Sawa
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ACBB, 12, 2)
+
+// あかぷよ[br]
+// 　ポチョ
+Red Puyo[br]
+   Pocho
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ACC7, 13, 2)
+
+// かたぷよ[br]
+// 　うえだま
+Hard Puyo[br]
+   Uedama
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ACD4, 14, 2)
+
+// とべないトリ[br]
+// 　Ｑちゃん
+Flightless Bird[br]
+   Q-chan
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ACE2, 23, 2)
+
+// ビッグペッカー[br]
+// 　らいめいじ　あすか
+Bigpecker[br]
+   Raimeiji
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ACF9, 22, 2)
+
+// ソードビースト[br]
+// 　せんのうきょうじゅ
+Sword Beast[br]
+   Sennoukyouju
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD0F, 17, 2)
+
+// パペットナイト[br]
+// 　くぼっち
+Puppet Knight[br]
+   Kubocchi
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD20, 16, 2)
+
+// サテュロス[br]
+// 　そんちょう　さわ
+Satyr[br]
+   Sonchou Sawa
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD30, 17, 2)
+
+// ハイフラワー[br]
+// 　かづと　ひそく
+High Flower[br]
+   Kadzuto Hisoku
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD41, 18, 2)
+
+// エレメンタル[br]
+// 　さとう　たいちょう
+Elemental[br]
+   Captain Satou
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD53, 15, 2)
+
+// スキュラ[br]
+// 　そんちょう　さわ
+Scylla[br]
+   Mayor Sawa
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD62, 20, 2)
+
+// スケアクロウ[br]
+// 　きど　ふくさぶろう
+Scarecrow[br]
+   Kido Fukusaburou
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD76, 19, 2)
+
+// ドライアード[br]
+// 　そんちょう　さわ
+Dryad[br]
+   Mayor Sawa
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD89, 14, 2)
+
+// スプリガン[br]
+// 　ＧＵＴＳ
+Spriggan[br]
+   GUTS
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AD97, 14, 2)
+
+// アウルベア[br]
+// 　ＤＡＲＭＡ
+Owlbear[br]
+   DARMA
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ADA5, 21, 2)
+
+// リザードマン[br]
+// 　せんのうきょうじゅ
+Lizardman[br]
+   Sennoukyouju
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ADBA, 19, 2)
+
+// ロックイーター[br]
+// 　さとう　たいちょう
+Rock Eater[br]
+   Captain Satou
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ADCD, 15, 2)
+
+// ちょっぷんＲ[br]
+// 　セニョりん
+Choppun-R[br]
+   Senyorin
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ADDC, 12, 2)
+
+// ぐーる[br]
+// 　ねこにゃん
+Ghoul[br]
+   Nekonyan
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ADE8, 16, 2)
+
+// リッチープアー[br]
+// 　ねこにゃん
+Bankrypt[br]
+   Nekonyan
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1ADF8, 24, 2)
+
+// リビングドール[br]
+// 　ぎゃらりぃ　ぐりこ
+Living Doll[br]
+   Gyararii Guriko
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE10, 15, 2)
+
+// ダイダロス[br]
+// 　たちばな
+Daedalus[br]
+   Tachibana
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE1F, 12, 2)
+
+// サタンさま[br]
+// 　うぃなあ
+Lord Satan[br]
+   Winner
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE2B, 10, 2)
+
+// ももも[br]
+// 　わあくん
+Momomo[br]
+   Waakun
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE35, 19, 2)
+
+// リディア[br]
+// 　ぎゃらりぃ　ぐりこ
+Lydia[br]
+   Gyararii Guriko
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE48, 17, 2)
+
+// ふふふ[br]
+// 　きづくり　いなぞう
+Fufufu[br]
+   Kidzukuri Inazou
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE59, 19, 2)
+
+// パキスタ[br]
+// 　きづくり　いなぞう
+Pakista[br]
+   Kidzukuri Inazou
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE6C, 13, 2)
+
+// アルル[br]
+// 　いのうえ　まみ
+Arle[br]
+   Mami Inoue
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE79, 14, 2)
+
+// きょうりょくに[br]
+// 　かんしゃ
+Many thanks to
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE87, 13, 2)
+
+// コンパイルの[br]
+// 　みんな
+everyone at Compile.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE94, 4, 2)
+
+// そして
+And...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AE98, 17, 2)
+
+// いまこれを[br]
+// 　みている　きみ！！
+You, reading this now!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AEA9, 20, 2)
+
+// [copyright]ＣＯＭＰＩＬＥ[br]
+// 　　　　　　１９９５
+[space8px][space8px][space8px][space8px][space1px][copyright] COMPILE[br]
+[space8px][space8px][space8px][space8px][space8px][space7px]1995
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AEBD, 21, 2)
+
+// [copyright]ＬＭＳＭＵＳＩＣ[br]
+// 　　　　　　１９９５
+[space8px][space8px][space8px][space6px][copyright] LMSMUSIC[br]
+[space8px][space8px][space8px][space8px][space8px][space7px]1995
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AED2, 8, 2)
+
+// 　　　おしまい
+[space8px][space8px][space8px][space8px][space8px]The End
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AEDA, 18, 2)
+
+// 『あれは　もりのきを[br]
+// きっていた…
+{The trees have been cut down...}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AEEC, 23, 2)
+
+// 『アルジヨ　ワタシノ[br]
+// ウシロニ　カクレロ。
+{MASTER, HIDE YOURSELF BEHIND ME.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF03, 22, 2)
+
+// ワタシト　オナジ[br]
+// テツノ　ごーれむカ…
+IT'S ANOTHER IRON GOLEM LIKE MYSELF.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF19, 17, 2)
+
+// アイテニ　トッテ[br]
+// フソクナシっ！
+IT'S NO MATCH FOR ME!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF2A, 22, 2)
+
+// 『ソクラテスぅ。[br]
+// ひとりじゃムリだよぉ
+{Socrates! You can't do it alone!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF40, 26, 2)
+
+// 『ダイジョウブダ。[br]
+// ハナレテロ　アルジヨ
+{IT'S OKAY. LEAVE ME, MASTER.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF5A, 20, 2)
+
+// 『ソクラテスっ！[br]
+// だいじょうぶ？
+{SOCRATES! Are you okay?
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF6E, 24, 2)
+
+// だから　いったんだよ[br]
+// ムチャなんだから。
+I TOLD you you were being stupid!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF86, 22, 2)
+
+// 『アルジガ　ブジナラ[br]
+// ヨイノダ。
+{IT'S FINE AS LONG AS YOU'RE OKAY, MASTER.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AF9C, 20, 2)
+
+// ショセン　ワタシハ[br]
+// セントウましーん。
+IN THE END, I AM A COMBAT MACHINE.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AFB0, 21, 2)
+
+// タタカウコト　デシカ[br]
+// ヤクニ　タテヌ。
+I'M GOOD FOR NOTHING BUT FIGHTING.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AFC5, 15, 2)
+
+// 『ううん。[br]
+// そんなことない。
+{NO! Don't be silly.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AFD4, 22, 2)
+
+// しっかりしてよ。[br]
+// ボクの　めいれいだよ
+Get a hold of yourself. That's an ORDER!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1AFEA, 24, 2)
+
+// パーツなら　ボクが[br]
+// また　とってくるから
+If it's parts you need, I'll go get them...}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B002, 8, 2)
+
+// 『ムダダ。
+{IT'S NO USE.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B00A, 15, 2)
+
+// モウ　シュウフク[br]
+// フカノウ。
+REPAIRS ARE NO LONGER POSSIBLE.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B019, 20, 2)
+
+// ダガ　キノウガ[br]
+// テイシ　スレバ
+HOWEVER, IF MY FUNCTIONS CEASE,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B02D, 24, 2)
+
+// トクシュ　キンゾクノ[br]
+// ワタシノ　ぼでぃハ
+MY SPECIAL METAL BODY
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B045, 9, 2)
+
+// ツチニ　カエル…
+WILL RETURN TO THE EARTH...
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B04E, 20, 2)
+
+// ソシテ　ソコカラ[br]
+// アラタナ　イノチガ
+THEN,
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B062, 11, 2)
+
+// ウマレル　ダロウ。
+A NEW LIFE WILL BE BORN THERE.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B06D, 19, 2)
+
+// アルジヨ。モリヲ[br]
+// マモロウト　イウ
+MASTER. DON'T FORGET HOW YOU FELT
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B080, 19, 2)
+
+// ソノ　ココロ。[br]
+// ワスレナイデクレ。
+WHEN YOU SAID YOU'D SAVE THE FOREST.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B093, 17, 2)
+
+// 『うん　わかった…[br]
+// わかったよ。
+{Okay, I won't...[br]
+I won't forget.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B0A4, 13, 2)
+
+// だから[br]
+// ソクラテスも…
+And you too, Socrates...}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B0B1, 18, 2)
+
+// 『サア　アルジヨ。[br]
+// ユクノダ。
+{COME NOW, MASTER.[br]
+BE OFF.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B0C3, 14, 2)
+
+// アノ　ヨウサイヘ[br]
+// ハヤク。
+HURRY TO THE FORTRESS.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B0D1, 9, 2)
+
+// 『でもでも…
+{But, but...}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B0DA, 15, 2)
+
+// 『イマ　モリヲ[br]
+// スクエルノハ
+{YOU'RE THE ONLY ONE WHO CAN
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B0E9, 12, 2)
+
+// アルジシカ　イナイ。
+SAVE THE FOREST NOW.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B0F5, 18, 2)
+
+// ワタシノ　サイゴノ[br]
+// タノミダ。
+THIS IS MY FINAL WISH.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B107, 10, 2)
+
+// 『うん　わかった。
+{Okay. I understand.
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B111, 18, 2)
+
+// ぜったい[br]
+// ハデな　おじさんを
+I'll definitely do in that show-off guy!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B123, 17, 2)
+
+// やっつけるよ。[br]
+// やくそくするッ！
+I promise!}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B134, 18, 2)
+
+// 『ソレデコソ[br]
+// ワガ　アルジ。
+{THAT'S THE MASTER I KNOW.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B146, 13, 2)
+
+// 『じゃ[br]
+// いってくるね。
+{Well then... I'll be off.}
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1B153, 15, 2)
+
+// 『タノムゾ[br]
+// アルジ…ヨ…
+{I'M COUNTING ON YOU...[br]
+MAS... TER...}
+[end]
+
+#ENDMSG()
+
+//==================================
+// translation credits
+//==================================
+
+#STARTMSG(-1, -1, 2)
+
+English Conversion
+[end]
+
+#ENDMSG()
+
+#STARTMSG(-1, -1, 2)
+
+Translation[br]
+   Filler
+[end]
+
+#ENDMSG()
+
+#STARTMSG(-1, -1, 2)
+
+Hacking[br]
+   Supper
+[end]
+
+#ENDMSG()
+
+#STARTMSG(-1, -1, 2)
+
+Additional Translation[br]
+   TheMajinZenki
+[end]
+
+#ENDMSG()
+
+#STARTMSG(-1, -1, 2)
+
+Testing[br]
+   cccmar
+[end]
+
+#ENDMSG()
+
+// sadly Xanathis got repeatedly murdered by Puyos in the first area and gave up :(
+//#STARTMSG(-1, -1, 2)
+//
+//Testing[br]
+//   Xanathis
+//[end]
+//
+//#ENDMSG()
+
+#STARTMSG(-1, -1, 2)
+
+Testing[br]
+   Oddoai-sama
+[end]
+
+#ENDMSG()
+
+#STARTMSG(-1, -1, 2)
+
+Special Thanks[br]
+   Kingofcrusher
+[end]
+
+#ENDMSG()

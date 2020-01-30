@@ -1,0 +1,162 @@
+
+#STARTMSG(0x25BB7, 23, 2)
+
+// ふふふ　　　　
+// なに？　　　　[br]
+// 金　　　　　　
+Hm-hm-hm...[br]
+What?[br]
+[br]
+[br]
+[gold_big][space8px][num5digit_big]<$CB><$3B>
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25BCE, 23, 2)
+
+// ふふふ　　　　[br]
+// 金　　　　　　
+// なのね。　　　
+Hm-hm-hm...[br]
+That'll be[br]
+[num5digit]<$C8><$D8>[G].
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25BE5, 24, 2)
+
+// ふふふ　　　　[br]
+// 金　　　　　　
+// ならどう？　　
+Hm-hm-hm...[br]
+How about[br]
+[num5digit]<$C8><$D8>[G]?
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25BFD, 23, 2)
+
+// なんにするのー
+// 　　　　　　　[br]
+// 金　　　　　　
+Whaaat will[br]
+you do?[br]
+[br]
+[br]
+[gold_big][space8px][num5digit_big]<$CB><$3B>
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C14, 23, 2)
+
+// もももー。　　[br]
+// 金　　　　　　
+// 　　　　　　　
+Momomo.[br]
+Thaaat's[br]
+[num5digit]<$C8><$D8>[G].
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C2B, 24, 2)
+
+// それ　　　　　[br]
+// 金　　　　　　
+// で　かいとるー
+I'll buuuy it[br]
+for [num5digit]<$C8><$D8>[G].
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C43, 23, 2)
+
+// なにに　　　　
+// いたします？　[br]
+// 金　　　　　　
+What would[br]
+you like?[br]
+[br]
+[br]
+[gold_big][space8px][num5digit_big]<$CB><$3B>
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C5A, 24, 2)
+
+// それは　　　　[br]
+// 金　　　　　　
+// です。　　　　
+That will be[br]
+[num5digit]<$C8><$D8>[G].
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C72, 24, 2)
+
+// でしたら　　　
+// 金　　　　　　で
+// は？　　　　
+How would[br]
+[num5digit]<$C8><$D8>[G] be?
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25C8A, 23, 2)
+
+// どうするーな？
+// 　　　　　　　金
+// 　　　　　　
+What's up?[br]
+[br]
+[br]
+[br]
+[gold_big][space8px][num5digit_big]<$CB><$3B>
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25CA1, 23, 2)
+
+// それ　　　　　[br]
+// 金　　　　　　
+// いるーの。　　
+That's gonna[br]
+be [num5digit]<$C8><$D8>[G].
+[end]
+
+#ENDMSG()
+#BREAK()
+
+#STARTMSG(0x25CB8, 23, 2)
+
+// それじゃあ　　
+// 金　　　　　　と
+// かえるーの。
+Alright, I'll[br]
+give ya[br]
+[num5digit]<$C8><$D8>[G] for[br]
+that.
+[end]
+
+#ENDMSG()
+#BREAK()
+

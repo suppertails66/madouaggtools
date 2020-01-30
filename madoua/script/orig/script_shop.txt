@@ -1,0 +1,120 @@
+#STARTMSG(0x25BB7, 23, 2)
+
+// ふふふ　　　　
+// なに？　　　　[br]
+// 金　　　　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25BCE, 23, 2)
+
+// ふふふ　　　　[br]
+// 金　　　　　　
+// なのね。　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25BE5, 24, 2)
+
+// ふふふ　　　　[br]
+// 金　　　　　　
+// ならどう？　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25BFD, 23, 2)
+
+// なんにするのー
+// 　　　　　　　[br]
+// 金　　　　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25C14, 23, 2)
+
+// もももー。　　[br]
+// 金　　　　　　
+// 　　　　　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25C2B, 24, 2)
+
+// それ　　　　　[br]
+// 金　　　　　　
+// で　かいとるー
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25C43, 23, 2)
+
+// なにに　　　　
+// いたします？　[br]
+// 金　　　　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25C5A, 24, 2)
+
+// それは　　　　[br]
+// 金　　　　　　
+// です。　　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25C72, 24, 2)
+
+// でしたら　　　
+// 金　　　　　　で
+// は？　　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25C8A, 23, 2)
+
+// どうするーな？
+// 　　　　　　　金
+// 　　　　　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25CA1, 23, 2)
+
+// それ　　　　　[br]
+// 金　　　　　　
+// いるーの。　　
+
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x25CB8, 23, 2)
+
+// それじゃあ　　
+// 金　　　　　　と
+// かえるーの。
+
+[end]
+
+#ENDMSG()
+

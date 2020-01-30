@@ -1,0 +1,100 @@
+
+
+
+memory:
+  C000 = array of object??? slots
+         0x20 bytes each
+  C4C0 = queue of pending vdp transfers?
+         8 6-byte structs?
+  C4F0 = vdp transfer queue end index
+  C4F1 = vdp transfer queue start index
+  C580+ = vdp regs?
+          but not all?
+  C581 = vdp reg 1?
+  C588 = ? NOT vdp reg 8
+  C589 = ?
+  C58A = ? flags?
+         see CDD, CBB...
+  C5C4 = ?
+  C700 = temporary buffer for composing stuff
+         this gets copied to and (partially?) read from vram 3d40,
+         the tilemap for the cropped-out bottom area of the screen.
+         used at least for writing new text to screen...? (via ~DCF)
+  C880 = ? scripts?
+  C881 = ? flags?
+         bit 5 = ?
+         bit 6 = ?
+  C88A = ? scripts?
+  C8DF = ? bitflags?
+  CA81 = arle level?
+  CB2E = arle current hp
+
+routines:
+  11F8 = decmpTilemap
+  1774 = decmpGrp
+         (same compressed format as madou3)
+         b = lookback buffer high byte
+         de = vdp dstaddr
+         hl = src
+  1D98 = bankTableItemLookup
+  1DE3 = getPointerFromMultiTable
+         looks up 16-bit data from what may be either a pointer or offset table
+  1DF7 = loadEncodedPage
+         loads (A & 0x7F) to slot 1 if top bit is unset,
+         and to slot 2 otherwise
+  1E32 = savePageRegs
+  1E3E = restorePageRegs
+  197BD = saveLeftWindowBg?
+  197D7 = restoreLeftWindowBg?
+**198E0 = runScript
+  19A3E = decompress font character
+          A = id
+          HL = dst
+  1A00D = runTabledScript
+          A = index
+          C = flags
+          DE = table base ptr
+          expects page registers to have been saved to stack
+          via savePageRegs_bank6
+  1A05B = get pointer to script (also loading its source bank)
+          B = region
+          C = index
+**1A54E = runCutsceneScript
+  1B47B = queueVdpTransfer
+          BC = size in bytes?
+          DE = dst vdp address
+          HL = src
+  1FE09 = tilemap clear
+          A = clear value
+          B = height
+          C = width
+  3BE81 = send tilemap (for e.g. title screen)
+          half-width format
+
+data:
+  1A069 = locations of script tables by region (0xB 2-byte entries total)
+          - byte0 = target table index num in bank table
+          - byte1 = source page ID (bank num)
+
+some text not assigned to a region (intro? ending?) seems to be at 1A8FC
+(cutscenes)
+
+frog pond requires you to be level 12 to freeze (see 14209).
+gameplay!!
+and must be level 15 to clear fog fountain
+
+TODO
+  - graphics
+  - top 3 rows of tilemap are probably not free.
+    - also, game shakes screen without clearing whatever it's shoved there...
+    - 3E60+ are probably available though, and last 4-5 tiles of bg patterns?
+  - "sorcery ribbon"
+  - "you mastered"
+  - remove redundant vdp sends in printVwfChar -- no cbc printing
+
+DONE
+  - cutscene text
+  - money printing
+  - properly clear cropped area when title screen starts (vertical scrolling
+    reveals top area)
+

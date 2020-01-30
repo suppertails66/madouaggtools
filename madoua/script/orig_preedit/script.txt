@@ -1,0 +1,11788 @@
+
+#SETSIZE(56, 4)
+
+//===========================================================
+// Region 0
+//===========================================================
+
+#STARTREGION(0)
+
+// script 0-0x0
+#STARTMSG(0x1C03E, 2, 1)
+
+// 　
+ 
+[end]
+
+#ENDMSG()
+
+// script 0-0x1
+#STARTMSG(0x1C040, 17, 1)
+
+// ほのおで[br]
+// とても[br]
+// あついよ。
+It's really hot from the flames.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x2
+#STARTMSG(0x1C051, 21, 1)
+
+// こおりで[br]
+// すごく[br]
+// すずしいなあ。
+It's super chilly from the ice.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x3
+#STARTMSG(0x1C066, 6, 1)
+
+// ファイヤー
+Fire
+[end]
+
+#ENDMSG()
+
+// script 0-0x4
+#STARTMSG(0x1C06C, 8, 1)
+
+// アイスストーム
+Ice Storm
+[end]
+
+#ENDMSG()
+
+// script 0-0x5
+#STARTMSG(0x1C074, 9, 1)
+
+// ダイヤキュート
+Diacute
+[end]
+
+#ENDMSG()
+
+// script 0-0x6
+#STARTMSG(0x1C07D, 8, 1)
+
+// ばよえーん！
+Bayoen!
+[end]
+
+#ENDMSG()
+
+// script 0-0x7
+#STARTMSG(0x1C085, 7, 1)
+
+// ヒーリング
+Healing
+[end]
+
+#ENDMSG()
+
+// script 0-0x8
+#STARTMSG(0x1C08C, 8, 1)
+
+// ライトニング
+Lightning
+[end]
+
+#ENDMSG()
+
+// script 0-0x9
+#STARTMSG(0x1C094, 9, 1)
+
+// イリュージョン
+Illusion
+[end]
+
+#ENDMSG()
+
+// script 0-0xA
+#STARTMSG(0x1C09D, 18, 1)
+
+// いえーい。[br]
+// レッツ[br]
+// ダンシンっ！
+YAAAAY![br]
+Let's dance!
+[end]
+
+#ENDMSG()
+
+// script 0-0xB
+#STARTMSG(0x1C0AF, 18, 1)
+
+// レッツ[br]
+// はげしく[br]
+// ダンシンっ！
+LET'S DANCE!!
+[end]
+
+#ENDMSG()
+
+// script 0-0xC
+#STARTMSG(0x1C0C1, 15, 1)
+
+// ダッシュで[br]
+// にげる。
+You try to run away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0xD
+#STARTMSG(0x1C0D0, 8, 1)
+
+// せいこうだ。
+You did it.
+[end]
+
+#ENDMSG()
+
+// script 0-0xE
+#STARTMSG(0x1C0D8, 10, 1)
+
+// しっぱいだ。
+You didn't make it.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0xF
+#STARTMSG(0x1C0E2, 24, 1)
+
+// るいぱんこ！と
+// こころのなかでさ
+// けんだ。
+You yell {LIPEMCO!} in your mind.
+[wait]
+[end]
+// lipemco isn't even in this game!
+// what's this doing here?
+
+#ENDMSG()
+
+// script 0-0x10
+#STARTMSG(0x1C0FA, 21, 1)
+
+// あたまのなかで
+// なにかが[br]
+// さけぶ。
+You hear a voice in your head.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x11
+#STARTMSG(0x1C10F, 25, 1)
+
+// 『るいぱんこは
+// いっかいだけ[br]
+// だよーん。』
+{Lipemco can only be used once.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x12
+#STARTMSG(0x1C128, 24, 1)
+
+// ・・・・・・・
+// ・・・・・・・・
+// ・・スカだ。
+......[br]
+......[br]
+...Nothing.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x13
+#STARTMSG(0x1C140, 11, 1)
+
+// もう[br]
+// しにそうー。
+I'm gonna die...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x14
+#STARTMSG(0x1C14B, 21, 1)
+
+// だめー。[br]
+// あたまが[br]
+// クラクラする。
+Oh no... I'm getting so dizzy...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x15
+#STARTMSG(0x1C160, 13, 1)
+
+// もう　だめ[br]
+// あよん。
+Ahh, I can't do this!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x16
+#STARTMSG(0x1C16D, 14, 1)
+
+// あああー[br]
+// だめだぁ。
+Not sure I can go on...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x17
+#STARTMSG(0x1C17B, 16, 1)
+
+// もう　だめ、[br]
+// ぐるひぃ。
+This is too much...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x18
+#STARTMSG(0x1C18B, 16, 1)
+
+// くるしーよ。[br]
+// へらららぁー。
+Owww...[br]
+Everything's spinning...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x19
+#STARTMSG(0x1C19B, 16, 1)
+
+// ぐひょい。[br]
+// くるぴぃー。
+Ooohh...[br]
+It hurts...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x1A
+#STARTMSG(0x1C1AB, 12, 1)
+
+// ちょっと[br]
+// くるしい。
+I'm kinda hurting...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x1B
+#STARTMSG(0x1C1B7, 13, 1)
+
+// ためいき[br]
+// ふぅぅぅー。
+Deep breaths...[br]
+Huff...[br]
+Puff...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x1C
+#STARTMSG(0x1C1C4, 12, 1)
+
+// うん[br]
+// がんばる。
+I'll do my best!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x1D
+#STARTMSG(0x1C1D0, 12, 1)
+
+// がんばるぞッ！
+I can do this!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x1E
+#STARTMSG(0x1C1DC, 11, 1)
+
+// まだまだあッ！
+It's not over yet!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x1F
+#STARTMSG(0x1C1E7, 7, 1)
+
+// げんき。
+I'm fine.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x20
+#STARTMSG(0x1C1EE, 16, 1)
+
+// ヨロレイヒー！[br]
+// げんきぃ。
+Woo-hoo![br]
+Doing great!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x21
+#STARTMSG(0x1C1FE, 15, 1)
+
+// いやっほォ！[br]
+// げんきッ。
+Yahoo![br]
+I'm fine!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x22
+#STARTMSG(0x1C20D, 21, 1)
+
+// ゴォーゴォー！[br]
+// げんきだいッ。
+ROAR![br]
+I'm doing great.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x23
+#STARTMSG(0x1C222, 19, 1)
+
+// ほとんど[br]
+// かいふく[br]
+// してないよ。
+Basically didn't restore any health...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x24
+#STARTMSG(0x1C235, 23, 1)
+
+// きぶんわるいの[br]
+// すこしだけ[br]
+// なおった。
+You only feel slightly better.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x25
+#STARTMSG(0x1C24C, 16, 1)
+
+// さっきよりは[br]
+// ちょうしいい。
+You feel somewhat better.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x26
+#STARTMSG(0x1C25C, 18, 1)
+
+// ちょっと[br]
+// たいりょく[br]
+// かいふく。
+Restored a bit of health.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x27
+#STARTMSG(0x1C26E, 20, 1)
+
+// たいりょく[br]
+// まずまず[br]
+// かいふく。
+Restored some health.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x28
+#STARTMSG(0x1C282, 14, 1)
+
+// たいりょく[br]
+// かいふくッ。
+Health restored.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x29
+#STARTMSG(0x1C290, 19, 1)
+
+// げんきが[br]
+// もどって[br]
+// きたよ。
+You feel much better.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x2A
+#STARTMSG(0x1C2A3, 23, 1)
+
+// たいりょく[br]
+// さいだいまで[br]
+// かいふくッ！
+Health fully restored!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x2B
+#STARTMSG(0x1C2BA, 14, 1)
+
+// まどうりょく[br]
+// なぁい。
+You have no magic left!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x2C
+#STARTMSG(0x1C2C8, 20, 1)
+
+// ほとんど[br]
+// まどうりょく[br]
+// なぁい。
+You're almost out of juice!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x2D
+#STARTMSG(0x1C2DC, 25, 1)
+
+// まどうりょくが[br]
+// すくなぁい。[br]
+// ぐひゅん。
+You have very little magic left!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x2E
+#STARTMSG(0x1C2F5, 17, 1)
+
+// まどうりょく[br]
+// へってきたよ。
+You don't have a lot of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x2F
+#STARTMSG(0x1C306, 22, 1)
+
+// まどうりょく[br]
+// そろそろ[br]
+// せつやくしよ。
+You should start saving your magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x30
+#STARTMSG(0x1C31C, 21, 1)
+
+// まだ[br]
+// まどうりょく、[br]
+// のこってる。
+You still have some magic left.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x31
+#STARTMSG(0x1C331, 18, 1)
+
+// まどうりょく[br]
+// じゅうぶん。
+You have plenty of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x32
+#STARTMSG(0x1C343, 26, 1)
+
+// まどうりょく[br]
+// からだじゅうに[br]
+// みちている。
+You are full of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x33
+#STARTMSG(0x1C35D, 25, 1)
+
+// まどうりょく[br]
+// カのなみだほど[br]
+// かいふく。
+Only restored a pittance of magic...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x34
+#STARTMSG(0x1C376, 22, 1)
+
+// まどうりょく[br]
+// ちょっぴり[br]
+// かいふく。
+Restored a tiiiny bit of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x35
+#STARTMSG(0x1C38C, 23, 1)
+
+// まどうりょく[br]
+// ちょっとだけ[br]
+// かいふく。
+Restored a little bit of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x36
+#STARTMSG(0x1C3A3, 20, 1)
+
+// まどうりょく[br]
+// すこーし[br]
+// かいふく。
+Restored a bit of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x37
+#STARTMSG(0x1C3B7, 22, 1)
+
+// まどうりょく[br]
+// まずまず[br]
+// かいふく。
+Restored some magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x38
+#STARTMSG(0x1C3CD, 21, 1)
+
+// うんうん。[br]
+// まどうりょく[br]
+// かいふく。
+Good. Magic restored.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x39
+#STARTMSG(0x1C3E2, 23, 1)
+
+// よぉしッ。[br]
+// まどうりょく[br]
+// もどったァ。
+Alright! Your magic is back!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x3A
+#STARTMSG(0x1C3F9, 25, 1)
+
+// まどうりょく[br]
+// さいだいまで[br]
+// かいふくッ！
+Magic fully restored!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x3B
+#STARTMSG(0x1C412, 19, 1)
+
+// さっきより[br]
+// ちょうし[br]
+// いいかなぁ。
+You feel maybe a bit better.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x3C
+#STARTMSG(0x1C425, 19, 1)
+
+// さっきよりは[br]
+// ちょうし[br]
+// いいかも。
+You feel slightly better.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x3D
+#STARTMSG(0x1C438, 16, 1)
+
+// ちょうしが[br]
+// でてきたよ。
+Feeling good now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x3E
+#STARTMSG(0x1C448, 18, 1)
+
+// よしよし。[br]
+// ちょうし[br]
+// いいぞ。
+Yup.[br]
+You feel great!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x3F
+#STARTMSG(0x1C45A, 25, 1)
+
+// たいりょくと[br]
+// まどうりょく、[br]
+// かいふくだ。
+Recovered health and magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x40
+#STARTMSG(0x1C473, 20, 1)
+
+// ふふふん。[br]
+// とっても[br]
+// きぶんいい。
+Hmmm-hm![br]
+You feel great!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x41
+#STARTMSG(0x1C487, 22, 1)
+
+// さいこーに[br]
+// しあわせだなぁ[br]
+// ボカァ。
+Now THIS is life![br]
+Oh YEAH!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x42
+#STARTMSG(0x1C49D, 13, 1)
+
+// ちっとも[br]
+// いたくない。
+That didn't hurt a bit.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x43
+#STARTMSG(0x1C4AA, 5, 1)
+
+// うッ！
+Ow!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x44
+#STARTMSG(0x1C4AF, 12, 1)
+
+// ちょっと[br]
+// いたいよ。
+That kinda hurt.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x45
+#STARTMSG(0x1C4BB, 10, 1)
+
+// ダメージっ！
+That hurt!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x46
+#STARTMSG(0x1C4C5, 8, 1)
+
+// いたいよぉ。
+Ouch!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x47
+#STARTMSG(0x1C4CD, 12, 1)
+
+// いたいッ！[br]
+// あよん。
+Ouch![br]
+*sniff*
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x48
+#STARTMSG(0x1C4D9, 14, 1)
+
+// いたいッ！！[br]
+// あよーん。
+OUCH![br]
+*sob*
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x49
+#STARTMSG(0x1C4E7, 14, 1)
+
+// いたさの[br]
+// ホームランっ！
+Okay,[br]
+that was seriously painful!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x4A
+#STARTMSG(0x1C4F5, 9, 1)
+
+// ダメージ！
+That HURT!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x4B
+#STARTMSG(0x1C4FE, 15, 1)
+
+// おおきな[br]
+// ダメージっ！
+Took some major damage!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x4C
+#STARTMSG(0x1C50D, 22, 1)
+
+// きょだいな[br]
+// しょうげきを[br]
+// くらった。
+Took some very serious big damage!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x4D
+#STARTMSG(0x1C523, 19, 1)
+
+// ばくれつな[br]
+// だいダメージ！
+Explosive damage!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x4E
+#STARTMSG(0x1C536, 21, 1)
+
+// げッ！[br]
+// ないぞうを[br]
+// はいちゃうよ。
+Blargh![br]
+You almost spit your stomach out!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x4F
+#STARTMSG(0x1C54B, 24, 1)
+
+// げげッ！[br]
+// げきつう[br]
+// じごくだッ！
+Urgh![br]
+This hurts like hell!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x50
+#STARTMSG(0x1C563, 22, 1)
+
+// もうれつ[br]
+// きょだい[br]
+// ダメージっ！！
+It's a flurry of pain!!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x51
+#STARTMSG(0x1C579, 25, 1)
+
+// もう　だめェ。[br]
+// ほとんど[br]
+// ばたんきゅー。
+No more...[br]
+I'm just about done for...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x52
+#STARTMSG(0x1C592, 7, 1)
+
+// よけたッ。
+Dodged.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x53
+#STARTMSG(0x1C599, 9, 1)
+
+// ずっこけた。
+Tripped.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x54
+#STARTMSG(0x1C5A2, 14, 1)
+
+// れんぞく[br]
+// こうげき！
+Another attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x55
+#STARTMSG(0x1C5B0, 11, 1)
+
+// だいだげきッ！
+Critical hit!
+[end]
+
+#ENDMSG()
+
+// script 0-0x56
+#STARTMSG(0x1C5BB, 7, 1)
+
+// わぁーい！
+Yaay!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x57
+#STARTMSG(0x1C5C2, 22, 1)
+
+// だめだァ。[br]
+// ボク[br]
+// ばたんきゅー。
+Oh no...[br]
+Lights out for me...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x58
+#STARTMSG(0x1C5D8, 17, 1)
+
+// うひょーい[br]
+// レベルアップ！
+Yippee![br]
+Level up!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x59
+#STARTMSG(0x1C5E9, 13, 1)
+
+// けいかいな[br]
+// うごき。
+Rhythmic movements.
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 0-0x5A
+#STARTMSG(0x1C5F6, 14, 1)
+
+// ちからが[br]
+// みなぎる。
+Power wells up.
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 0-0x5B
+#STARTMSG(0x1C604, 18, 1)
+
+// なんだか[br]
+// タフそーな[br]
+// まもの。
+Looks like a tough one.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x5C
+#STARTMSG(0x1C616, 13, 1)
+
+// すごい[br]
+// いあつかん。
+This one's super intimidating.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x5D
+#STARTMSG(0x1C623, 11, 1)
+
+// おお[br]
+// そのことば
+Ohh![br]
+That word...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x5E
+#STARTMSG(0x1C62E, 18, 1)
+
+// まものは[br]
+// かんどう[br]
+// している。
+The monster is deeply moved.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x5F
+#STARTMSG(0x1C640, 39, 1)
+
+// ドラゴンの[br]
+// げんえいに[br]
+// つつまれる。[br]
+// まものの[br]
+// けはいが[br]
+// きえた。
+You're[br]
+enveloped in[br]
+an illusion-[br]
+ary dragon.
+[wait]
+The pres-[br]
+ence of monsters disappears.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x60
+#STARTMSG(0x1C667, 43, 1)
+
+// ドラゴンの[br]
+// げんえいが[br]
+// きえた。[br]
+// まものの[br]
+// しのびよる[br]
+// けはいがする。
+The illusion-[br]
+ary dragon vanishes.
+[wait]
+You feel the presence of monsters.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x61
+#STARTMSG(0x1C692, 40, 1)
+
+// ふぅ。[br]
+// ああ　とても[br]
+// たのしかった。
+Whew...[br]
+Ah, what fun.
+[wait]
+
+// やっぱり[br]
+// おどるって[br]
+// さいこーッ！
+Dancing really is the best!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x62
+#STARTMSG(0x1C6BA, 57, 1)
+
+// はぁはぁ[br]
+// ぜぇぜぇ[br]
+// ひぃひぃ…
+*huff*[br]
+*pant*[br]
+*wheeze*...
+[wait]
+
+// すんごく[br]
+// つかれたけど[br]
+// なんか[br]
+// じゅーじつした[br]
+// じかんでした。
+I'm totally wiped out,
+[wait]
+but that was time well spent!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x63
+#STARTMSG(0x1C6F3, 17, 1)
+
+// いまは、[br]
+// なにも[br]
+// おこらない。
+Nothing will happen right now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x64
+#STARTMSG(0x1C704, 23, 1)
+
+// かみなりで[br]
+// なんだか[br]
+// シビれるなあ。
+You tingle a little from the light-[br]
+ning.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x65
+#STARTMSG(0x1C71B, 18, 1)
+
+// ネバネバで[br]
+// きもちわるい。
+The slime makes you feel gross.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x66
+#STARTMSG(0x1C72D, 14, 1)
+
+// ちょっと[br]
+// うっとーしい。
+You're feeling a little down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x67
+#STARTMSG(0x1C73B, 11, 1)
+
+// みみに[br]
+// ひびく。
+It echoes in your ears.
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 0-0x68
+#STARTMSG(0x1C746, 36, 1)
+
+// 『きゃああッ！
+{Eeek!}
+[wait]
+
+// スカートが[br]
+// きになって
+You mind your skirt,
+[wait]
+
+// うごきが[br]
+// かたくなる。
+making your movements stiff.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x69
+#STARTMSG(0x1C76A, 17, 1)
+
+// 『わわわあッ！[br]
+// かじるなッ。
+{Waaaah![br]
+Don't bite me!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x6A
+#STARTMSG(0x1C77B, 22, 1)
+
+// うぅ。[br]
+// ドクがまわるぅ[br]
+// くらくらぁ。
+Uggh...[br]
+You're inflicted with poison.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x6B
+#STARTMSG(0x1C791, 27, 1)
+
+// ああ[br]
+// とてもねむい。
+Agh, I'm so sleepy...
+[wait]
+
+// ガマンできない[br]
+// ねるぅ…
+I can't take it any more...
+[wait]
+I'm going to[br]
+fall asleep..[small_period]
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x6C
+#STARTMSG(0x1C7AC, 21, 1)
+
+// ぐーぐー。[br]
+// もう[br]
+// たべられないよ
+ZZZ... ZZZ... No, I can't eat any more...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x6D
+#STARTMSG(0x1C7C1, 16, 1)
+
+// むにゃむにゃ。[br]
+// あと５ふん…
+Mmph... Mmmm... Just five more minutes...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x6E
+#STARTMSG(0x1C7D1, 19, 1)
+
+// すやすや。[br]
+// おかあさん[br]
+// おかわり…
+ZZZ... ZZZ... Can I have seconds, Mommy...?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x6F
+#STARTMSG(0x1C7E4, 23, 1)
+
+// はッ！　ねてる[br]
+// ばあいじゃ[br]
+// なかった！
+*gasp*![br]
+This is no time to be sleeping!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 0-0x70
+#STARTMSG(0x1C7FB, 11, 1)
+
+// にっきを[br]
+// つけるね。
+I should update my journal.
+[end]
+
+#ENDMSG()
+
+// script 0-0x71
+#STARTMSG(0x1C806, 17, 1)
+
+// にっきに[br]
+// かきこんで[br]
+// いいの？
+Will you update your journal?
+[end]
+
+#ENDMSG()
+
+// script 0-0x72
+#STARTMSG(0x1C817, 15, 1)
+
+// にっきに[br]
+// かきこんだよ。
+You updated your journal.
+[wait]
+[end]
+
+#ENDMSG()
+
+#ENDREGION(0)
+
+//===========================================================
+// Region 1
+//===========================================================
+
+#STARTREGION(1)
+
+// script 1-0x0
+#STARTMSG(0x1C90C, 14, 1)
+
+// もりの[br]
+// マップをみます
+View map of the forest.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x1
+#STARTMSG(0x1C91A, 17, 1)
+
+// もりのちかの[br]
+// マップをみます
+View map of the forest under-[br]
+ground.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x2
+#STARTMSG(0x1C92B, 16, 1)
+
+// ようさいの[br]
+// マップをみます
+View map of the fortress.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x3
+#STARTMSG(0x1C93B, 15, 1)
+
+// じゅもんを[br]
+// となえます。
+Cast a spell.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x4
+#STARTMSG(0x1C94A, 19, 1)
+
+// もってる[br]
+// アイテムを[br]
+// つかいます。
+Use a held item.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x5
+#STARTMSG(0x1C95D, 22, 1)
+
+// いまの[br]
+// じょうたいを[br]
+// セーブします。
+Save current progress.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x6
+#STARTMSG(0x1C973, 16, 1)
+
+// ダッシュで[br]
+// にげます。
+Make a run for it.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x7
+#STARTMSG(0x1C983, 18, 1)
+
+// ソクラテスに[br]
+// めいれい[br]
+// します。
+Give orders to Socrates.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x8
+#STARTMSG(0x1C995, 34, 1)
+
+// 『ヒーリング』[br]
+// の　じゅもん
+{Healing} Spell
+[wait]
+
+// たいりょくが[br]
+// かいふくします
+Restores health.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x9
+#STARTMSG(0x1C9B7, 41, 1)
+
+// 『イリュー[br]
+// 　　ジョン』の[br]
+// じゅもん
+{Illusion} Spell
+[wait]
+
+// マモノと[br]
+// であいにくく[br]
+// なります。
+Makes you[br]
+less likely[br]
+to encounte[small_r] monsters.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0xA
+#STARTMSG(0x1C9E0, 36, 1)
+
+// 『ファイヤー』[br]
+// の　じゅもん
+{Fire} Spell
+[wait]
+
+// もえもえの[br]
+// ほのおの[br]
+// まほうです。
+This is a fiery flame magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0xB
+#STARTMSG(0x1CA04, 39, 1)
+
+// 『アイス[br]
+// 　ストーム』の[br]
+// じゅもん
+{Ice Storm} Spell
+[wait]
+
+// つめたーい[br]
+// こおりの[br]
+// まほうです。
+This is frrrrigid ice magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0xC
+#STARTMSG(0x1CA2B, 44, 1)
+
+// 『ライト[br]
+// 　　ニング』の[br]
+// じゅもん
+{Lightning} Spell
+[wait]
+
+// ビリビリの[br]
+// いかずちの[br]
+// まほうです。
+This is shocking thunderbolt magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0xD
+#STARTMSG(0x1CA57, 26, 1)
+
+// 『おどる』
+{Dance}
+[wait]
+
+// レッツ[br]
+// ダンシング！[br]
+// します。
+Makes you go {Let's dance!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0xE
+#STARTMSG(0x1CA71, 41, 1)
+
+// 『ダイア[br]
+// 　　キュート』
+// の　じゅもん
+{Diacute} Spell
+[wait]
+
+// まりょくを[br]
+// ばいぞう[br]
+// させます。
+Makes the next spell twice as effective.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0xF
+#STARTMSG(0x1CA9A, 39, 1)
+
+// 『ばよえーん』[br]
+// の　じゅもん
+{Bayoen} Spell
+[wait]
+
+// かんどうの[br]
+// あらしが[br]
+// ふきあれます。
+Ravages with a storm of emotion.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x10
+#STARTMSG(0x1CAC1, 37, 1)
+
+// 『アイテム[br]
+// 　　　ぶくろ』
+{Item Bag}
+[wait]
+
+// アイテムが[br]
+// いっぱい[br]
+// はいる　ふくろ
+A bag you can fill chock full of items.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x11
+#STARTMSG(0x1CAE6, 41, 1)
+
+// 『ふくぶくろ』
+{Mystery[br]
+[space8px][space8px][space8px][space8px][space3px]Bag}
+[wait]
+
+// なにが[br]
+// はいってるのか[br]
+// わからない
+You don't know what could be inside.
+[wait]
+
+// おたのしみ[br]
+// ぶくろ。
+How excit-[br]
+ing!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x12
+#STARTMSG(0x1CB0F, 31, 1)
+
+// 『らっきょ』
+{Veggies}
+[wait]
+
+// たいりょくが[br]
+// すこしだけ[br]
+// かいふくする。
+Restore just a tiny bit of health.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x13
+#STARTMSG(0x1CB2E, 37, 1)
+
+// 『ふくじん[br]
+// 　　　　づけ』
+{Pickles}
+[wait]
+
+// たいりょくが[br]
+// かなり[br]
+// かいふくする。
+Restore a fair bit of health.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x14
+#STARTMSG(0x1CB53, 35, 1)
+
+// 『カレー[br]
+// 　　　ライス』
+{Curry}
+[wait]
+
+// たいりょくが[br]
+// すべて[br]
+// かいふくする。
+Fully restores health.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x15
+#STARTMSG(0x1CB76, 39, 1)
+
+// 『せんにん[br]
+// 　　　　ザケ』
+{Wizard[br]
+[space8px][space8px][space8px][space8px]Wine}
+[wait]
+
+// まどうりょくが[br]
+// ちょっと[br]
+// かいふくする。
+Restores a little bit of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x16
+#STARTMSG(0x1CB9D, 33, 1)
+
+// 『まどうザケ』
+{Magic[br]
+[space8px][space8px][space8px]Liquor}
+[wait]
+
+// まどうりょくが[br]
+// かなり[br]
+// かいふくする。
+Restores a fair bit of magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x17
+#STARTMSG(0x1CBBE, 33, 1)
+
+// 『もももザケ』
+{Momomo[br]
+[space8px][space8px][space8px][space6px]Sake}
+[wait]
+
+// まどうりょくが[br]
+// すべて[br]
+// かいふくする。
+Fully restores magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x18
+#STARTMSG(0x1CBDF, 47, 1)
+
+// 『りゅうの[br]
+// 　　　　ツメ』
+{Dragon[br]
+[space8px][space8px][space8px][space7px]Claw}
+[wait]
+
+// たいりょくと[br]
+// まどうりょくが
+Restores magic and health by a tiny bit.
+[wait]
+
+// ちょっぴり[br]
+// かいふくする。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x19
+#STARTMSG(0x1CC0E, 45, 1)
+
+// 『りゅうの[br]
+// 　　　しっぽ』
+{Dragon[br]
+[space8px][space8px][space8px][space8px][space4px]Tail}
+[wait]
+
+// たいりょくと[br]
+// まどうりょくが
+Restores a fair bit of magic and health.
+[wait]
+
+// かなり[br]
+// かいふくする。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x1A
+#STARTMSG(0x1CC3B, 45, 1)
+
+// 『りゅうの[br]
+// 　　　　ツノ』
+{Dragon[br]
+[space8px][space8px][space8px][space6px]Horn}
+[wait]
+
+// たいりょくと[br]
+// まどうりょくが
+Fully restores magic and health.
+[wait]
+
+// すべて[br]
+// かいふくする。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x1B
+#STARTMSG(0x1CC68, 35, 1)
+
+// 『のうてん[br]
+// 　　　ぐさ』
+{Vigor[br]
+[space8px][space8px][space8px][space1px]Herbs}
+[wait]
+
+// だいだげきが[br]
+// でやすくなる。
+Make it easier to get a critical hit.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x1C
+#STARTMSG(0x1CC8B, 33, 1)
+
+// 『いだてん[br]
+// 　　　　ぐさ』
+{Swift[br]
+[space8px][space8px][space8px][space1px]Herbs}
+[wait]
+
+// うごきが[br]
+// すばやくなる。
+Make your movements faster.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x1D
+#STARTMSG(0x1CCAC, 38, 1)
+
+// 『めんたま[br]
+// 　　　　ぐさ』
+{Focus[br]
+[space8px][space8px][space8px][space1px]Herbs}
+[wait]
+
+// こうげきが[br]
+// しっぱい[br]
+// しにくくなる。
+Make you less likely to miss.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x1E
+#STARTMSG(0x1CCD2, 27, 1)
+
+// 『ドクけし[br]
+// 　そう』
+{Antidote[br]
+[space8px][space8px][space8px][space1px]Herbs}
+[wait]
+
+// たいないの[br]
+// ドクをけす。
+Remove all poison.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x1F
+#STARTMSG(0x1CCED, 39, 1)
+
+// 『おうごん[br]
+// 　　　リンゴ』
+{Golden[br]
+[space8px][space8px][space8px][space3px]Apple}
+[wait]
+
+// ひかりかがやく[br]
+// めずらしい[br]
+// リンゴ。
+A rare, shiny apple.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x20
+#STARTMSG(0x1CD14, 34, 1)
+
+// 『セイレーンの[br]
+// 　　　　や』
+{Siren's[br]
+[space8px][space8px][space8px]Arrow}
+[wait]
+
+// ささると[br]
+// のーみそぷーに[br]
+// なる。
+Makes the target's brain stop working.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x21
+#STARTMSG(0x1CD36, 33, 1)
+
+// 『ぷよまん』
+{Puyoman}
+[wait]
+
+// ぷよぷよの[br]
+// かたちをした[br]
+// おまんじゅう。
+Steamed cake shaped like a Puyo.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x22
+#STARTMSG(0x1CD57, 23, 1)
+
+// 『ゲロゲーロ』
+{Ribbitur}
+[wait]
+
+// でんせつの[br]
+// まけん。
+A legendary enchanted sword.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x23
+#STARTMSG(0x1CD6E, 29, 1)
+
+// 『いのちづな』
+{Lifeline}
+[wait]
+
+// とっても[br]
+// じょーぶな[br]
+// ロープ。
+A very sturdy rope.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x24
+#STARTMSG(0x1CD8B, 32, 1)
+
+// 『バッテリー』
+{Battery}
+[wait]
+
+// ソクラテスの[br]
+// ビリビリする[br]
+// ごはん。
+A shocking meal for Socrates.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x25
+#STARTMSG(0x1CDAB, 115, 1)
+
+// 『まどう[br]
+// 　　　リボン』
+{Sorcery[br]
+[space8px][space8px][space7px]Ribbon}
+[wait]
+
+// これで[br]
+// ソクラテスに[br]
+// めいれいする。[br]
+// ふだんは[br]
+// らくらく[br]
+// いどうの[br]
+// ビーグル[br]
+// システム。
+You can command Socrates with this.
+[wait]
+Normally, it activates the Beagle System
+[wait]
+for easy travel.
+[wait]
+
+// せんとうでは[br]
+// まどうりょくを[br]
+// ぞうふくして[br]
+// きょうりょくな[br]
+// まどうほうを[br]
+// はっしゃする。
+In battle, it amplifies magic and fires
+[wait]
+the powerfu[small_l] Sorcery Cannon.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x26
+#STARTMSG(0x1CE1E, 27, 1)
+
+// 『くろいハコ』
+{Black Box}
+[wait]
+
+// いわゆる[br]
+// ブラック[br]
+// ボックス。
+Just as it says: a black box.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x27
+#STARTMSG(0x1CE39, 31, 1)
+
+// 『さびとり』
+{Rust[br]
+[space8px][space5px]Remover}
+[wait]
+
+// しつこい[br]
+// さびも　これで[br]
+// いっぱつ。
+Removes stubborn rust in one fell swoop.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x28
+#STARTMSG(0x1CE58, 23, 1)
+
+// 『オイル』
+{Oil}
+[wait]
+
+// こうきゅうな[br]
+// きかいあぶら。
+High-grade machine oil.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x29
+#STARTMSG(0x1CE6F, 26, 1)
+
+// 『いしころ』
+{Stone}
+[wait]
+
+// ふつーのいし[br]
+// おもしに[br]
+// なりそう。
+Seems like a typical stone weight.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x2A
+#STARTMSG(0x1CE89, 15, 1)
+
+// 『カギ　たば』[br]
+// いまは
+{Key Ring}
+[wait]
+Right now, I have...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x2B
+#STARTMSG(0x1CE98, 27, 1)
+
+// 『ポシェット』
+{Pochette}
+[wait]
+
+// へんな[br]
+// かたちをした[br]
+// いれもの。
+A strangely-[br]
+shaped container.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x2C
+#STARTMSG(0x1CEB3, 30, 1)
+
+// 『しろ[br]
+// 　　てぶくろ』
+{White[br]
+[space8px][space8px][space3px]Mittens}
+[wait]
+
+// ちょっぴり[br]
+// つよく[br]
+// なれる。
+Make you a bit stronger[small_period]
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x2D
+#STARTMSG(0x1CED1, 9, 1)
+
+// をもっている。
+That's all of them.
+[wait]
+[end]
+// end of the message for examining the key ring,
+// displayed after showing the names of all the
+// keys you're carrying
+
+#ENDMSG()
+
+// script 1-0x2E
+#STARTMSG(0x1CEDA, 9, 1)
+
+// ぎんのカギ
+Silver Key
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x2F
+#STARTMSG(0x1CEE3, 9, 1)
+
+// カエルのカギ
+Frog Key
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x30
+#STARTMSG(0x1CEEC, 9, 1)
+
+// さびたカギ
+Rusty Key
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x31
+#STARTMSG(0x1CEF5, 8, 1)
+
+// ツメのカギ
+Claw Key
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x32
+#STARTMSG(0x1CEFD, 8, 1)
+
+// ひかるカギ
+Shiny Key
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x33
+#STARTMSG(0x1CF05, 8, 1)
+
+// くろいカギ
+Black Key
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 1-0x34
+#STARTMSG(0x1CF0D, 16, 1)
+
+// なぞの[br]
+// コマンドです。
+A mysterious command.
+[wait]
+[end]
+
+#ENDMSG()
+
+#ENDREGION(1)
+
+//===========================================================
+// Region 2
+//===========================================================
+
+#STARTREGION(2)
+
+// script 2-0x0
+#STARTMSG(0x1CF87, 16, 1)
+
+// ばたんきゅー[br]
+// すんぜん。
+On the brink of falling.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x1
+#STARTMSG(0x1CF97, 15, 1)
+
+// そろそろ[br]
+// ばたんきゅー。
+Pretty much knocked out.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x2
+#STARTMSG(0x1CFA6, 16, 1)
+
+// もうじき[br]
+// ばたんきゅー。
+Almost out cold.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x3
+#STARTMSG(0x1CFB6, 11, 1)
+
+// ぼろぼろだ。
+Worn out.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x4
+#STARTMSG(0x1CFC1, 9, 1)
+
+// へろへろだ。
+Exhausted.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x5
+#STARTMSG(0x1CFCA, 9, 1)
+
+// ふらふらだ。
+Feeling dizzy.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x6
+#STARTMSG(0x1CFD3, 13, 1)
+
+// きょだつ[br]
+// している。
+Getting worn down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x7
+#STARTMSG(0x1CFE0, 17, 1)
+
+// くそォ、って[br]
+// ひょうじょう。
+Not so hot.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x8
+#STARTMSG(0x1CFF1, 20, 1)
+
+// まだまだ、って[br]
+// ひょうじょう。
+Can keep going.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x9
+#STARTMSG(0x1D005, 18, 1)
+
+// やるなァ、って[br]
+// ひょうじょう。
+Feeling alright.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0xA
+#STARTMSG(0x1D017, 7, 1)
+
+// げんき！
+Feeling good!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0xB
+#STARTMSG(0x1D01E, 13, 1)
+
+// げんき、[br]
+// げんき！
+Feeling super good!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0xC
+#STARTMSG(0x1D02B, 19, 1)
+
+// げんき、[br]
+// げんき、[br]
+// げんき！
+Feeling super duper good!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0xD
+#STARTMSG(0x1D03E, 11, 1)
+
+// はないき[br]
+// あらい！
+Raring to go!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0xE
+#STARTMSG(0x1D049, 14, 1)
+
+// きはく[br]
+// じゅうぶん！
+Plenty of vigor!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0xF
+#STARTMSG(0x1D057, 19, 1)
+
+// とうしまんまん[br]
+// げんきすぎる！
+Eager to fight!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x10
+#STARTMSG(0x1D06A, 11, 1)
+
+// ほんのり[br]
+// いたい。
+It didn't do much.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x11
+#STARTMSG(0x1D075, 11, 1)
+
+// ちょっと[br]
+// いたい。
+It hurt a little bit.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x12
+#STARTMSG(0x1D080, 6, 1)
+
+// いたい。
+It hurt a bit.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x13
+#STARTMSG(0x1D086, 7, 1)
+
+// いたいッ！
+That hurt!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x14
+#STARTMSG(0x1D08D, 12, 1)
+
+// とっても[br]
+// いたいッ！
+That hurt a lot!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x15
+#STARTMSG(0x1D099, 18, 1)
+
+// すっごく[br]
+// だいダメージ！
+That was some Big Damage!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x16
+#STARTMSG(0x1D0AB, 22, 1)
+
+// スペシャル[br]
+// きょだい[br]
+// ダメージ！
+That was some VERY Big Damage!!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x17
+#STARTMSG(0x1D0C1, 24, 1)
+
+// ちょうウルトラ[br]
+// きょだい[br]
+// ダメージっ！
+ULTRA MEGA[br]
+BIG[space3px]DAMAGE!![small_exclamation]
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x18
+#STARTMSG(0x1D0D9, 12, 1)
+
+// だいだげきッ！
+Critical hit!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x19
+#STARTMSG(0x1D0E5, 14, 1)
+
+// あかぷよ[br]
+// ふってきた。
+A Red Puyo drops in.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x1A
+#STARTMSG(0x1D0F3, 20, 1)
+
+// ぷよぷよ[br]
+// レッド[br]
+// アターック！
+Puyo Puyo Red Attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x1B
+#STARTMSG(0x1D107, 18, 1)
+
+// ネバネバえきを[br]
+// はきだす。
+It spits out a slimy fluid.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x1C
+#STARTMSG(0x1D119, 15, 1)
+
+// あかぷよ[br]
+// ばたんきゅー。
+The Red Puyo pops.
+[end]
+
+#ENDMSG()
+
+// script 2-0x1D
+#STARTMSG(0x1D128, 25, 1)
+
+// とべないトリ[br]
+// あしをひきずり[br]
+// あらわれる。
+A Flightless Bird shows up, dragging its[space3px]leg[space3px]along.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x1E
+#STARTMSG(0x1D141, 15, 1)
+
+// てっきゅう[br]
+// こうげきッ！
+Iron ball attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x1F
+#STARTMSG(0x1D150, 37, 1)
+
+// あわてないで[br]
+// ちょっと[br]
+// ひとやすみ。
+It takes it easy for a bit.
+[wait]
+
+// たいりょくが[br]
+// かいふくした。
+Its health recovers.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x20
+#STARTMSG(0x1D175, 17, 1)
+
+// とべないトリ[br]
+// ばたんきゅー。
+This Flight-[br]
+less Bird's a total dodo.
+[end]
+
+#ENDMSG()
+
+// script 2-0x21
+#STARTMSG(0x1D186, 19, 1)
+
+// ビッグペッカー[br]
+// まいおりる。
+A Big Pecker swoops down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x22
+#STARTMSG(0x1D199, 13, 1)
+
+// いたい[br]
+// くちばしッ！
+Beak of pain!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x23
+#STARTMSG(0x1D1A6, 23, 1)
+
+// ものすごい[br]
+// いきおいで[br]
+// きを　つつく。
+It pecks a tree with tremendous force.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x24
+#STARTMSG(0x1D1BD, 19, 1)
+
+// つついていた[br]
+// きが[br]
+// たおれるッ！
+The tree it pecked falls!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x25
+#STARTMSG(0x1D1D0, 20, 1)
+
+// ビッグペッカー[br]
+// ばたんきゅー。
+The Big Pecker pecks itself out.
+[end]
+
+#ENDMSG()
+
+// script 2-0x26
+#STARTMSG(0x1D1E4, 23, 1)
+
+// ソードビースト[br]
+// くるりと[br]
+// わをかいた。
+A Sword Beast spins around in a circle.
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 2-0x27
+#STARTMSG(0x1D1FB, 16, 1)
+
+// するどいカマを[br]
+// ふるうッ！
+It swings its sharp scythes!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x28
+#STARTMSG(0x1D20B, 19, 1)
+
+// ソードビースト[br]
+// ばたんきゅー。
+The Sword Beast's lost its edge.
+[end]
+
+#ENDMSG()
+
+// script 2-0x29
+#STARTMSG(0x1D21E, 25, 1)
+
+// パペットナイト[br]
+// さっそうと[br]
+// とうじょう。
+Enter a Puppet Knight, gallantly.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x2A
+#STARTMSG(0x1D237, 19, 1)
+
+// てつのつるぎで[br]
+// こうげきッ！
+It attacks with its iron sword!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x2B
+#STARTMSG(0x1D24A, 20, 1)
+
+// こんしんの[br]
+// いちげきを[br]
+// はなつッ！
+It focuses all its might into one blow!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x2C
+#STARTMSG(0x1D25E, 19, 1)
+
+// パペットナイト[br]
+// ばたんきゅー。
+Exit the Puppet Knight.
+[end]
+
+#ENDMSG()
+
+// script 2-0x2D
+#STARTMSG(0x1D271, 15, 1)
+
+// ハイ・フラワー[br]
+// でたァ。
+A High Flower appears.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x2E
+#STARTMSG(0x1D280, 16, 1)
+
+// じょうろで[br]
+// なぐるッ！
+It hits you with its watering can!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x2F
+#STARTMSG(0x1D290, 24, 1)
+
+// あたまから[br]
+// じょうろの[br]
+// みずをかぶる。
+It pours water from the can onto its head.
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 2-0x30
+#STARTMSG(0x1D2A8, 20, 1)
+
+// あたまから[br]
+// かふんを[br]
+// まきちらすッ！
+It scatters pollen from its head!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x31
+#STARTMSG(0x1D2BC, 17, 1)
+
+// ハイ・フラワー[br]
+// ばたんきゅー。
+The High Flower goes bye-bye.
+[end]
+
+#ENDMSG()
+
+// script 2-0x32
+#STARTMSG(0x1D2CD, 17, 1)
+
+// スプリガン[br]
+// わいてでた。
+A Spriggan springs out.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x33
+#STARTMSG(0x1D2DE, 13, 1)
+
+// むてきな[br]
+// アッパー！
+Invincible upper!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x34
+#STARTMSG(0x1D2EB, 17, 1)
+
+// せいれいきゅう[br]
+// こうげきッ！
+Spirit ball attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x35
+#STARTMSG(0x1D2FC, 17, 1)
+
+// たいりょくが[br]
+// かいふくした。
+Its health recovers.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x36
+#STARTMSG(0x1D30D, 17, 1)
+
+// スプリガン[br]
+// ばたんきゅー。
+The Spri-[br]
+ggan's sprung a leak.
+[end]
+
+#ENDMSG()
+
+// script 2-0x37
+#STARTMSG(0x1D31E, 22, 1)
+
+// かたぷよ[br]
+// ズルズルと[br]
+// はってきた。
+A Hard Puyo slowly creeps in.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x38
+#STARTMSG(0x1D334, 15, 1)
+
+// ダッシュ[br]
+// こうげきッ！
+Dash attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x39
+#STARTMSG(0x1D343, 29, 1)
+
+// ファイヤーを[br]
+// はじいた！
+The Fire is repelled!
+[wait]
+
+// ぜんぜん[br]
+// きいてない。
+It had no effect at all.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x3A
+#STARTMSG(0x1D360, 15, 1)
+
+// かたぷよ[br]
+// ばたんきゅー。
+The Hard Puyo's gone soft.
+[end]
+
+#ENDMSG()
+
+// script 2-0x3B
+#STARTMSG(0x1D36F, 19, 1)
+
+// サテュロス[br]
+// ようきに[br]
+// あらわれた。
+A Satyr enters merrily.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x3C
+#STARTMSG(0x1D382, 18, 1)
+
+// ひづめキックが[br]
+// さくれつッ！
+An explosive hoof kick!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x3D
+#STARTMSG(0x1D394, 12, 1)
+
+// ふえを[br]
+// ふきならす。
+It plays its flute.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x3E
+#STARTMSG(0x1D3A0, 15, 1)
+
+// サテュロス[br]
+// ばたんきゅー。
+The Satyr pipes down.
+[end]
+
+#ENDMSG()
+
+// script 2-0x3F
+#STARTMSG(0x1D3AF, 20, 1)
+
+// エレメンタル[br]
+// ほのおより[br]
+// いでる。
+An Elemental emerges in flames.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x40
+#STARTMSG(0x1D3C3, 15, 1)
+
+// ほのおのたまを[br]
+// はなつッ！
+It shoots fireballs!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x41
+#STARTMSG(0x1D3D2, 57, 1)
+
+// ファイヤーを[br]
+// くちいっぱいに[br]
+// ほおばる。
+It stuffs the Fire in its mouth.
+[wait]
+
+// たいりょくが[br]
+// かいふくした。
+Its health recovers.
+[wait]
+
+// さらに[br]
+// はげしく[br]
+// もえさかる。
+It blazes even more fiercely.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x42
+#STARTMSG(0x1D40B, 16, 1)
+
+// エレメンタル[br]
+// ばたんきゅー。
+The Elemen-[br]
+tal is out of its element.
+[end]
+
+#ENDMSG()
+
+// script 2-0x43
+#STARTMSG(0x1D41B, 15, 1)
+
+// スキュラ[br]
+// たちふさがる。
+Scylla stands in your way.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x44
+#STARTMSG(0x1D42A, 14, 1)
+
+// はげしく[br]
+// とっしんッ！
+A fierce rush!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x45
+#STARTMSG(0x1D438, 7, 1)
+
+// かむわよぉ
+It's chewin' time!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x46
+#STARTMSG(0x1D43F, 18, 1)
+
+// あしのまわりで[br]
+// じゃれつく。
+She twines playfully around your legs.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x47
+#STARTMSG(0x1D451, 14, 1)
+
+// スキュラ[br]
+// ばたんきゅー。
+Scylla becomes tame.
+[end]
+
+#ENDMSG()
+
+// script 2-0x48
+#STARTMSG(0x1D45F, 15, 1)
+
+// スケアクロウ[br]
+// つきささる。
+A Scarecrow sticks itself in.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x49
+#STARTMSG(0x1D46E, 16, 1)
+
+// おおガマ[br]
+// ブーメランっ！
+Boomerang scythe!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x4A
+#STARTMSG(0x1D47E, 16, 1)
+
+// スケアクロウ[br]
+// ばたんきゅー。
+The Scare-[br]
+crow was just a straw man.
+[end]
+
+#ENDMSG()
+
+// script 2-0x4B
+#STARTMSG(0x1D48E, 23, 1)
+
+// ドライアード[br]
+// いきなり[br]
+// はえてでた。
+A Dryad suddenly springs up.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x4C
+#STARTMSG(0x1D4A5, 18, 1)
+
+// かみをなびかせ[br]
+// おそいかかる。
+It attacks with its streaming hair.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x4D
+#STARTMSG(0x1D4B7, 18, 1)
+
+// じょうおうさま
+// の[br]
+// たかわらい。
+It laughs pompously.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x4E
+#STARTMSG(0x1D4C9, 18, 1)
+
+// ドライアード[br]
+// ばたんきゅー。
+The Dryad's all dried up.
+[end]
+
+#ENDMSG()
+
+// script 2-0x4F
+#STARTMSG(0x1D4DB, 24, 1)
+
+// アウルベア[br]
+// てつのツメで[br]
+// おそいかかる。
+An iron-[br]
+clawed Owl-[br]
+bear swoops down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x50
+#STARTMSG(0x1D4F3, 12, 1)
+
+// ツメが[br]
+// うなるっ。
+Its claws howl!
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 2-0x51
+#STARTMSG(0x1D4FF, 23, 1)
+
+// ガードを[br]
+// キャンセルして[br]
+// はんげき！
+It switches from a guard to a counter-[br]
+attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 2-0x52
+#STARTMSG(0x1D516, 16, 1)
+
+// アウルベア[br]
+// ばたんきゅー。
+The Owlbear can't bear it any more.
+[end]
+
+#ENDMSG()
+
+// script 2-0x53
+#STARTMSG(0x1D526, 22, 1)
+
+// リザードマン[br]
+// ケンカを[br]
+// うってきた。
+A Lizardman launches an attack.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x54
+#STARTMSG(0x1D53C, 23, 1)
+
+// トカゲりゅう[br]
+// ひけん[br]
+// しっぽぎりッ！
+Secret Lizardry technique: Tail Slice!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x55
+#STARTMSG(0x1D553, 22, 1)
+
+// トカゲりゅう[br]
+// おうぎ[br]
+// つららわりッ！
+Secret Lizardry art: Ice Cleave!
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 2-0x56
+#STARTMSG(0x1D569, 18, 1)
+
+// リザードマン[br]
+// ばたんきゅー。
+The Lizard-[br]
+man got taken out in cold blood.
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 2-0x57
+#STARTMSG(0x1D57B, 20, 1)
+
+// ロックイーター[br]
+// げんきに[br]
+// はねる。
+A Rock Eater springs up merrily.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x58
+#STARTMSG(0x1D58F, 14, 1)
+
+// がんせき[br]
+// ハンマーっ！
+Rock hammer!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x59
+#STARTMSG(0x1D59D, 38, 1)
+
+// そこらの[br]
+// いわをボリボリ[br]
+// たべる。
+It crunches down on the surrounding stones.
+[wait]
+
+// たいりょくが[br]
+// かいふくした。
+Its health recovers.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x5A
+#STARTMSG(0x1D5C3, 17, 1)
+
+// ロックイーター[br]
+// ばたんきゅー。
+The Rock Eater's not so rockin' now.
+[end]
+
+#ENDMSG()
+
+// script 2-0x5B
+#STARTMSG(0x1D5D4, 25, 1)
+
+// ちょっぷんＲ[br]
+// めをかがやかせ[br]
+// やってきた。
+Choppun-R comes over with a gleam in his eye.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x5C
+#STARTMSG(0x1D5ED, 16, 1)
+
+// ビシーっと[br]
+// チョップっ！
+He chops you with a THWACK!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x5D
+#STARTMSG(0x1D5FD, 21, 1)
+
+// でんこうせっか[br]
+// スカートを[br]
+// まくる。
+He turns up[br]
+your skirt[br]
+with lightnin[small_g][br]
+speed.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x5E
+#STARTMSG(0x1D612, 42, 1)
+
+// うしろに[br]
+// まわりこんで[br]
+// せなかであたる
+He circles around and hits you from behind.
+[wait]
+
+// 『これぞ[br]
+// ひっさつ[br]
+// よーしせんりん
+{This is the finisher! Piercing Sparrow!}
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 2-0x5F
+#STARTMSG(0x1D63C, 17, 1)
+
+// ちょっぷんＲ[br]
+// ばたんきゅー。
+We'll just pretend this never happened.
+[end]
+
+#ENDMSG()
+
+// script 2-0x60
+#STARTMSG(0x1D64D, 21, 1)
+
+// グール[br]
+// おもわず[br]
+// したなめずり。
+The Ghoul can't help but lick its lips.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x61
+#STARTMSG(0x1D662, 19, 1)
+
+// じごくのノック[br]
+// こうげきッ！
+Hell knock attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x62
+#STARTMSG(0x1D675, 21, 1)
+
+// よだれ[br]
+// ダラダラで[br]
+// かみつく。
+It snaps at you with its drooling maw.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x63
+#STARTMSG(0x1D68A, 14, 1)
+
+// グール[br]
+// ばたんきゅー。
+The Ghoul's aghast.
+[end]
+
+#ENDMSG()
+
+// script 2-0x64
+#STARTMSG(0x1D698, 24, 1)
+
+// リッチープアー[br]
+// いきなり[br]
+// ばけてでた。
+A Bankrypt suddenly haunts you.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x65
+#STARTMSG(0x1D6B0, 17, 1)
+
+// うらめしそうに[br]
+// こうげきッ！
+A reproach-[br]
+ful attack!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x66
+#STARTMSG(0x1D6C1, 19, 1)
+
+// いそがしく[br]
+// ３かい[br]
+// こうげきッ
+It busily attacks three times.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x67
+#STARTMSG(0x1D6D4, 18, 1)
+
+// リッチープアー[br]
+// ばたんきゅー。
+The Bank-[br]
+rypt's out of assets.
+[end]
+
+#ENDMSG()
+
+// script 2-0x68
+#STARTMSG(0x1D6E6, 20, 1)
+
+// リビングドール[br]
+// さそってきた。
+A Living Doll invites you over.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x69
+#STARTMSG(0x1D6FA, 15, 1)
+
+// ポカポカ[br]
+// なぐるッ！
+It pummels you with punches!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x6A
+#STARTMSG(0x1D709, 20, 1)
+
+// あやしい[br]
+// おどりを[br]
+// ひろうするッ！
+It fatigues you with its dastardly dance!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x6B
+#STARTMSG(0x1D71D, 20, 1)
+
+// リビングドール[br]
+// ばたんきゅー。
+The Living Doll's taken a fall.
+[end]
+
+#ENDMSG()
+
+// script 2-0x6C
+#STARTMSG(0x1D731, 15, 1)
+
+// ダイダロス[br]
+// おりたつ。
+A Daedalus alights.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x6D
+#STARTMSG(0x1D740, 9, 1)
+
+// かえんほうしゃ
+Flamethrow-[br]
+er.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x6E
+#STARTMSG(0x1D749, 34, 1)
+
+// おいうちで[br]
+// れんぞく[br]
+// こうげきッ！
+A string of cheap shots!
+[wait]
+
+// ３ヒット[br]
+// コンボっ！
+It's a three-hit combo!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x6F
+#STARTMSG(0x1D76B, 17, 1)
+
+// ダイダロス[br]
+// ばたんきゅー。
+The Daedalus flew too close to the sun.
+[end]
+
+#ENDMSG()
+
+// script 2-0x70
+#STARTMSG(0x1D77C, 23, 1)
+
+// サタンさまに[br]
+// げいげきの[br]
+// よういあり。
+Lord Satan's prepared an ambush.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x71
+#STARTMSG(0x1D793, 13, 1)
+
+// いかりの[br]
+// てっけんッ！
+Fist of rage!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x72
+#STARTMSG(0x1D7A0, 16, 1)
+
+// せっきょく[br]
+// じきづきッ！
+Precision assult!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x73
+#STARTMSG(0x1D7B0, 38, 1)
+
+// おやかたの[br]
+// ちょうかいふく[br]
+// のうりょく。
+Boss power: super recovery!
+[wait]
+
+// たいりょくが[br]
+// かいふくした。
+His health recovers.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x74
+#STARTMSG(0x1D7D6, 36, 1)
+
+// ばさばさと[br]
+// つばさが[br]
+// はばたく。
+He flaps his wings with a WHACK.
+[wait]
+
+// まほうを[br]
+// はじいたッ！
+Your magic is repelled!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 2-0x75
+#STARTMSG(0x1D7FA, 15, 1)
+
+// サタンさま[br]
+// ばたんきゅー。
+Lord Satan has been defeated.
+[end]
+
+#ENDMSG()
+
+#ENDREGION(2)
+
+//===========================================================
+// Region 3
+//===========================================================
+
+#STARTREGION(3)
+
+// script 3-0x0
+#STARTMSG(0x1D8F5, 5, 1)
+
+// ふふふ。
+Hm-hm-hm...
+[end]
+
+#ENDMSG()
+
+// script 3-0x1
+#STARTMSG(0x1D8FA, 10, 1)
+
+// ふふふ[br]
+// かうのね。
+Hm-hm-hm...[br]
+Will you be buying?
+[end]
+
+#ENDMSG()
+
+// script 3-0x2
+#STARTMSG(0x1D904, 16, 1)
+
+// ふふふ[br]
+// なにを[br]
+// うるのかなあ？
+Hm-hm-hm...[br]
+What are you selling?
+[end]
+
+#ENDMSG()
+
+// script 3-0x3
+#STARTMSG(0x1D914, 13, 1)
+
+// ふふふ[br]
+// もちすぎなのね
+Hm-hm-hm...[br]
+You're carrying too much.
+[end]
+
+#ENDMSG()
+
+// script 3-0x4
+#STARTMSG(0x1D921, 12, 1)
+
+// ふふふ[br]
+// もう　ないのね
+Hm-hm-hm...[br]
+There's no more of that.
+[end]
+
+#ENDMSG()
+
+// script 3-0x5
+#STARTMSG(0x1D92D, 18, 1)
+
+// ふふふ[br]
+// おかねが[br]
+// たりないのね。
+Hm-hm-hm...[br]
+You don't have enough money.
+[end]
+
+#ENDMSG()
+
+// script 3-0x6
+#STARTMSG(0x1D93F, 16, 1)
+
+// ふふふ[br]
+// それは[br]
+// いらないのね。
+Hm-hm-hm...[br]
+I don't want that.
+[end]
+
+#ENDMSG()
+
+// script 3-0x7
+#STARTMSG(0x1D94F, 6, 1)
+
+// もももー。
+Momomo.
+[end]
+
+#ENDMSG()
+
+// script 3-0x8
+#STARTMSG(0x1D955, 4, 1)
+
+// なに？
+Whaaat?
+[end]
+
+#ENDMSG()
+
+// script 3-0x9
+#STARTMSG(0x1D959, 5, 1)
+
+// どれ？
+Whiiich one?
+[end]
+
+#ENDMSG()
+
+// script 3-0xA
+#STARTMSG(0x1D95E, 7, 1)
+
+// もちすぎ。
+You're carrying too muuuch.
+[end]
+
+#ENDMSG()
+
+// script 3-0xB
+#STARTMSG(0x1D965, 6, 1)
+
+// うりきれ。
+Thaaat's sold out.
+[end]
+
+#ENDMSG()
+
+// script 3-0xC
+#STARTMSG(0x1D96B, 8, 1)
+
+// おかねふそく。
+Thaaat's not enough money.
+[end]
+
+#ENDMSG()
+
+// script 3-0xD
+#STARTMSG(0x1D973, 7, 1)
+
+// 金もらうー。
+Heeere you go.
+[end]
+
+#ENDMSG()
+
+// script 3-0xE
+#STARTMSG(0x1D97A, 9, 1)
+
+// ざんねんなのー
+Too baaad.
+[end]
+
+#ENDMSG()
+
+// script 3-0xF
+#STARTMSG(0x1D983, 8, 1)
+
+// それはダメ。
+I caaan't buy that.
+[end]
+
+#ENDMSG()
+
+// script 3-0x10
+#STARTMSG(0x1D98B, 7, 1)
+
+// 金はらうー。
+Heeere you go.
+[end]
+
+#ENDMSG()
+
+// script 3-0x11
+#STARTMSG(0x1D992, 11, 1)
+
+// いらっしゃい[br]
+// ませ。
+Welcome to my shop.
+[end]
+
+#ENDMSG()
+
+// script 3-0x12
+#STARTMSG(0x1D99D, 9, 1)
+
+// ごようけんは？
+May I help you?
+[end]
+
+#ENDMSG()
+
+// script 3-0x13
+#STARTMSG(0x1D9A6, 19, 1)
+
+// なにを[br]
+// おとりあつかい[br]
+// しましょう？
+What is it you'd like?
+[end]
+
+#ENDMSG()
+
+// script 3-0x14
+#STARTMSG(0x1D9B9, 17, 1)
+
+// ありがとう[br]
+// ございました。
+Thank you very much.
+[end]
+
+#ENDMSG()
+
+// script 3-0x15
+#STARTMSG(0x1D9CA, 19, 1)
+
+// これいじょう[br]
+// もちきれ[br]
+// ませんよ。
+You can't hold more than that.
+[end]
+
+#ENDMSG()
+
+// script 3-0x16
+#STARTMSG(0x1D9DD, 22, 1)
+
+// もうしわけ[br]
+// ありません。[br]
+// うりきれです。
+I am very sorry. That's sold out.
+[end]
+
+#ENDMSG()
+
+// script 3-0x17
+#STARTMSG(0x1D9F3, 12, 1)
+
+// 金が[br]
+// たりませんよ。
+You haven't enough money.
+[end]
+
+#ENDMSG()
+
+// script 3-0x18
+#STARTMSG(0x1D9FF, 16, 1)
+
+// ありがとう[br]
+// ございます。
+Thank you very much.
+[end]
+
+#ENDMSG()
+
+// script 3-0x19
+#STARTMSG(0x1DA0F, 10, 1)
+
+// ざんねんです。
+How unfor-[br]
+tunate.
+[end]
+
+#ENDMSG()
+
+// script 3-0x1A
+#STARTMSG(0x1DA19, 17, 1)
+
+// それは[br]
+// あつかって[br]
+// おりません。
+We do not deal in that ware.
+[end]
+
+#ENDMSG()
+
+// script 3-0x1B
+#STARTMSG(0x1DA2A, 8, 1)
+
+// いらしゃりーの
+C'mon in!
+[end]
+
+#ENDMSG()
+
+// script 3-0x1C
+#STARTMSG(0x1DA32, 10, 1)
+
+// なにに[br]
+// するーの？
+What's it gonna be?
+[end]
+
+#ENDMSG()
+
+// script 3-0x1D
+#STARTMSG(0x1DA3C, 10, 1)
+
+// なにを[br]
+// うりーの？
+Whatchu sellin'?
+[end]
+
+#ENDMSG()
+
+// script 3-0x1E
+#STARTMSG(0x1DA46, 9, 1)
+
+// ありがたーな。
+Thanks a bunch!
+[end]
+
+#ENDMSG()
+
+// script 3-0x1F
+#STARTMSG(0x1DA4F, 15, 1)
+
+// おおすぎて[br]
+// もてないーの。
+Yer carryin' too much to hold this.
+[end]
+
+#ENDMSG()
+
+// script 3-0x20
+#STARTMSG(0x1DA5E, 15, 1)
+
+// ごめーん。[br]
+// うりきれーの。
+Sorry, I'm all sold outta that.
+[end]
+
+#ENDMSG()
+
+// script 3-0x21
+#STARTMSG(0x1DA6D, 14, 1)
+
+// おかねが[br]
+// たりないーの。
+Yer kinda low on money there.
+[end]
+
+#ENDMSG()
+
+// script 3-0x22
+#STARTMSG(0x1DA7B, 8, 1)
+
+// うれしぃーの。
+Here ya go!
+[end]
+
+#ENDMSG()
+
+// script 3-0x23
+#STARTMSG(0x1DA83, 13, 1)
+
+// ちぇっ。[br]
+// つまんなーい。
+Tch. Whatever.
+[end]
+
+#ENDMSG()
+
+// script 3-0x24
+#STARTMSG(0x1DA90, 11, 1)
+
+// それ[br]
+// いらないーの。
+I ain't takin' that.
+[end]
+
+#ENDMSG()
+
+
+
+
+
+//=============================
+// NOTE: dummy entry. this was a pointer to RAM $C8BF in the original
+// script table, and was used for drawing certain strings with dynamically
+// inserted numbers, such as the prices shown in shops and the
+// sound test.
+// we've added opcodes that render this unnecessary, and patched
+// the code to use standard ROM strings instead.
+//=============================
+
+// script 3-0x25
+#STARTMSG(0x0, 0, 1)
+
+#ENDMSG()
+
+
+
+
+
+// script 3-0x26
+#STARTMSG(0x1DA9D, 15, 1)
+
+// でも、もう[br]
+// もちきれないよ
+But I can't carry any more.
+[end]
+
+#ENDMSG()
+
+// script 3-0x27
+#STARTMSG(0x1DAAC, 16, 1)
+
+// ほかのものを[br]
+// すてようかな？
+Should I throw something away?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 3-0x28
+#STARTMSG(0x1DABC, 8, 1)
+
+// これいらない。
+I don't need this.
+[end]
+
+#ENDMSG()
+
+// script 3-0x29
+#STARTMSG(0x1DAC4, 7, 1)
+
+// あきらめた。
+I'll give up on this.
+[end]
+
+#ENDMSG()
+
+// script 3-0x2A
+#STARTMSG(0x1DACB, 12, 1)
+
+// これは[br]
+// もったいないよ
+That'd be a waste.
+[end]
+// message if inventory is full and you try to throw out a key item
+ 
+#ENDMSG()
+
+// script 3-0x2B
+#STARTMSG(0x1DAD7, 27, 1)
+
+// これは[br]
+// ぜひとも[br]
+// ほしいなあ。
+I want this no matter what!
+[wait]
+
+// なんか[br]
+// すてよう。
+I'm gonna throw something away.
+[end]
+
+#ENDMSG()
+
+#ENDREGION(3)
+
+//===========================================================
+// Region 4
+//===========================================================
+
+#STARTREGION(4)
+
+
+#SETHEIGHT(5)
+
+
+// script 4-0x0
+#STARTMSG(0x1DB4A, 22, 1)
+
+// ようせいのもり[br]
+// みなみのはずれ[br]
+// だよ。
+Fairy[space3px]Forest[small_comma] Southern Outskirts
+[end]
+
+#ENDMSG()
+
+// script 4-0x1
+#STARTMSG(0x1DB60, 23, 1)
+
+// ようせいのもり[br]
+// ちゅうおう[br]
+// ひろばだよ。
+Fairy[space3px]Forest[small_comma] Central Clearing
+[end]
+
+#ENDMSG()
+
+// script 4-0x2
+#STARTMSG(0x1DB77, 25, 1)
+
+// ようせいのもり[br]
+// トリがいっぱい[br]
+// いるところ。
+Fairy[space3px]Forest[small_comma] Bird-Filled Area
+[end]
+
+#ENDMSG()
+
+// script 4-0x3
+#STARTMSG(0x1DB90, 23, 1)
+
+// ようせいのもり[br]
+// カエルいけが[br]
+// あるところ。
+Fairy[space3px]Forest[small_comma] Frog Pond Area
+[end]
+
+#ENDMSG()
+
+// script 4-0x4
+#STARTMSG(0x1DBA7, 25, 1)
+
+// ようせいのもり[br]
+// キリのいずみが[br]
+// あるところ。
+Fairy[space3px]Forest[small_comma] Fog Fountain Area
+[end]
+
+#ENDMSG()
+
+// script 4-0x5
+#STARTMSG(0x1DBC0, 25, 1)
+
+// ようせいのもり[br]
+// ひほうがねむる[br]
+// というところ。
+Fairy[space3px]Forest[small_comma] Rumored Hidden Treasure Area
+[end]
+
+#ENDMSG()
+
+// script 4-0x6
+#STARTMSG(0x1DBD9, 21, 1)
+
+// ようせいのもり[br]
+// きたのはずれ[br]
+// だよ。
+Fairy[space3px]Forest[small_comma] Northern Outskirts
+[end]
+
+#ENDMSG()
+
+// script 4-0x7
+#STARTMSG(0x1DBEE, 21, 1)
+
+// ようせいのもり[br]
+// りゅうさちたい[br]
+// だよ。
+Fairy[space3px]Forest[small_comma] Quicksand Area
+[end]
+
+#ENDMSG()
+
+// script 4-0x8
+#STARTMSG(0x1DC03, 14, 1)
+
+// もりのちか[br]
+// １かいだよ。
+Forest Un-[br]
+derground, Floor 1
+[end]
+
+#ENDMSG()
+
+// script 4-0x9
+#STARTMSG(0x1DC11, 14, 1)
+
+// もりのちか[br]
+// ２かいだよ。
+Forest Un-[br]
+derground, Floor 2
+[end]
+
+#ENDMSG()
+
+// script 4-0xA
+#STARTMSG(0x1DC1F, 14, 1)
+
+// もりのちか[br]
+// ３かいだよ。
+Forest Un-[br]
+derground, Floor 3
+[end]
+
+#ENDMSG()
+
+// script 4-0xB
+#STARTMSG(0x1DC2D, 16, 1)
+
+// ようさいの[br]
+// だい４そうだよ
+Fortress, Floor 4
+[end]
+
+#ENDMSG()
+
+// script 4-0xC
+#STARTMSG(0x1DC3D, 16, 1)
+
+// ようさいの[br]
+// だい３そうだよ
+Fortress, Floor 3
+[end]
+
+#ENDMSG()
+
+// script 4-0xD
+#STARTMSG(0x1DC4D, 16, 1)
+
+// ようさいの[br]
+// だい２そうだよ
+Fortress, Floor 2
+[end]
+
+#ENDMSG()
+
+// script 4-0xE
+#STARTMSG(0x1DC5D, 16, 1)
+
+// ようさいの[br]
+// だい１そうだよ
+Fortress, Floor 1
+[end]
+
+#ENDMSG()
+
+
+#SETHEIGHT(4)
+
+
+#ENDREGION(4)
+
+//===========================================================
+// Region 5
+//===========================================================
+
+#STARTREGION(5)
+
+
+#SETHEIGHT(5)
+
+
+// script 5-0x0
+#STARTMSG(0x1DC8B, 19, 1)
+
+// いっただっき[br]
+// まーす！[br]
+// ぱくッ。
+Time to eat![br]
+*nom*
+[end]
+
+#ENDMSG()
+
+// script 5-0x1
+#STARTMSG(0x1DC9E, 22, 1)
+
+// いっただっき[br]
+// まーす！[br]
+// ぱくぱくッ。
+Down you go![br]
+*nom* *nom*
+[end]
+
+#ENDMSG()
+
+// script 5-0x2
+#STARTMSG(0x1DCB4, 24, 1)
+
+// いっただっき[br]
+// まーす！[br]
+// ぱくぱくぱくッ
+Snack time![br]
+*om* *nom* *nom*
+[end]
+
+#ENDMSG()
+
+// script 5-0x3
+#STARTMSG(0x1DCCC, 7, 1)
+
+// ぐびッ。
+*gulp*
+[end]
+
+#ENDMSG()
+
+// script 5-0x4
+#STARTMSG(0x1DCD3, 11, 1)
+
+// ぐびぐびッ。
+*gulp* *gulp*
+[end]
+
+#ENDMSG()
+
+// script 5-0x5
+#STARTMSG(0x1DCDE, 14, 1)
+
+// ぐびぐびぐびッ
+*gulp* *gulp* *gulp*
+[end]
+
+#ENDMSG()
+
+// script 5-0x6
+#STARTMSG(0x1DCEC, 6, 1)
+
+// ぱくッ。
+*nom*
+[end]
+
+#ENDMSG()
+
+// script 5-0x7
+#STARTMSG(0x1DCF2, 20, 1)
+
+// きんにくが[br]
+// キリッと[br]
+// ひきしまる。
+Your musc-[br]
+les are all tense.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x8
+#STARTMSG(0x1DD06, 25, 1)
+
+// からだが[br]
+// かるくなった[br]
+// かんじがする。
+You feel like your body's lighter.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x9
+#STARTMSG(0x1DD1F, 22, 1)
+
+// ものが　　よく[br]
+// みえるように[br]
+// なった。
+You can see a lot better now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0xA
+#STARTMSG(0x1DD35, 17, 1)
+
+// いま　たべても[br]
+// イミないや。
+No point in eating that now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0xB
+#STARTMSG(0x1DD46, 17, 1)
+
+// どくがきえた。[br]
+// やったあ。
+You're[space3px]cure[small_d] from poison.[br]
+Great!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0xC
+#STARTMSG(0x1DD57, 35, 1)
+
+// んんんッ。[br]
+// おいしい。
+Hmmm... Delicious.
+[wait]
+
+// いろんな[br]
+// じょうほうが[br]
+// はいってくる。
+Your mind is filled with knowledge.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0xD
+#STARTMSG(0x1DD7A, 13, 1)
+
+// んんんッ。[br]
+// おいしい。
+Hmmm... Delicious.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0xE
+#STARTMSG(0x1DD87, 8, 1)
+
+// 『やややあー
+{Yayayah!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0xF
+#STARTMSG(0x1DD8F, 23, 1)
+
+// やの　さきから[br]
+// ヘンなこえが[br]
+// きこえる。
+You hear a weird voice from the arrow's tip.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x10
+#STARTMSG(0x1DDA6, 19, 1)
+
+// やを[br]
+// ちからいっぱい[br]
+// なげる。
+You throw the arrow with all your might.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x11
+#STARTMSG(0x1DDB9, 17, 1)
+
+// グサッ。[br]
+// あたまに[br]
+// ささる。
+You hit your opponent right in the head.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x12
+#STARTMSG(0x1DDCA, 31, 1)
+
+// 『やややあー
+{Yayayah!}
+[wait]
+
+// のうがとけて[br]
+// あたまが[br]
+// ぷーになった。
+They space out as they feel their brain melt.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x13
+#STARTMSG(0x1DDE9, 24, 1)
+
+// むむッ。[br]
+// てぶくろが[br]
+// ツボをしげき。
+Mmm... These mittens are so nice to wear.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x14
+#STARTMSG(0x1DE01, 43, 1)
+
+// なんだか[br]
+// ちからが[br]
+// わいてでる。
+Some kind of power is welling in me.
+[wait]
+
+// いまなら[br]
+// どんなヤツでも[br]
+// まけないッ！
+I won't lose to anyone now!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 5-0x15
+#STARTMSG(0x1DE2C, 37, 1)
+
+// ありゃりゃ。[br]
+// しろてぶくろが[br]
+// やぶけた。
+Oh, huh. The White Mittens tore.
+[wait]
+
+// ちょっと[br]
+// おしいなあ。
+What a pity.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+#SETHEIGHT(4)
+
+
+#ENDREGION(5)
+
+//===========================================================
+// Region 6
+//===========================================================
+
+#STARTREGION(6)
+
+// script 6-0x0
+#STARTMSG(0x144F3, 20, 1)
+
+// たからばこが[br]
+// ある。
+There's a treasure chest.
+[wait]
+
+// あけますか？
+Open it?
+[end]
+
+#ENDMSG()
+
+// script 6-0x1
+#STARTMSG(0x14507, 19, 1)
+
+// わなかも[br]
+// しれないから[br]
+// やーめた。
+No way. It might be a trap.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x2
+#STARTMSG(0x1451A, 19, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on a sign.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x3
+#STARTMSG(0x1452D, 15, 1)
+
+// 『しあわせは[br]
+// もう　ない』
+{There is happiness no more}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x4
+#STARTMSG(0x1453C, 21, 1)
+
+// 『ここに[br]
+// しあわせが[br]
+// ねむっている』
+{Here, happiness sleeps}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x5
+#STARTMSG(0x14551, 23, 1)
+
+// 『ボロボロ』[br]
+// かべが[br]
+// くずれた。
+*crumble*[br]
+The wall collapses.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x6
+#STARTMSG(0x14568, 16, 1)
+
+// もう　なにも[br]
+// おちてこない。
+Nothing else is coming down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x7
+#STARTMSG(0x14578, 17, 1)
+
+// うえから[br]
+// なにか[br]
+// おちてきた。
+Something drops from above.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x8
+#STARTMSG(0x14589, 18, 1)
+
+// おうごんリンゴ[br]
+// てにいれた。
+Golden Apple[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x9
+#STARTMSG(0x1459B, 13, 1)
+
+// いしころ[br]
+// てにいれた。
+Stone[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0xA
+#STARTMSG(0x145A8, 77, 1)
+
+// よしッ！[br]
+// いいゆかげんに[br]
+// なった。
+All right![br]
+The water's nice and comfy now.
+[wait]
+
+// それじゃあ[br]
+// ちょっと[br]
+// しつれいして…
+Now then, if[br]
+you'll ex-[br]
+cuse me for a moment...
+[wait]
+
+// んんんッ。[br]
+// いいゆだなあ。
+Mmmm![br]
+The water's so nice!
+[wait]
+
+// つかれが[br]
+// いっぺんで[br]
+// ふきとんだ。
+Your fatigue vanishes completely.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0xB
+#STARTMSG(0x145F5, 19, 1)
+
+// おゆは[br]
+// じょうはつして[br]
+// きえた。
+The water evaporates away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0xC
+#STARTMSG(0x14608, 72, 1)
+
+// わあ。[br]
+// カチンカチンに[br]
+// こおった。
+Waah![br]
+It froze solid.
+[wait]
+
+// これは[br]
+// つめたそーだよ
+That looks cold.
+[wait]
+
+// あああ…[br]
+// ヒンヤリしてて[br]
+// きもちいい。
+Ahhh...![br]
+This coolness feels good.
+[wait]
+
+// なんだか[br]
+// あたまが[br]
+// すっきりした。
+Somehow, your head feels clear.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0xD
+#STARTMSG(0x14650, 14, 1)
+
+// こおりは[br]
+// とけてきえた。
+The ice melts away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0xE
+#STARTMSG(0x1465E, 11, 1)
+
+// まほうじんだ！
+It's a magic circle!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0xF
+#STARTMSG(0x14669, 13, 1)
+
+// わあッ！[br]
+// りゅうさッ？
+WAAAH![br]
+Quicksand!?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x10
+#STARTMSG(0x14676, 18, 1)
+
+// とびらに[br]
+// なにか[br]
+// かいてある。
+Something is written on the door.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x11
+#STARTMSG(0x14688, 24, 1)
+
+// 『げきやすの[br]
+// ももものおみせ[br]
+// スグそこ』
+{Momomo's Discount Dungeon just ahead}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x12
+#STARTMSG(0x146A0, 21, 1)
+
+// 『このさき[br]
+// ちょーキケン[br]
+// ひきかえせ』
+{EXTREME HAZARD AHEAD![br]
+Turn back!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x13
+#STARTMSG(0x146B5, 14, 1)
+
+// とびらは[br]
+// ひらかない。
+The door won't open.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x14
+#STARTMSG(0x146C3, 23, 1)
+
+// ぎんのくさりで[br]
+// ふういん[br]
+// されている。
+It's been secured with a silver chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x15
+#STARTMSG(0x146DA, 24, 1)
+
+// ぎんのカギで[br]
+// くさりが[br]
+// はずれた。
+You use the Silver Key to undo the chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x16
+#STARTMSG(0x146F2, 38, 1)
+
+// じめんに[br]
+// なにか[br]
+// かいてある。
+Something is written on the ground.
+[wait]
+
+// 『このさき[br]
+// カエルいけへ[br]
+// ２．０ＫＭ』
+{This Way:[br]
+ Frog Pond[br]
+ 2.0 km.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x17
+#STARTMSG(0x14718, 24, 1)
+
+// カエルのカギで[br]
+// くさりが[br]
+// はずれた。
+You use the Frog Key to undo the chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x18
+#STARTMSG(0x14730, 22, 1)
+
+// あおいくさりで[br]
+// ふういん[br]
+// されている。
+It's been secured with a blue chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x19
+#STARTMSG(0x14746, 24, 1)
+
+// みずたまりが[br]
+// ちゅうに[br]
+// うかんでいる。
+A pool of water is floating in mid-air.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x1A
+#STARTMSG(0x1475E, 13, 1)
+
+// らっきょ[br]
+// てにいれた。
+Veggies[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x1B
+#STARTMSG(0x1476B, 20, 1)
+
+// あッ！[br]
+// マモノが[br]
+// カギをおとした
+Oh, the monster dropped a key!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x1C
+#STARTMSG(0x1477F, 16, 1)
+
+// ぎんのカギ[br]
+// てにいれた。
+Silver Key[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x1D
+#STARTMSG(0x1478F, 13, 1)
+
+// わあッ！[br]
+// おとしあなッ！
+WAAAH![br]
+A pitfall!
+[end]
+
+#ENDMSG()
+
+// script 6-0x1E
+#STARTMSG(0x1479C, 7, 1)
+
+// あいててて
+Owwww...
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x1F
+#STARTMSG(0x147A3, 72, 1)
+
+// とびらは[br]
+// ひらかない。
+The door won't open.
+[wait]
+
+// うちがわから[br]
+// カギが[br]
+// かかっている。
+It's locked from the inside.
+[wait]
+
+// 『こんなの[br]
+// あけられるのは
+{You'd have to be some kind of massive muscleman
+[wait]
+
+// ものすごい[br]
+// ちからもち[br]
+// だけだよぉ。
+to open this.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x20
+#STARTMSG(0x147EB, 22, 1)
+
+// 『だれか[br]
+// てつだって[br]
+// くれないかなあ
+{Is there[br]
+anyone who[br]
+could lend[br]
+me a hand?[small_rightquote]
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x21
+#STARTMSG(0x14801, 22, 1)
+
+// 『ナラバ[br]
+// ワタシノ[br]
+// デバンダナ。
+{THIS LOOKS LIKE A JOB FOR ME.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x22
+#STARTMSG(0x14817, 21, 1)
+
+// 『えッ[br]
+// ソクラテスが[br]
+// あけてくれるの
+{Huh? Can you open it for me, Socrates?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x23
+#STARTMSG(0x1482C, 69, 1)
+
+// 『いーじー[br]
+// おぺれーしょん
+{SUCH AN EASY OPERATION.
+[wait]
+
+// カンタンナ[br]
+// コトダ。
+SIMPLICITY ITSELF.}
+[wait]
+
+// ソクラテスが[br]
+// とびらを[br]
+// かるく　おすと
+Socrates presses lightly on the door,
+[wait]
+
+// とびらの[br]
+// かんぬきが[br]
+// おれた！
+and the latch breaks!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x24
+#STARTMSG(0x14871, 22, 1)
+
+// 『わーいッ！[br]
+// すごいや。[br]
+// ソクラテス！
+{WHOOOA![br]
+You're amazing, Socrates!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x25
+#STARTMSG(0x14887, 22, 1)
+
+// どこからか[br]
+// どなりごえが[br]
+// する。
+An angry voice calls from somewhere.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x26
+#STARTMSG(0x1489D, 55, 1)
+
+// 『オラオラァ！[br]
+// オレさまは[br]
+// かえってきた。
+{Gwarrgh!
+[wait]
+
+// おまえらに[br]
+// ふくしゅう[br]
+// するため
+I've come back from the depths of hell
+[wait]
+
+// じごくのそこ[br]
+// からなあ。
+to take my revenge on you fools!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x27
+#STARTMSG(0x148D4, 55, 1)
+
+// 『つぎだッ！[br]
+// つぎこそが[br]
+// ほんばんだッ！
+{Next time![br]
+Next time, I'll get you for real!}
+[wait]
+
+// まけおしみを[br]
+// いいながら
+The monster leaves,
+[wait]
+
+// マモノは[br]
+// さっていった。
+whining like a sore loser.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x28
+#STARTMSG(0x1490B, 23, 1)
+
+// ツメのカギで[br]
+// くさりが[br]
+// はずれた。
+You use the Claw Key to undo the chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x29
+#STARTMSG(0x14922, 42, 1)
+
+// しろいくさりで[br]
+// ふういん[br]
+// されている。
+It's been secured with a white chain.
+[wait]
+
+// 『ソクラテス[br]
+// このとびら[br]
+// あけてよ。
+{Socrates, open this door!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x2A
+#STARTMSG(0x1494C, 71, 1)
+
+// 『スマン。[br]
+// ワタシニハ[br]
+// ムリダ。
+{I'M SORRY. I CAN'T DO THAT.
+[wait]
+
+// コノ　トビラハ[br]
+// マリョクモ[br]
+// ツカッテ
+THIS DOOR IS SEALED SHUT WITH MAGIC.
+[wait]
+
+// フウイン[br]
+// シテイル。
+IT CAN'T BE OPENED BY FORCE.}
+[wait]
+
+// チカラデハ[br]
+// アケルコトハ[br]
+// デキナイ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x2B
+#STARTMSG(0x14993, 68, 1)
+
+// 『オラオラァ！[br]
+// おまえら[br]
+// なにもんだァ？
+{Gwarrgh![br]
+Who are you guys?
+[wait]
+
+// ここは[br]
+// サタンぐみの[br]
+// さぎょうげんば
+This job site belongs to the Satan Corps.
+[wait]
+
+// かんけいしゃ[br]
+// いがいは[br]
+// でていけーッ！
+Unauthorized personnel can SCRAM!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x2C
+#STARTMSG(0x149D7, 40, 1)
+
+// 『おぼえてろッ
+{I'll get you for this!}
+[wait]
+
+// よくある[br]
+// すてゼリフを[br]
+// はいて
+The monster spews a cliche line and leaves.
+[wait]
+
+// マモノは[br]
+// さっていった。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x2D
+#STARTMSG(0x149FF, 36, 1)
+
+// 『オラオラァ！[br]
+// オレさまは[br]
+// しつこいぞ。
+{Gwarrgh![br]
+I NEVER give up!
+[wait]
+
+// こんどこそ[br]
+// かぁつッ！
+This time, I'm gonna win!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x2E
+#STARTMSG(0x14A23, 55, 1)
+
+// 『ちきしょー！[br]
+// おまえと[br]
+// たたかうのは
+{Dang it!
+[wait]
+
+// にどと[br]
+// ゴメンだっ。
+I don't wanna fight you ever again!}
+[wait]
+
+// マモノは[br]
+// なきながら[br]
+// さっていった。
+The monster leaves in tears.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x2F
+#STARTMSG(0x14A5A, 20, 1)
+
+// おや　マモノが[br]
+// なにか[br]
+// おとした。
+Oh? The monster dropped something.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x30
+#STARTMSG(0x14A6E, 15, 1)
+
+// ツメのカギ[br]
+// てにいれた。
+Claw Key[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x31
+#STARTMSG(0x14A7D, 15, 1)
+
+// りゅうのツメ[br]
+// てにいれた。
+Dragon Claw[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x32
+#STARTMSG(0x14A8C, 23, 1)
+
+// ひかるカギで[br]
+// くさりが[br]
+// はずれた。
+You use the Shiny Key to undo the chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x33
+#STARTMSG(0x14AA3, 22, 1)
+
+// ひかるくさりで[br]
+// ふういん[br]
+// されている。
+It's been secured with a shiny chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x34
+#STARTMSG(0x14AB9, 26, 1)
+
+// めのまえに[br]
+// スイッチ。
+There's a switch in front of you.
+[wait]
+
+// スイッチを[br]
+// いれてみる？
+Flip it?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x35
+#STARTMSG(0x14AD3, 15, 1)
+
+// とりあえず[br]
+// ほっとこう。
+I'll leave it alone for now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x36
+#STARTMSG(0x14AE2, 21, 1)
+
+// あれ？[br]
+// このスイッチ[br]
+// もどらないや。
+Huh?[br]
+The switch won't flip back.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x37
+#STARTMSG(0x14AF7, 27, 1)
+
+// みなみのほうで[br]
+// とびらのひらく[br]
+// おとがした。
+You hear a door opening to the south.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x38
+#STARTMSG(0x14B12, 14, 1)
+
+// かちりと[br]
+// おとがした。
+You hear a click.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x39
+#STARTMSG(0x14B20, 21, 1)
+
+// とびらは[br]
+// がっちり[br]
+// ロックされてる
+The door's locked shut.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x3A
+#STARTMSG(0x14B35, 13, 1)
+
+// わあッ！[br]
+// おとしあなッ？
+WAAAH![br]
+A pitfall!?
+[end]
+
+#ENDMSG()
+
+// script 6-0x3B
+#STARTMSG(0x14B42, 32, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on a sign.
+[wait]
+
+// 『いっぽう[br]
+// つうこう』
+{One-Way Passage}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x3C
+#STARTMSG(0x14B62, 42, 1)
+
+// 『あれェ？[br]
+// アルルちゃん[br]
+// どーしたの？
+{Huh? What's going on, Arle?
+[wait]
+
+// こんな[br]
+// もりのおくまで[br]
+// きちゃって。
+You've come so far into the forest!}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x3D
+#STARTMSG(0x14B8C, 63, 1)
+
+// 『キミは[br]
+// ようせいの[br]
+// リンちゃん。
+{You're Lynn the fairy, right?
+[wait]
+
+// こんなとこで[br]
+// ともだちに[br]
+// あえるなんて。
+I didn't think I'd run into anyone I knew out here.
+[wait]
+
+// じつは　ボク[br]
+// たたかって[br]
+// るんだ。
+The truth is, I got into a fight.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x3E
+#STARTMSG(0x14BCB, 18, 1)
+
+// 『たたかう？[br]
+// どこのだれと？
+{A... fight? With who? How?}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x3F
+#STARTMSG(0x14BDD, 24, 1)
+
+// 『はねとツノが[br]
+// はえた[br]
+// ハデなおじさん
+{Some show[small_hyphen][br]
+off guy with wings and horns.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x40
+#STARTMSG(0x14BF5, 35, 1)
+
+// 『それって[br]
+// なにもの？
+{Now who could that be?
+[wait]
+
+// じつに[br]
+// あやしいヤツ[br]
+// みたいだけど。
+He does[br]
+sound like a[br]
+shady char-[br]
+acter...}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x41
+#STARTMSG(0x14C18, 12, 1)
+
+// 『よく[br]
+// わかんない。
+{I dunno.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x42
+#STARTMSG(0x14C24, 19, 1)
+
+// 『それなのに[br]
+// たたかってる[br]
+// わけ？
+{But you're going to fight him anyway?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x43
+#STARTMSG(0x14C37, 7, 1)
+
+// 『うんッ！
+{Yep!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x44
+#STARTMSG(0x14C3E, 68, 1)
+
+// 『アルルちゃん[br]
+// らしいといえば[br]
+// らしいけど…
+{What an Arle thing to say. But...
+[wait]
+
+// でも　ひとり[br]
+// だと　たいへん[br]
+// でしょ？
+Won't it be tough all by yourself?
+[wait]
+
+// あたしが[br]
+// てつだって[br]
+// あげる。
+How about I lend you a hand?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x45
+#STARTMSG(0x14C82, 10, 1)
+
+// 『えッ[br]
+// ほんと！
+{Huh? Really!?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x46
+#STARTMSG(0x14C8C, 91, 1)
+
+// 『まかせなさい[br]
+// ともだち[br]
+// じゃないの。
+{We're pals, aren't we? Leave it to me.
+[wait]
+
+// じゃあ[br]
+// じゅもんを１コ[br]
+// おしえてあげる
+Okay, I'm going to teach you a spell.
+[wait]
+
+// じゅもんを[br]
+// となえたいとき[br]
+// せいしんを
+When you want to cast it,
+[wait]
+
+// あたしの[br]
+// はどうに[br]
+// あわせるの。
+join your spirit to my energies.
+[wait]
+
+// できる？
+Can you do that?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x47
+#STARTMSG(0x14CE7, 38, 1)
+
+// 『うん。[br]
+// だいじょーぶ。
+{Uh-huh! No prob.
+[wait]
+
+// いっぺん[br]
+// ようちえんで[br]
+// ならったよ。
+We learned it at kindergarten one time!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x48
+#STARTMSG(0x14D0D, 95, 1)
+
+// 『なら[br]
+// オッケー。
+{Okay then.
+[wait]
+
+// あたしたちの[br]
+// はどうが[br]
+// あったら
+This magic will be released
+[wait]
+
+// まりょくが[br]
+// かいほう[br]
+// されるの。
+when our energies become one.
+[wait]
+
+// これで[br]
+// じゅもんが[br]
+// かんせい。
+With that, the spell will be complete.
+[wait]
+
+// ダイアキュート[br]
+// の　じゅもんが[br]
+// はつどうするよ
+You'll cast the spell Diacute!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x49
+#STARTMSG(0x14D6C, 53, 1)
+
+// 『あッ　それ[br]
+// しってるよ。
+{Oh, I know that one!
+[wait]
+
+// せんせいが[br]
+// つかってたもん
+The teacher used it.
+[wait]
+
+// こうかを[br]
+// ばいぞうする[br]
+// じゅもんだ。
+//It's a spell that doubles effectiveness.}
+It's a spell[br]
+that doubles[br]
+effective-[br]
+ness.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x4A
+#STARTMSG(0x14DA1, 46, 1)
+
+// 『これがあれば[br]
+// そりゃもう[br]
+// バッチシ！
+{Then we're ready to go!
+[wait]
+
+// そのハデな[br]
+// おじさんを[br]
+// たおしにいこう
+Let's go[br]
+take down[br]
+this preten-[br]
+tious jerk.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x4B
+#STARTMSG(0x14DCF, 7, 1)
+
+// 『おーッ！
+{YEAH!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x4C
+#STARTMSG(0x14DD6, 18, 1)
+
+// ダイアキュート[br]
+// をモノにした！
+You've mastered Diacute!
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x4D
+#STARTMSG(0x14DE8, 38, 1)
+
+// 『うわあ[br]
+// でっかい[br]
+// じわれ…
+{Whoa! There's a huge crack in the ground...
+[wait]
+
+// こんなのが[br]
+// あったら[br]
+// とおれないや。
+We can't get by with this in the way.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x4E
+#STARTMSG(0x14E0E, 34, 1)
+
+// 『シンパイ[br]
+// ムヨウ。
+{NOT TO WORRY.
+[wait]
+
+// ワタシノ[br]
+// ぼでぃニ[br]
+// ツカマルノダ。
+TAKE HOLD OF MY BODY.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x4F
+#STARTMSG(0x14E30, 7, 1)
+
+// はーいッ！
+{O-kaaay!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x50
+#STARTMSG(0x14E37, 21, 1)
+
+// こんなのが[br]
+// あったら[br]
+// とおれないや。
+You can't get by with this in the way.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x51
+#STARTMSG(0x14E4C, 111, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on a sign.
+[wait]
+
+// 『みぎての[br]
+// さきが[br]
+// きたをむく。
+{Point the tip of your right hand north.
+[wait]
+
+// おやゆび[br]
+// こゆびは[br]
+// おいといて。
+Put aside your thumb and little finger.
+[wait]
+
+// まずはなかゆび[br]
+// つぎに[br]
+// ひとさしゆび。
+Start with your middle finger, then index finger[small_comma]
+[wait]
+
+// さいごは[br]
+// くすりゆび。
+and lastly, your ring finger.
+[wait]
+
+// これで　みちは[br]
+// ひらかれる』
+With that, the path will open.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x52
+#STARTMSG(0x14EBB, 17, 1)
+
+// りゅうのしっぽ[br]
+// てにいれた。
+Dragon Tail[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x53
+#STARTMSG(0x14ECC, 24, 1)
+
+// さびたカギで[br]
+// くさりが[br]
+// はずれた。
+You use the Rusty Key to undo the chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x54
+#STARTMSG(0x14EE4, 23, 1)
+
+// さびたくさりで[br]
+// ふういん[br]
+// されている。
+It's been secured with a rusty chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x55
+#STARTMSG(0x14EFB, 42, 1)
+
+// ぷしゅうううう
+{Pshhhhh.}
+[wait]
+
+// とつぜん[br]
+// スイッチの[br]
+// すきまから
+Gas suddenl[small_y][br]
+shoots from the switch's opening!
+[wait]
+
+// ガスが[br]
+// ふきだした！
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x56
+#STARTMSG(0x14F25, 22, 1)
+
+// からだから[br]
+// ちからが[br]
+// ぬけていくぅ。
+The strength is draining from my body...
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x57
+#STARTMSG(0x14F3B, 36, 1)
+
+// かべに[br]
+// あなが[br]
+// あいている。
+There's a hole in the wall.
+[wait]
+
+// むこうに[br]
+// へやが[br]
+// あるようだ。
+There seems to be a room on the other side.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x58
+#STARTMSG(0x14F5F, 21, 1)
+
+// なんだか[br]
+// からだが[br]
+// おもいぃぃ。
+My body feels so heavyyyyy...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x59
+#STARTMSG(0x14F74, 25, 1)
+
+// ちかくで[br]
+// キカイがうごく[br]
+// おとがした。
+You hear[br]
+the sound o[small_f][br]
+a mechanism[br]
+nearby.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x5A
+#STARTMSG(0x14F8D, 24, 1)
+
+// あああ…[br]
+// まどうりょくが[br]
+// ぬけていくぅ。
+AAAAH!...[br]
+My magic is draining out...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x5B
+#STARTMSG(0x14FA5, 16, 1)
+
+// さびたカギ[br]
+// てにいれた。
+Rusty Key[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x5C
+#STARTMSG(0x14FB5, 28, 1)
+
+// へやのなかは[br]
+// きよらかな[br]
+// くうきで
+The inside of the room is filled with clear air.
+[wait]
+
+// みたされている
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x5D
+#STARTMSG(0x14FD1, 42, 1)
+
+// おおきく[br]
+// しんこきゅう。
+Big, deep breaths!
+[wait]
+
+// すってー。
+Breathe in...
+[wait]
+
+// はいてー。
+Breathe out...
+[wait]
+
+// うーんっ。[br]
+// おいしい[br]
+// くうき。
+Phew![br]
+Fresh air!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x5E
+#STARTMSG(0x14FFB, 16, 1)
+
+// とっても[br]
+// すがすがしい。
+It's really refreshing.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x5F
+#STARTMSG(0x1500B, 40, 1)
+
+// さっきのガスの[br]
+// ききめが[br]
+// なくなった。
+The effect of the gas from before is gone.
+[wait]
+
+// ああ　きぶんが[br]
+// はればれ。
+Aah, I'm feeling great!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x60
+#STARTMSG(0x15033, 78, 1)
+
+// 『アルル[br]
+// おまたせッ！
+{Sorry to keep you waiting, Arle!
+[wait]
+
+// あたしも[br]
+// てつだわせて[br]
+// もらうね。
+I'll lend you a hand too.
+[wait]
+
+// あたしの[br]
+// ちからで
+With my powers,
+[wait]
+
+// あの[br]
+// ばよえーんの[br]
+// じゅもんが
+you'll be able to cast the Bayoen spell.}
+[wait]
+
+// つかえるよーに[br]
+// してあげる。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x61
+#STARTMSG(0x15081, 45, 1)
+
+// 『リュール。[br]
+// キミは　なんて[br]
+// いいヤツなんだ
+{Ruhl! You're such a nice fairy.
+[wait]
+
+// ボカァ[br]
+// おもわず[br]
+// かんどうしたよ
+*blush*[br]
+I can't help but feel touched.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x62
+#STARTMSG(0x150AE, 45, 1)
+
+// 『そう　それが[br]
+// ばよえーんの[br]
+// ちから。
+{Yes, that's the power of Bayoen.
+[wait]
+
+// かんどうの[br]
+// あらしが[br]
+// ふきあれるんだ
+A storm of[br]
+strong emo-[br]
+tion sweeps over you.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x63
+#STARTMSG(0x150DB, 16, 1)
+
+// ばよえーんを[br]
+// モノにした！
+You mastered Bayoen!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x64
+#STARTMSG(0x150EB, 16, 1)
+
+// カエルのカギ[br]
+// てにいれた。
+Frog Key[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x65
+#STARTMSG(0x150FB, 55, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on a sign.
+[wait]
+
+// 『ひだり[br]
+// ふゆだけの[br]
+// おたのしみ。
+{Left: Fun for the winter only!
+[wait]
+
+// カエルいけ[br]
+// スケート[br]
+// リンク』
+Frog Pond Skating Rink}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x66
+#STARTMSG(0x15132, 58, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on the ground.
+[wait]
+
+// 『えいゆう[br]
+// カエルロッドの[br]
+// どうぞう。
+{Bronze Statue of the Hero Toadin
+[wait]
+
+// みんなで[br]
+// キレイに[br]
+// しよう』
+Let's all keep it clean.}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x67
+#STARTMSG(0x1516C, 53, 1)
+
+// 『カエルの[br]
+// えいゆう[br]
+// カエルロッド。
+{The frog hero Toadin...
+[wait]
+
+// かれが[br]
+// いてくれたら
+If he was around,
+[wait]
+
+// あんな[br]
+// マモノなんて[br]
+// いちげきケロ。
+he'd take[br]
+those mon-[br]
+sters down[br]
+in one hit![br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x68
+#STARTMSG(0x151A1, 87, 1)
+
+// 『カエルいけに[br]
+// きゃくじんが[br]
+// くるのは
+{It's been a while since we've had any visitors
+[wait]
+
+// ひさしぶり[br]
+// ケロ。
+at the Frog Pond.[br]
+*ribbit*
+[wait]
+
+// マモノが[br]
+// すみついた[br]
+// おかげで
+Everyone[br]
+avoids us[br]
+because of[br]
+the[space3px]monster[small_s]
+[wait]
+
+// みんなが[br]
+// こわがって[br]
+// ちかよらんケロ
+that settled here.[br]
+*ribbit*
+[wait]
+
+// まったく[br]
+// さみしいケロ。
+It's really lonely.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x69
+#STARTMSG(0x151F8, 37, 1)
+
+// 『あのマモノを[br]
+// たおすなんて[br]
+// すごいケロ。
+{It's so[br]
+amazing that[br]
+you defeat-[br]
+ed those[br]
+monsters!
+[wait]
+*ribbit*
+[wait]
+
+// あこがれちゃう[br]
+// ケロ。
+I admire you.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x6A
+#STARTMSG(0x1521D, 75, 1)
+
+// 『えいゆう[br]
+// カエルロッドは
+{Ten years ago,
+[wait]
+
+// １０ねんまえに[br]
+// なくなって[br]
+// しまったケロ。
+the hero Toadin passed[space3px]away[small_period][br]
+*ribbit*
+[wait]
+
+// もうこのいけは[br]
+// おしまいケロ。
+That was the end for us.[br]
+*ribbit*
+[wait]
+
+// みんなマモノに[br]
+// たべられちゃう[br]
+// ケロ。
+Now, we all[br]
+get eaten by[br]
+the mon-[br]
+sters.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x6B
+#STARTMSG(0x15268, 59, 1)
+
+// 『このいけは[br]
+// とてもふかい[br]
+// ケロ。
+{This pond is really deep.[br]
+*ribbit*
+[wait]
+
+// およぎに[br]
+// じしんが[br]
+// なければ
+You'd better not cross unless you're
+[wait]
+
+// わたるのは[br]
+// あきらたほうが[br]
+// いいケロ。
+confident in your swimming.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x6C
+#STARTMSG(0x152A3, 34, 1)
+
+// 『いやあ[br]
+// すごいケロ。
+{Whoa, awesome![br]
+*ribbit*
+[wait]
+
+// うちの[br]
+// おやぶんより[br]
+// たよれるケロ。
+You're more reliable than the boss.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x6D
+#STARTMSG(0x152C5, 65, 1)
+
+// ありゃあ？[br]
+// こおらないや。
+Huh? It won't freeze.
+[wait]
+
+// ナイスな[br]
+// アイデアだと
+And I thought it was such a good idea, too...
+[wait]
+
+// おもったん[br]
+// だけどなあ。
+
+//[wait]
+
+// まだパワーが[br]
+// たりないの[br]
+// かなあ…
+Maybe I'm[br]
+not power-[br]
+ful enough[br]
+yet...
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x6E
+#STARTMSG(0x15306, 61, 1)
+
+// おおッ。[br]
+// みごとに[br]
+// こおった。
+Whoa, it's completely frozen!
+[wait]
+
+// ボクの[br]
+// まどうりょくも[br]
+// たいしたものだ
+You don't mess with MY magic power!
+[wait]
+
+// これであるいて[br]
+// いけを[br]
+// わたれるよ。
+Now I can cross the pond on foot!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x6F
+#STARTMSG(0x15343, 20, 1)
+
+// めのまえに[br]
+// おおきな[br]
+// いけがある。
+There's a large pond in front of you.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x70
+#STARTMSG(0x15357, 21, 1)
+
+// およいで[br]
+// わたるのは[br]
+// ムリだなあ。
+There's no WAY I can swim across.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x71
+#STARTMSG(0x1536C, 14, 1)
+
+// ぷよまん[br]
+// てにいれた。
+Puyoman[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x72
+#STARTMSG(0x1537A, 61, 1)
+
+// 『ワシは[br]
+// このいけを[br]
+// ナワバリにする
+{I'm the boss of the Ribbit Gang,
+[wait]
+
+// ケロケロぐみの[br]
+// おやぶんだケロ
+and dis pond's gonn[small_a] be my turf.[br]
+*ribbit*
+[wait]
+// TODO: check
+
+// おまえは[br]
+// どこのくみの[br]
+// ものだケロ？
+Which group are you wit'?[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x73
+#STARTMSG(0x153B7, 6, 1)
+
+// 『くみ？
+{Group?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x74
+#STARTMSG(0x153BD, 23, 1)
+
+// まどう[br]
+// ようちえんの[br]
+// ねこぐみだよ。
+I'm in the[br]
+Cat Group at[br]
+Magic Kin-[br]
+dergarten.}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x75
+#STARTMSG(0x153D4, 53, 1)
+
+// 『きいたことは[br]
+// ないが[br]
+// まあ　いいケロ
+{Never heard of 'em, but whatever.[br]
+*ribbit*
+[wait]
+
+// おまえは[br]
+// もりをあらす[br]
+// ヤツらとは
+You seem different from the guys
+[wait]
+
+// ちがうようだ[br]
+// ケロ。
+dat normally loot the forest.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x76
+#STARTMSG(0x15409, 7, 1)
+
+// 『ヤツら？
+{What guys?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x77
+#STARTMSG(0x15410, 111, 1)
+
+// 『サタンぐみの[br]
+// コトだケロ。
+{The Satan Corps.
+[wait]
+
+// レジャーランド[br]
+// けんせつのため
+Dey're a buncha vicious thugs out to
+[wait]
+
+// このもりの[br]
+// しぜんを[br]
+// はかいする
+destroy the natural wilderness and build
+[wait]
+
+// あくどいヤツら[br]
+// なんだケロ。
+an amuse-[br]
+ment park.[br]
+*ribbit*
+[wait]
+
+// このいけにも[br]
+// マモノを[br]
+// おくりこんで
+'pparently,[br]
+dey sent th[small_e][br]
+monsters to[br]
+dis pond
+[wait]
+
+// ワシらを[br]
+// おいだそうと[br]
+// してるケロ。
+to drive us out, too.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x78
+#STARTMSG(0x1547F, 22, 1)
+
+// 『むむぅ。[br]
+// ゆるせない[br]
+// わるものだなあ
+{What a bunch of icky bad guys!}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x79
+#STARTMSG(0x15495, 64, 1)
+
+// 『まったくケロ
+{Yeah.[br]
+*ribbit*
+[wait]
+
+// だが[br]
+// ワシらカエルの[br]
+// ちからでは
+But we frogs ain't strong enough.[br]
+*ribbit*
+[wait]
+
+// どうしようも[br]
+// ないケロ。
+You better hurry and get outta here too.[br]
+*ribbit*}
+[wait]
+
+// おめーも[br]
+// はやく　ここを[br]
+// たちさるケロ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x7A
+#STARTMSG(0x154D5, 37, 1)
+
+// 『たっしゃで[br]
+// やれケロ。
+{See ya.[br]
+*ribbit*
+[wait]
+
+// おめーのことは[br]
+// いっしょう[br]
+// わすれんケロ。
+I ain't gonna forget you as long as I live.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x7B
+#STARTMSG(0x154FA, 58, 1)
+
+// 『マモノどもの[br]
+// ボスは　いけの[br]
+// なんとうに
+{The mon-[br]
+sters' boss is hangin' out around
+[wait]
+
+// いすわっている[br]
+// ケロ。
+the south-[br]
+east of the pond.[br]
+*ribbit*
+[wait]
+
+// やばいから[br]
+// ちかづくのは[br]
+// よすケロ。
+It's danger-[br]
+ous. Don't bother goin' there.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x7C
+#STARTMSG(0x15534, 136, 1)
+
+// 『な、なんと！[br]
+// あのマモノを[br]
+// たおすとは…
+{W-What!?[br]
+If you de-[br]
+feated dat monster...
+[wait]
+
+// おめー[br]
+// みかけによらず[br]
+// つよいケロ。
+You must be stronger dan you look.[br]
+*ribbit*
+[wait]
+
+// いやいや[br]
+// てーしたヤツだ[br]
+// ケロ。
+Well well, you're really somethin'.[br]
+*ribbit*
+[wait]
+
+// きにいったケロ[br]
+// これを[br]
+// あげるケロ。
+I like you. Let me give you dis.[br]
+*ribbit*
+[wait]
+
+// ヤツらが[br]
+// おとしていった[br]
+// カギだケロ。
+It's a key dose guys dropped.[br]
+*ribbit*
+[wait]
+
+// ワシが[br]
+// もってるより
+It'll do you more good dan me.[br]
+*ribbit*}
+[wait]
+
+// おめーに[br]
+// わたしたほうが[br]
+// いいケロ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x7D
+#STARTMSG(0x155BC, 15, 1)
+
+// ひかるカギ[br]
+// てにいれた。
+Shiny Key[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x7E
+#STARTMSG(0x155CB, 23, 1)
+
+// うすよごれた[br]
+// カエルのぞうが[br]
+// ある。
+There's a really grimy frog statue here.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x7F
+#STARTMSG(0x155E2, 22, 1)
+
+// ぞうは[br]
+// カチンコチンに[br]
+// こおっている。
+The statue is frozen rock solid.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x80
+#STARTMSG(0x155F8, 20, 1)
+
+// ぞうは[br]
+// カチンコチンに[br]
+// こおった。
+The statue freezes rock solid.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x81
+#STARTMSG(0x1560C, 25, 1)
+
+// こおりがとけて[br]
+// ヨゴレを[br]
+// あらいながした
+The ice melts,
+[wait]
+washing away the dirt and grime.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x82
+#STARTMSG(0x15625, 23, 1)
+
+// よしよし。[br]
+// キレイに[br]
+// なったぞ。
+There! It's all clean.
+[wait]
+
+// あれ？
+Huh?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x83
+#STARTMSG(0x1563C, 39, 1)
+
+// だいざに[br]
+// なにか[br]
+// かいてある。
+Something is[br]
+written on[br]
+the pede-[br]
+stal.
+[wait]
+
+// 『ワシは[br]
+// ぷよまんが[br]
+// すきゲロ』
+{I love Puyoman.[br]
+(ribbit)}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x84
+#STARTMSG(0x15663, 39, 1)
+
+// ふーん。[br]
+// このカエルは[br]
+// ぷよまんが
+Hmm...
+[wait]
+
+// だいこうぶつ[br]
+// だったんだ…
+This frog's favorite food was Puyoman...
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x85
+#STARTMSG(0x1568A, 40, 1)
+
+// それじゃあ[br]
+// ボクのもってる[br]
+// ぷよまんを
+Well then, why don't I offer up my Puyoman?
+[wait]
+
+// おそなえして[br]
+// あげようかな。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x86
+#STARTMSG(0x156B2, 28, 1)
+
+// ぞうに[br]
+// ぷよまんを[br]
+// おそなえした。
+You offer a Puyoman to the statue.
+[wait]
+
+// 『…ゲロ。
+{...[br]
+*ribbit*}
+[wait]
+[end]
+// TODO: do you lose one puyoman, or all the ones you have?
+
+#ENDMSG()
+
+// script 6-0x87
+#STARTMSG(0x156CE, 15, 1)
+
+// 『えッ？[br]
+// だれかいるの。
+{Huh?[br]
+Is someone there?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x88
+#STARTMSG(0x156DD, 15, 1)
+
+// 『めのまえに[br]
+// いるゲロ。
+{I'm right in front of you.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x89
+#STARTMSG(0x156EC, 24, 1)
+
+// 『わーっ！[br]
+// ぞ、ぞうが[br]
+// しゃべった。
+{WAAAH![br]
+The statue talked!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x8A
+#STARTMSG(0x15704, 56, 1)
+
+// 『ワシは[br]
+// カエルロッドの[br]
+// たましいゲロ。
+{I am the soul of Toadin.[br]
+*ribbit*
+[wait]
+
+// おぬしに[br]
+// たのみがあって
+I come to you now with a request.[br]
+*ribbit*}
+[wait]
+
+// こーして[br]
+// はなしかけてる[br]
+// ゲロ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x8B
+#STARTMSG(0x1573C, 8, 1)
+
+// 『ボクに？
+{For me?}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x8C
+#STARTMSG(0x15744, 108, 1)
+
+// 『いま　いけの[br]
+// カエルたちは[br]
+// マモノのせいで
+{Right now, monsters pose an imminent threat
+[wait]
+
+// ききに[br]
+// ひんしている[br]
+// ゲロ。
+to[space3px]the[space3px]pond'[small_s] frogs.[br]
+*ribbit*
+[wait]
+
+// ところが[br]
+// いまのわかい[br]
+// カエルどもは
+But you can't rely on the tadpoles these days.
+[wait]
+
+// たよりにならん[br]
+// ゲロ。
+*ribbit*
+[wait]
+
+// そこで[br]
+// おぬしに[br]
+// あのマモノを
+So, I now call upon you to exterminate
+[wait]
+
+// たいじして[br]
+// もらいたいゲロ
+those monsters.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x8D
+#STARTMSG(0x157B0, 18, 1)
+
+// 『ボクが？[br]
+// できるかなあ…
+{Me? I don't know if I can...}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x8E
+#STARTMSG(0x157C2, 28, 1)
+
+// 『おぬしを[br]
+// まどうしと[br]
+// みこんで
+//{Please.
+{I beg of you to try,
+[wait]
+
+// たのむゲロ。
+//As one magician to another.[br]
+if you are indeed a magician...[br]
+*ribbit*}
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 6-0x8F
+#STARTMSG(0x157DE, 25, 1)
+
+// 『まどうし？[br]
+// それボクのこと[br]
+// いってんの？
+{Magician? You mean me?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x90
+#STARTMSG(0x157F7, 42, 1)
+
+// 『ちがうゲロ？[br]
+// ワシは[br]
+// おぬしから
+{Are you not?[br]
+*ribbit*
+[wait]
+
+// まどうの[br]
+// ちからを[br]
+// かんじたゲロ。
+I've felt magic power within you.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x91
+#STARTMSG(0x15821, 41, 1)
+
+// 『いやっはっは[br]
+// そのとーり。
+{Ah-ha-ha, yeah, you got it.
+[wait]
+
+// ボクはじつは[br]
+// まどうし[br]
+// だったのです。
+I AM, in fact, a magician.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x92
+#STARTMSG(0x1584A, 72, 1)
+
+// 『おお！[br]
+// やっぱりゲロ。
+{Oh! I knew it.[br]
+*ribbit*
+[wait]
+
+// では[br]
+// おぬしにコレを[br]
+// さずけるゲロ。
+Then I shall grant you this.[br]
+*ribbit*
+[wait]
+
+// ワシあいようの[br]
+// つるぎ…
+My favorite sword...
+[wait]
+
+// そのなも[br]
+// せいけん[br]
+// ゲロゲーロを。
+It's known as the holy sword `Ribbitur'.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x93
+#STARTMSG(0x15892, 15, 1)
+
+// 『ゲ、[br]
+// ゲロゲーロぉ
+{R... Ribbitur?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x94
+#STARTMSG(0x158A1, 34, 1)
+
+// 『てきの[br]
+// とくしゅ[br]
+// ぼうぎょを
+{It's an enchanted sword that nullifies
+[wait]
+
+// むこうにする[br]
+// まけんゲロ。
+the enemy's special defense.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x95
+#STARTMSG(0x158C3, 44, 1)
+
+// 『なまえが[br]
+// きになるけど[br]
+// せっかくだから
+{I'm not so sure about the name,
+[wait]
+
+// ありがたく[br]
+// つかわせて[br]
+// もらうね。
+but I'll make good use of it.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x96
+#STARTMSG(0x158EF, 25, 1)
+
+// 『うむ。[br]
+// ゲロゲーロで[br]
+// あくをうつゲロ
+{I'm sure you will.
+[wait]
+Use Ribbitur to vanquish evil.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x97
+#STARTMSG(0x15908, 32, 1)
+
+// 『この[br]
+// まどうし[br]
+// アルルちゃんに
+{Just leave it to me, Arle the Magician!}
+[wait]
+
+// まかせて[br]
+// おきなさいっ！
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x98
+#STARTMSG(0x15928, 42, 1)
+
+// 『では　すべて[br]
+// おぬしに[br]
+// まかすゲロ。
+{Well, it's all up to you now.[br]
+*ribbit*
+[wait]
+
+// ワシは[br]
+// またねむりに[br]
+// つくゲロ。
+I'm going back to bed.[br]
+*ribbit*}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 6-0x99
+#STARTMSG(0x15952, 15, 1)
+
+// ゲロゲーロ[br]
+// てにいれた
+Ribbitur[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x9A
+#STARTMSG(0x15961, 103, 1)
+
+// えいゆう[br]
+// カエルロッドの[br]
+// ぞうがある。
+There is a statue of the hero Toadin.
+[wait]
+
+// だいざに[br]
+// なにか[br]
+// かいてある。
+Something is[br]
+written on[br]
+the pede-[br]
+stal.
+[wait]
+
+// 『ワシが[br]
+// してやれるのは[br]
+// ここまでゲロ。
+{This is all I can do for you.[br]
+(ribbit)
+[wait]
+
+// あとは[br]
+// じぶんで[br]
+// がんばるゲロ。
+You'll have to make it on your own from here.[br]
+(ribbit)
+[wait]
+
+// じゃあ[br]
+// おやすみゲロ』
+Farewell,[br]
+and good-[br]
+night.[br]
+(ribbit)}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x9B
+#STARTMSG(0x159C8, 43, 1)
+
+// みなみから[br]
+// ものすごい[br]
+// キをかんじる。
+You sense a tremendous aura from the south.
+[wait]
+
+// とんでもない[br]
+// ヤツが[br]
+// いるみたい。
+There seems to be someone powerful there.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x9C
+#STARTMSG(0x159F3, 43, 1)
+
+// やや！[br]
+// このさきから[br]
+// ものスゴイきが
+Whoa whoa WHOA!
+[wait]
+There's a super scary presence that way.
+[wait]
+
+// これは[br]
+// ちかづかない[br]
+// ほうがいいな。
+I better not get close.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 6-0x9D
+#STARTMSG(0x15A1E, 63, 1)
+
+// おっしゃーッ！
+Aw YEEEAH!
+[wait]
+
+// ムテキな[br]
+// ようちえんじ[br]
+// ここにありィ！
+Make way[br]
+for the[br]
+invincible[br]
+kindergart-[br]
+ener!
+[wait]
+
+// このことを[br]
+// はやいとこ
+I've gotta let Mr. Frog know about this,
+[wait]
+
+// カエルさんに[br]
+// しらせて[br]
+// あげなくちゃ。
+straight away.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 6-0x9E
+#STARTMSG(0x15A5D, 16, 1)
+
+// しろてぶくろ[br]
+// てにいれた。
+White Mitten[small_s][br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+#ENDREGION(6)
+
+//===========================================================
+// Region 7
+//===========================================================
+
+#STARTREGION(7)
+
+// script 7-0x0
+#STARTMSG(0x15BAB, 20, 1)
+
+// たからばこが[br]
+// ある。
+There is a treasure chest.
+[wait]
+
+// あけますか？
+Open it?
+[end]
+
+#ENDMSG()
+
+// script 7-0x1
+#STARTMSG(0x15BBF, 19, 1)
+
+// わなかも[br]
+// しれないから[br]
+// やーめた。
+No way. It might be a trap.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x2
+#STARTMSG(0x15BD2, 19, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on a sign.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x3
+#STARTMSG(0x15BE5, 15, 1)
+
+// 『しあわせは[br]
+// もう　ない』
+{There is happiness no more}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x4
+#STARTMSG(0x15BF4, 21, 1)
+
+// 『ここに[br]
+// しあわせが[br]
+// ねむっている』
+{Here, happiness sleeps}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x5
+#STARTMSG(0x15C09, 23, 1)
+
+// 『ボロボロ』[br]
+// かべが[br]
+// くずれた。
+*crumble*[br]
+The wall collapses.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x6
+#STARTMSG(0x15C20, 16, 1)
+
+// もう　なにも[br]
+// おちてこない。
+Nothing else is coming down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x7
+#STARTMSG(0x15C30, 17, 1)
+
+// うえから[br]
+// なにか[br]
+// おちてきた。
+Something drops from above.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x8
+#STARTMSG(0x15C41, 18, 1)
+
+// おうごんリンゴ[br]
+// てにいれた。
+Golden Apple[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x9
+#STARTMSG(0x15C53, 13, 1)
+
+// いしころ[br]
+// てにいれた。
+Stone[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0xA
+#STARTMSG(0x15C60, 77, 1)
+
+// よしッ！[br]
+// いいゆかげんに[br]
+// なった。
+All right![br]
+The water's nice and comfy now.
+[wait]
+
+// それじゃあ[br]
+// ちょっと[br]
+// しつれいして…
+Now then, if[br]
+you'll ex-[br]
+cuse me for a moment...
+[wait]
+
+// んんんッ。[br]
+// いいゆだなあ。
+Mmmm![br]
+The water's so nice!
+[wait]
+
+// つかれが[br]
+// いっぺんで[br]
+// ふきとんだ。
+Your fatigue vanishes completely.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0xB
+#STARTMSG(0x15CAD, 19, 1)
+
+// おゆは[br]
+// じょうはつして[br]
+// きえた。
+The water evaporates away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0xC
+#STARTMSG(0x15CC0, 72, 1)
+
+// わあ。[br]
+// カチンカチンに[br]
+// こおった。
+Waah![br]
+It froze solid.
+[wait]
+
+// これは[br]
+// つめたそーだよ
+That looks cold.
+[wait]
+
+// あああ…[br]
+// ヒンヤリしてて[br]
+// きもちいい。
+Ahhh...![br]
+This coolness feels good.
+[wait]
+
+// なんだか[br]
+// あたまが[br]
+// すっきりした。
+Somehow, your head feels clear.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0xD
+#STARTMSG(0x15D08, 14, 1)
+
+// こおりは[br]
+// とけてきえた。
+The ice melts away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0xE
+#STARTMSG(0x15D16, 11, 1)
+
+// まほうじんだ！
+It's a magic circle!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0xF
+#STARTMSG(0x15D21, 13, 1)
+
+// わあッ！[br]
+// りゅうさッ？
+WAAAH![br]
+Quicksand!?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x10
+#STARTMSG(0x15D2E, 18, 1)
+
+// とびらに[br]
+// なにか[br]
+// かいてある。
+Something is written on the door.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x11
+#STARTMSG(0x15D40, 24, 1)
+
+// 『げきやすの[br]
+// ももものおみせ[br]
+// スグそこ』
+{Momomo's Discount Dungeon just ahead}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x12
+#STARTMSG(0x15D58, 21, 1)
+
+// 『このさき[br]
+// ちょーキケン[br]
+// ひきかえせ』
+{EXTREME HAZARD AHEAD![br]
+Turn back!}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x13
+#STARTMSG(0x15D6D, 78, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on the sign.
+[wait]
+
+// 『とざされた[br]
+// ほのおと[br]
+// こおりのもん。
+{A gate bound by ice and flame...
+[wait]
+
+// もんを　ひらく[br]
+// カギは
+The magic sphere placed in the gate's hollow
+[wait]
+
+// もんと　もんの[br]
+// はざまにある[br]
+// まどうきゅう』
+is the key.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x14
+#STARTMSG(0x15DBB, 24, 1)
+
+// カベに[br]
+// まどうきゅうが[br]
+// はまっている。
+A magic sphere is fitted into the wall.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x15
+#STARTMSG(0x15DD3, 21, 1)
+
+// まっかに[br]
+// ひかってて[br]
+// キレーだなあ。
+That red shine sure is pretty.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x16
+#STARTMSG(0x15DE8, 20, 1)
+
+// あおく[br]
+// ひかってて[br]
+// キレーだなあ。
+That blue shine sure is pretty.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x17
+#STARTMSG(0x15DFC, 20, 1)
+
+// しろく[br]
+// ひかってて[br]
+// キレーだなあ。
+That white shine sure is pretty.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x18
+#STARTMSG(0x15E10, 15, 1)
+
+// あかいとびらが[br]
+// ある。
+There is a red door.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x19
+#STARTMSG(0x15E1F, 22, 1)
+
+// まりょくの[br]
+// ふういんが[br]
+// とかれている。
+The magic seal has been released.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x1A
+#STARTMSG(0x15E35, 14, 1)
+
+// とびらは[br]
+// ひらかない。
+The door won't open.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x1B
+#STARTMSG(0x15E43, 20, 1)
+
+// まりょくで[br]
+// ふういん[br]
+// されている。
+It's been secured with magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x1C
+#STARTMSG(0x15E57, 15, 1)
+
+// あおいとびらが[br]
+// ある。
+There is a blue door.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x1D
+#STARTMSG(0x15E66, 32, 1)
+
+// 『うわさは[br]
+// きいたよ。
+{I've heard all about it!
+[wait]
+
+// わるモノと[br]
+// ケンカ[br]
+// するんだって？
+You're fighting some bad guys, right?}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x1E
+#STARTMSG(0x15E86, 20, 1)
+
+// 『アリュンてば[br]
+// よく[br]
+// しってるね。
+//{You and Alioune are well acquainted.}
+
+{You really know what's going on, Alioune.}
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x1F
+#STARTMSG(0x15E9A, 101, 1)
+
+// 『ふっふっふ。[br]
+// ようせいの[br]
+// ネットワークを
+{Heh-heh-[br]
+heh. Don't[br]
+underesti-[br]
+mate the
+[wait]
+
+// あまく[br]
+// みないでよね。
+fairy information network.
+[wait]
+
+// それにしても[br]
+// アルルも[br]
+// たいへんだね。
+But still, you've got your work cut out for you, Arle.
+[wait]
+
+// よしッ！[br]
+// ともだちの[br]
+// よしみだ。
+All right! If it's for the sake of a friend,
+[wait]
+
+// このアリュンが[br]
+// ひとはだ[br]
+// ぬごうじゃない
+I guess I can get my hands dirty too.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x20
+#STARTMSG(0x15EFF, 22, 1)
+
+// 『ええーッ！[br]
+// な、なぜに[br]
+// ハダカに？
+{WHAAAT!? Don't get your dirty hands on me!}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x21
+#STARTMSG(0x15F15, 47, 1)
+
+// 『ちっがーう！[br]
+// だれがハダカに[br]
+// なるかッ。
+{That's not what I meant!
+[wait]
+
+// あたしは[br]
+// すけだちすると[br]
+// いったの。
+I MEAN I'm going to help you out.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x22
+#STARTMSG(0x15F44, 20, 1)
+
+// 『な、なーんだ[br]
+// ボク[br]
+// てっきり…
+{B-But I'm sure I can...}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x23
+#STARTMSG(0x15F58, 53, 1)
+
+// 『まあ　いいわ
+{Come on, it's fine!
+[wait]
+
+// んじゃ[br]
+// １こ　まほうを[br]
+// おしえたげる。
+I'm going to teach you some magic.
+[wait]
+
+// げんえいの[br]
+// じゅもん[br]
+// イリュージョン
+This is the spell `Illusion'.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x24
+#STARTMSG(0x15F8D, 9, 1)
+
+// 『げんえい？
+{Illusion?}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x25
+#STARTMSG(0x15F96, 86, 1)
+
+// 『まぼろしの[br]
+// ことさ。
+{It's like a mirage.
+[wait]
+
+// げんえいで[br]
+// ドラゴンに[br]
+// ばける。
+You'll assume the form of a dragon.
+[wait]
+
+// するとマモノが[br]
+// こわがって[br]
+// ちかづかない。
+Then, out of fear,
+[wait]
+monsters will steer clear of you.
+[wait]
+
+// ザコとたたかう[br]
+// ひつようが[br]
+// なくなるんだ。
+Fighting grunts will be a thing of the past.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x26
+#STARTMSG(0x15FEC, 21, 1)
+
+// 『おおッ！[br]
+// それはなんとも[br]
+// ラッキー。
+{Whoooa! Talk about lucky!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x27
+#STARTMSG(0x16001, 18, 1)
+
+// イリュージョン[br]
+// をモノにした！
+You mastered Illusion!
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x28
+#STARTMSG(0x16013, 52, 1)
+
+// 『ふぉふぉふぉ[br]
+// よくきた。
+{Ho-ho-ho, welcome.
+[wait]
+
+// おまえさんに[br]
+// とっておきの[br]
+// じゅもんを
+Allow me to instruct you in the most invaluable of spells.}
+[wait]
+
+// でんじゅして[br]
+// あげよう。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x29
+#STARTMSG(0x16047, 40, 1)
+
+// 『どーしたの？[br]
+// シーリンてば。
+{What's wrong with you, Ceelyn[small_question]
+[wait]
+
+// おとしより[br]
+// みたいなこと[br]
+// いっちゃって。
+You sound like some old geezer.}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x2A
+#STARTMSG(0x1606F, 71, 1)
+
+// 『んもォ！[br]
+// ノリが[br]
+// わるいなあ。
+{Jeez! You're NO fun.
+[wait]
+
+// ふつうに[br]
+// じゅもんを[br]
+// おしえても
+Teaching a spell normally is so passe, you know?
+[wait]
+
+// おもしろく[br]
+// ないじゃない。
+That's why I've tried coming up with an act.}
+[wait]
+
+// だから[br]
+// えんしゅつ[br]
+// してみたのに。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x2B
+#STARTMSG(0x160B6, 16, 1)
+
+// 『それはまた[br]
+// ごくろーな。
+{Thanks for going to so much trouble...}
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x2C
+#STARTMSG(0x160C6, 74, 1)
+
+// 『わるモノを[br]
+// やっつける[br]
+// なんて
+{It's not every day I get to fight bad guys, you know.
+[wait]
+
+// めったにない[br]
+// ことだからね。
+
+//[wait]
+
+// おもいでに[br]
+// のこるよーな[br]
+// たたかいに
+That's why I figured I'd make it a battle to remember.}
+[wait]
+
+// したいなあ、と[br]
+// おもったわけ[br]
+// なのよ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x2D
+#STARTMSG(0x16110, 23, 1)
+
+// 『でも[br]
+// あそびじゃあ[br]
+// ないんだよ。
+{We're not just playing a game here...}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x2E
+#STARTMSG(0x16127, 40, 1)
+
+// 『だいじょーぶ[br]
+// だって。
+{It'll be fiiiiine.
+[wait]
+
+// あたしの[br]
+// じゅもんは[br]
+// スゴイんだから
+My magic's awesome, I'll have you know.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x2F
+#STARTMSG(0x1614F, 17, 1)
+
+// 『スゴイって[br]
+// どのくらい？
+{Like, how awesome?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x30
+#STARTMSG(0x16160, 43, 1)
+
+// 『しびれる[br]
+// くらいに[br]
+// スゴイの。
+{It's SHOCKINGLY awesome.
+[wait]
+
+// なんてったって[br]
+// かみなりの[br]
+// まほうだもん。
+It's lightning magic, after all!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x31
+#STARTMSG(0x1618B, 18, 1)
+
+// 『か、かみなり[br]
+// それはスゴイ。
+{L... Lightning? That IS awesome.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x32
+#STARTMSG(0x1619D, 16, 1)
+
+// 『そのなも[br]
+// ライトニング。
+{That's the name, too. It's called `Lightning'.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x33
+#STARTMSG(0x161AD, 45, 1)
+
+// 『ラ、[br]
+// ライトニング。[br]
+// カッコいい。
+{L... Lightning.[br]
+So COOL!
+[wait]
+
+// ボクはこーゆう[br]
+// ヤツをまって[br]
+// たんだよッ！
+I've been waiting for something like this!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x34
+#STARTMSG(0x161DA, 9, 1)
+
+// 『きにいった？
+{Interest-[br]
+ed?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x35
+#STARTMSG(0x161E3, 8, 1)
+
+// 『うんうん。
+{You bet.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x36
+#STARTMSG(0x161EB, 44, 1)
+
+// 『これでキミも[br]
+// でんげき[br]
+// バリバリの[br]
+// まどう[br]
+// しょうじょ[br]
+// なわけだ。
+{Now you,[br]
+too, will be[br]
+an electro-[br]
+magical girl
+[wait]
+crackling with electricity.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x37
+#STARTMSG(0x16217, 17, 1)
+
+// ライトニングを[br]
+// モノにした！
+You mastered Lightning!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x38
+#STARTMSG(0x16228, 13, 1)
+
+// わあッ！[br]
+// おとしあなッ？
+WAAAH![br]
+A pitfall!?
+[end]
+
+#ENDMSG()
+
+// script 7-0x39
+#STARTMSG(0x16235, 7, 1)
+
+// あいててて
+Owwww...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x3A
+#STARTMSG(0x1623C, 22, 1)
+
+// うわあ。[br]
+// キリで　なにも[br]
+// みえないよ。
+Whoa! I can't see anything in this fog!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x3B
+#STARTMSG(0x16252, 47, 1)
+
+// あれーッ？[br]
+// どーなってるの
+Huh? What's going on?
+[wait]
+
+// ここって[br]
+// さっきの[br]
+// いりぐちだよ。
+This is where I just came from.
+[wait]
+
+// おっかしい[br]
+// なあ…？
+How strange...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x3C
+#STARTMSG(0x16281, 27, 1)
+
+// きりをたたえた[br]
+// しんぴてきな[br]
+// いずみがある。
+There's a mysterious fog-filled fountain.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x3D
+#STARTMSG(0x1629C, 27, 1)
+
+// ファイヤーは[br]
+// いずみに[br]
+// のまれて
+The Fire spell disappears into the fountain.
+[wait]
+
+// きえてしまった
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x3E
+#STARTMSG(0x162B7, 39, 1)
+
+// うーん。[br]
+// まだまだ[br]
+// しゅぎょうが
+Hmm. I get the feeling I still don't have enough training.
+[wait]
+
+// たりないって[br]
+// かんじだなあ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x3F
+#STARTMSG(0x162DE, 26, 1)
+
+// みずが[br]
+// じょうはつして[br]
+// いずみがきえた
+The water evaporates,
+[wait]
+and the[br]
+fountain is[br]
+extinguish-[br]
+ed.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x40
+#STARTMSG(0x162F8, 42, 1)
+
+// ファイヤーの[br]
+// かりょくも[br]
+// あがってるよ。
+The intensity of my Fire has increased.
+[wait]
+
+// われながら[br]
+// ほれぼれ[br]
+// するなあ。
+I'm bewitch-[br]
+ed, if I do say so myself!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x41
+#STARTMSG(0x16322, 16, 1)
+
+// めんたまぐさ[br]
+// てにいれた。
+Focus Herbs[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x42
+#STARTMSG(0x16332, 15, 1)
+
+// カレーライス[br]
+// てにいれた。
+Curry[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x43
+#STARTMSG(0x16341, 17, 1)
+
+// いだてんぐさ[br]
+// てにいれた。
+Swift Herbs[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x44
+#STARTMSG(0x16352, 18, 1)
+
+// りゅうの[br]
+// しっぽ[br]
+// てにいれた。
+Dragon Tail[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x45
+#STARTMSG(0x16364, 23, 1)
+
+// くろいカギで[br]
+// くさりが[br]
+// はずれた。
+You use the Black Key to undo the chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x46
+#STARTMSG(0x1637B, 22, 1)
+
+// くろいくさりで[br]
+// ふういん[br]
+// されている。
+It's been secured with a black chain.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x47
+#STARTMSG(0x16391, 15, 1)
+
+// 『あッ[br]
+// どーもどーも。
+{Oh, hello, hello.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x48
+#STARTMSG(0x163A0, 11, 1)
+
+// 『キミ[br]
+// だーれ？
+{Who're you?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x49
+#STARTMSG(0x163AB, 78, 1)
+
+// 『あたしは[br]
+// コーラ。
+{My name is Cora.
+[wait]
+
+// もりのおくに[br]
+// すんでるの。
+I live deep within the forest.
+[wait]
+
+// ここにも[br]
+// マモノが[br]
+// あらわれたの。
+Monsters have shown up even here!
+[wait]
+
+// ひとりじゃ[br]
+// こわいよ。
+It's scary all by myself.
+[wait]
+
+// おねがい。[br]
+// わたしも[br]
+// つれてって。
+Please, take me with you!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x4A
+#STARTMSG(0x163F9, 32, 1)
+
+// ようせいの[br]
+// コーラが
+Cora the fairy invited herself into the party.
+[wait]
+
+// むりやり[br]
+// ついてくる[br]
+// ことになった。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x4B
+#STARTMSG(0x16419, 16, 1)
+
+// セイレーンのや[br]
+// てにいれた。
+//Siren's Arrow[br]
+//obtained.
+
+//Si[small_r]en[small_apostrophe]s[space2px]Arrow[br]
+//obtained.
+
+Siren's Arrow[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x4C
+#STARTMSG(0x16429, 26, 1)
+
+// めのまえに[br]
+// スイッチ。
+There's a switch in front of you.
+[wait]
+
+// スイッチを[br]
+// いれてみる？
+Flip it?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x4D
+#STARTMSG(0x16443, 15, 1)
+
+// とりあえず[br]
+// ほっとこう。
+I'll leave it alone for now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x4E
+#STARTMSG(0x16452, 21, 1)
+
+// あれ？[br]
+// このスイッチ[br]
+// もどらないや。
+Huh?[br]
+The switch won't flip back.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x4F
+#STARTMSG(0x16467, 22, 1)
+
+// ちかくで[br]
+// まりょくが[br]
+// かいほうされた
+Magic is released nearby.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x50
+#STARTMSG(0x1647D, 14, 1)
+
+// かちりと[br]
+// おとがした。
+You hear a click.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x51
+#STARTMSG(0x1648B, 35, 1)
+
+// とびらは[br]
+// ひらかない。
+The door won't open.
+[wait]
+
+// へんなまほうで[br]
+// ふういん[br]
+// されている。
+It's been secured by some strange magic.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x52
+#STARTMSG(0x164AE, 16, 1)
+
+// 『ハーッハッハ[br]
+// かかったな。
+{Haa-ha-ha! Gotcha!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x53
+#STARTMSG(0x164BE, 37, 1)
+
+// 『あッ[br]
+// とびらが[br]
+// あかないッ！
+{Ah! The door won't open!
+[wait]
+
+// ちょっと[br]
+// コーラっ！[br]
+// なんのマネ？
+Hey, Cora! What are you playing at!?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x54
+#STARTMSG(0x164E3, 110, 1)
+
+// 『フフフ。[br]
+// コーラとは[br]
+// かりのすがた…
+{Heh-heh-[br]
+heh.
+[wait]
+
+// あたしは[br]
+// サタンぐみの
+Cora is my undercover identity. The truth is,
+[wait]
+
+// ひみつ[br]
+// こうさくいん[br]
+// なのさッ！
+I'm a spy for the Satan Corps!
+[wait]
+
+// おまえらは[br]
+// いっしょう[br]
+// ここに
+You're gonna be trapped in here
+[wait]
+
+// とじこめられる[br]
+// のさ。
+for the rest of your lives.
+[wait]
+
+// これで　もう[br]
+// じゃまは[br]
+// できまい。
+That's the last time you get in our way!
+[wait]
+
+// ハーッハッハ。
+Haa-ha-ha!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x55
+#STARTMSG(0x16551, 26, 1)
+
+// 『くそーッ！
+{Dang it!
+[wait]
+
+// このアルル[br]
+// いっしょうの[br]
+// ふかく。
+That was the worst mistake of my life!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x56
+#STARTMSG(0x1656B, 15, 1)
+
+// 『どーしよう[br]
+// アルルぅ。
+{What are we gonna do, Arle?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x57
+#STARTMSG(0x1657A, 39, 1)
+
+// 『ハッ[br]
+// おまえら[br]
+// どーやって…
+{*gasp*[br]
+How did you...
+[wait]
+
+// えーいッ！[br]
+// こーなれば[br]
+// しかたないッ。
+AIEEE![br]
+If it's come to this, then so be it.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x58
+#STARTMSG(0x165A1, 19, 1)
+
+// あッ　マモノが[br]
+// カギをおとした
+{Oh, the monster dropped a key.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x59
+#STARTMSG(0x165B4, 15, 1)
+
+// くろいカギ[br]
+// てにいれた。
+Black Key[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x5A
+#STARTMSG(0x165C3, 22, 1)
+
+// かいだんが[br]
+// あるよ！
+There are stairs!
+[wait]
+
+// おりようかな？
+Go down?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x5B
+#STARTMSG(0x165D9, 11, 1)
+
+// やっぱ[br]
+// やめた。
+Not now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x5C
+#STARTMSG(0x165E4, 11, 1)
+
+// よし！[br]
+// おりよう。
+All right, let's go down!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x5D
+#STARTMSG(0x165EF, 13, 1)
+
+// 『ナ…[br]
+// ナニモノダ？
+{WHO... WHO ARE YOU?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x5E
+#STARTMSG(0x165FC, 19, 1)
+
+// 『わあ[br]
+// でっかい[br]
+// にんぎょう…
+{Wow, what a big doll...}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x5F
+#STARTMSG(0x1660F, 67, 1)
+
+// 『ワタシハ[br]
+// ニンギョウデハ[br]
+// ナイ。
+{I'M NOT A DOLL.
+[wait]
+
+// ワタシノナハ[br]
+// そくらてす。
+MY NAME IS SOCRATES.
+[wait]
+
+// コダイノ[br]
+// マドウシガ[br]
+// ツクッタ
+I'M AN IRON GOLEM FORGED BY
+[wait]
+
+// テツノ[br]
+// ごーれむダ。
+AN ANCIENT MAGICIAN.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x60
+#STARTMSG(0x16652, 40, 1)
+
+// 『へえ[br]
+// ソクラテスって[br]
+// ゆうんだ。
+{Oh, so you're called Socrates?
+[wait]
+
+// ソクラテスは[br]
+// ここで[br]
+// なにしてんの？
+What are you doing here, Socrates?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x61
+#STARTMSG(0x1667A, 44, 1)
+
+// 『ネムッテイタ
+{MY MASTER DIED WHILE ASLEEP,
+[wait]
+
+// アルジハ[br]
+// シンデシマイ
+AND I BECAME A TOOL WITHOUT A PURPOSE.}
+[wait]
+
+// ワタシハ[br]
+// ムヨウノものト[br]
+// ナッタノダ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x62
+#STARTMSG(0x166A6, 32, 1)
+
+// 『なんだか[br]
+// もったいない[br]
+// なあ。
+{That sure is a pity.
+[wait]
+
+// そんなに[br]
+// つよそーなのに
+You seem so strong.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x63
+#STARTMSG(0x166C6, 34, 1)
+
+// 『ン？[br]
+// ソナタハ[br]
+// マドウシカ？
+{HM? ARE YOU A MAGICIAN?
+[wait]
+
+// マドウリョクヲ[br]
+// カンジル…
+I CAN FEEL YOUR MAGICAL POWER.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x64
+#STARTMSG(0x166E8, 14, 1)
+
+// 『へっへー[br]
+// そーだよ。
+{Heh-heh-[br]
+heh, you bet!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x65
+#STARTMSG(0x166F6, 23, 1)
+
+// 『…ソナタ[br]
+// ワガ　アルジニ[br]
+// ナラヌカ？
+{WILL YOU BE MY MASTER?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x66
+#STARTMSG(0x1670D, 34, 1)
+
+// 『キミの？
+{Your master?
+[wait]
+
+// じゃあ　ボクと[br]
+// いっしょに
+Hmm... Will you fight alongside me?}
+[wait]
+
+// たたかって[br]
+// くれる？
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x67
+#STARTMSG(0x1672F, 36, 1)
+
+// 『アルジノ[br]
+// メイレイ[br]
+// ナラバナ。
+{IF MY MASTER COMMANDS SO.
+[wait]
+
+// ワタシモ[br]
+// ネムルノニ[br]
+// アキタ。
+BESIDES, I'M SICK OF SLEEPING.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x68
+#STARTMSG(0x16753, 15, 1)
+
+// 『いいよ。[br]
+// なったげる。
+{Okay, I'll do it.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x69
+#STARTMSG(0x16762, 43, 1)
+
+// 『オオ[br]
+// アリガトウ。
+{OHHH, THANK YOU.
+[wait]
+
+// サッソクダガ[br]
+// アタラシイ[br]
+// アルジヨ
+I KNOW THIS IS SUDDEN,
+[wait]
+
+// タノミガアル。
+BUT I HAVE A REQUEST OF MY NEW MASTER.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x6A
+#STARTMSG(0x1678D, 7, 1)
+
+// 『なーに？
+{What's that?}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 7-0x6B
+#STARTMSG(0x16794, 81, 1)
+
+// 『ココノ[br]
+// チカニアル[br]
+// はんがーカラ
+{I'D LIKE YOU TO FETCH MY PARTS FROM
+[wait]
+
+// ワタシノ[br]
+// ぱーつヲ
+THE NEARBY HANGAR.
+[wait]
+
+// トッテキテ[br]
+// ホシイ。
+SINCE I[br]
+HAVEN'T[br]
+BEEN MAIN-[br]
+TAINED IN SO LONG,
+[wait]
+
+// ナガイアイダ[br]
+// めんてなんす[br]
+// シテナイタメ
+I CAN'T MOVE.}
+[wait]
+
+// コノママデハ[br]
+// ウゴケナイ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 7-0x6C
+#STARTMSG(0x167E5, 21, 1)
+
+// 『わかったよ。[br]
+// ちょっと[br]
+// まっててネ。
+{Gotcha.[br]
+I'll be just a sec, okay?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x6D
+#STARTMSG(0x167FA, 23, 1)
+
+// 『オオ　ソウダ[br]
+// コレヲ[br]
+// モッテイクンダ
+{OH, THAT'S RIGHT. TAKE THIS WITH YOU.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x6E
+#STARTMSG(0x16811, 13, 1)
+
+// 『あッ[br]
+// ロープだ。
+{Oh, a rope.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x6F
+#STARTMSG(0x1681E, 55, 1)
+
+// 『イノチヅナダ[br]
+// コレガアレバ
+{IT'S A LIFELINE.
+[wait]
+
+// リュウサヲ[br]
+// コエルコトガ[br]
+// デキル。
+YOU CAN USE[br]
+IT TO PASS[br]
+OVER QUICK-[br]
+SAND.
+[wait]
+
+// 『アルジヨ[br]
+// ヨロシクタノム
+PLEASE LOOK AFTER IT, MASTER.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x70
+#STARTMSG(0x16855, 15, 1)
+
+// いのちづな[br]
+// てにいれた。
+Lifeline[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x71
+#STARTMSG(0x16864, 54, 1)
+
+// ソクラテスに[br]
+// バッテリーを[br]
+// わたした。
+You hand the Battery to Socrates.
+[wait]
+
+// 『オオ[br]
+// バッテリー！
+{OH, A BATTERY!
+[wait]
+
+// モウスグ[br]
+// キレソウ[br]
+// ダッタノダ。
+I WAS JUST ABOUT TO RUN OUT.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x72
+#STARTMSG(0x1689A, 53, 1)
+
+// ソクラテスに[br]
+// くろいハコを[br]
+// わたした。
+You hand the Black Box to Socrates.
+[wait]
+
+// 『オオ[br]
+// くろいハコ！
+{OH, A BLACK BOX!
+[wait]
+
+// コレガナケレバ[br]
+// ハナシニ[br]
+// ナラナイ。
+I CAN'T SPEAK WITHOUT ONE OF THOSE.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x73
+#STARTMSG(0x168CF, 54, 1)
+
+// ソクラテスに[br]
+// さびとりを[br]
+// わたした。
+You hand the Rust Remover to Socrates.
+[wait]
+
+// 『オオ[br]
+// さびとり！
+{OH, RUST REMOVER!
+[wait]
+
+// コレデぼでぃガ[br]
+// ぴかぴかダ。
+NOW MY BODY WILL SHINE.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x74
+#STARTMSG(0x16905, 47, 1)
+
+// ソクラテスに[br]
+// オイルを[br]
+// わたした。
+You hand the Oil to Socrates.
+[wait]
+
+// 『オオ[br]
+// オイル！
+{OH, OIL!
+[wait]
+
+// カンセツガ[br]
+// ナメラカニ[br]
+// ウゴク。
+MY JOINTS WILL MOVE SMOOTHLY.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x75
+#STARTMSG(0x16934, 71, 1)
+
+// ソクラテスに[br]
+// まどうリボンを[br]
+// みせた。
+You show the Sorcery Ribbon to Socrates.
+[wait]
+
+// 『オオ[br]
+// まどうリボン！
+{OH, A SORCERY RIBBON!
+[wait]
+
+// アルジヨ[br]
+// ワタシニ[br]
+// メイレイヲ
+MASTER, USE THIS WHEN YOU HAVE
+[wait]
+
+// スルトキハ[br]
+// コレデ[br]
+// シテクレ。
+A COMMAND TO GIVE TO ME.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x76
+#STARTMSG(0x1697B, 43, 1)
+
+// 『アルジヨ[br]
+// マダ　ワタシハ[br]
+// ウゴケヌ。
+{MASTER, I STILL CAN'T MOVE.
+[wait]
+
+// チカカラ[br]
+// ぱーつヲ[br]
+// トッテキテクレ
+PLEASE RETRIEVE MY PARTS FROM BELOW.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x77
+#STARTMSG(0x169A6, 49, 1)
+
+// 『ヨシ[br]
+// アルジヨ
+{ALL RIGHT, MASTER.
+[wait]
+
+// しすてむ[br]
+// おーるぐりーん
+SYSTEMS ALL GREEN.
+[wait]
+
+// ジュンビ[br]
+// カンリョウダ。
+PREPARATION COMPLETE.
+[wait]
+
+// サア　ユコウ。
+NOW, LET'S GO.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x78
+#STARTMSG(0x169D7, 16, 1)
+
+// ソクラテスを[br]
+// おともにした！
+Socrates joined you!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x79
+#STARTMSG(0x169E7, 15, 1)
+
+// からだが[br]
+// しずむー！！
+My body is sinking!
+[end]
+
+#ENDMSG()
+
+// script 7-0x7A
+#STARTMSG(0x169F6, 34, 1)
+
+// …ふう。[br]
+// いのちづなの[br]
+// おかげで
+...Whew. I made it without falling
+[wait]
+
+// おちずに[br]
+// すんだよ。
+thanks to the Lifeline.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 7-0x7B
+#STARTMSG(0x16A18, 32, 1)
+
+// とびらに[br]
+// なにか[br]
+// かいてある。
+Something is written on the door.
+[wait]
+
+// 『りゅうさに[br]
+// ちゅうい！』
+{WARNING: Quicksand!}
+[wait]
+[end]
+
+#ENDMSG()
+
+#ENDREGION(7)
+
+//===========================================================
+// Region 8
+//===========================================================
+
+#STARTREGION(8)
+
+// script 8-0x0
+#STARTMSG(0x16B30, 20, 1)
+
+// たからばこが[br]
+// ある。
+There is a treasure chest.
+[wait]
+
+// あけますか？
+Open it?
+[end]
+
+#ENDMSG()
+
+// script 8-0x1
+#STARTMSG(0x16B44, 19, 1)
+
+// わなかも[br]
+// しれないから[br]
+// やーめた。
+No way. It might be a trap.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x2
+#STARTMSG(0x16B57, 19, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on a sign.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x3
+#STARTMSG(0x16B6A, 15, 1)
+
+// 『しあわせは[br]
+// もう　ない』
+{There is happiness no more}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x4
+#STARTMSG(0x16B79, 21, 1)
+
+// 『ここに[br]
+// しあわせが[br]
+// ねむっている』
+{Here, happiness sleeps}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x5
+#STARTMSG(0x16B8E, 23, 1)
+
+// 『ボロボロ』[br]
+// かべが[br]
+// くずれた。
+*crumble*[br]
+The wall collapses.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x6
+#STARTMSG(0x16BA5, 16, 1)
+
+// もう　なにも[br]
+// おちてこない。
+Nothing else is coming down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x7
+#STARTMSG(0x16BB5, 17, 1)
+
+// うえから[br]
+// なにか[br]
+// おちてきた。
+Something drops from above.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x8
+#STARTMSG(0x16BC6, 18, 1)
+
+// おうごんリンゴ[br]
+// てにいれた。
+Golden Apple[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x9
+#STARTMSG(0x16BD8, 13, 1)
+
+// いしころ[br]
+// てにいれた。
+Stone[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0xA
+#STARTMSG(0x16BE5, 77, 1)
+
+// よしッ！[br]
+// いいゆかげんに[br]
+// なった。
+All right![br]
+The water's nice and comfy now.
+[wait]
+
+// それじゃあ[br]
+// ちょっと[br]
+// しつれいして…
+Now then, if[br]
+you'll ex-[br]
+cuse me for a moment...
+[wait]
+
+// んんんッ。[br]
+// いいゆだなあ。
+Mmmm![br]
+The water's so nice!
+[wait]
+
+// つかれが[br]
+// いっぺんで[br]
+// ふきとんだ。
+Your fatigue vanishes completely.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0xB
+#STARTMSG(0x16C32, 19, 1)
+
+// おゆは[br]
+// じょうはつして[br]
+// きえた。
+The water evaporates away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0xC
+#STARTMSG(0x16C45, 72, 1)
+
+// わあ。[br]
+// カチンカチンに[br]
+// こおった。
+Waah![br]
+It froze solid.
+[wait]
+
+// これは[br]
+// つめたそーだよ
+That looks cold.
+[wait]
+
+// あああ…[br]
+// ヒンヤリしてて[br]
+// きもちいい。
+Ahhh...![br]
+This coolness feels good.
+[wait]
+
+// なんだか[br]
+// あたまが[br]
+// すっきりした。
+Somehow, your head feels clear.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0xD
+#STARTMSG(0x16C8D, 14, 1)
+
+// こおりは[br]
+// とけてきえた。
+The ice melts away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0xE
+#STARTMSG(0x16C9B, 11, 1)
+
+// まほうじんだ！
+It's a magic circle!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0xF
+#STARTMSG(0x16CA6, 13, 1)
+
+// わあッ！[br]
+// りゅうさッ？
+WAAAH![br]
+Quicksand!?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x10
+#STARTMSG(0x16CB3, 18, 1)
+
+// とびらに[br]
+// なにか[br]
+// かいてある。
+Something is written on the door.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x11
+#STARTMSG(0x16CC5, 24, 1)
+
+// 『げきやすの[br]
+// ももものおみせ[br]
+// スグそこ』
+{Momomo's Discount Dungeon just ahead}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x12
+#STARTMSG(0x16CDD, 21, 1)
+
+// 『このさき[br]
+// ちょーキケン[br]
+// ひきかえせ』
+{EXTREME HAZARD AHEAD![br]
+Turn back!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x13
+#STARTMSG(0x16CF2, 23, 1)
+
+// かいだんが[br]
+// あるよ！
+There are stairs!
+[wait]
+
+// のぼろうかな？
+Go up?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x14
+#STARTMSG(0x16D09, 11, 1)
+
+// やっぱ[br]
+// やめた。
+Not now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x15
+#STARTMSG(0x16D14, 12, 1)
+
+// よし！[br]
+// のぼろう。
+All right, let's go up!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x16
+#STARTMSG(0x16D20, 22, 1)
+
+// かいだんが[br]
+// あるよ！
+There are stairs!
+[wait]
+
+// おりようかな？
+Go down?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x17
+#STARTMSG(0x16D36, 11, 1)
+
+// よし！[br]
+// おりよう。
+All right, let's go down!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x18
+#STARTMSG(0x16D41, 7, 1)
+
+// あいててて
+Owwww...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x19
+#STARTMSG(0x16D48, 16, 1)
+
+// のうてんぐさ[br]
+// てにいれた。
+Vigor Herbs[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x1A
+#STARTMSG(0x16D58, 35, 1)
+
+// すいろに[br]
+// ボートが[br]
+// うかんでいる。
+There is a boat floatin[small_g] in the waterway.
+[wait]
+
+// ボートに[br]
+// のってみる？
+Board it?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x1B
+#STARTMSG(0x16D7B, 18, 1)
+
+// また　こんどに[br]
+// しとこーっと。
+Maybe next time.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x1C
+#STARTMSG(0x16D8D, 17, 1)
+
+// やっほーッ！[br]
+// しゅっぱーつ。
+YAHOO! Here we go!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x1D
+#STARTMSG(0x16D9E, 15, 1)
+
+// もももざけ[br]
+// てにいれた。
+Momomo[space3px]Sake[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x1E
+#STARTMSG(0x16DAD, 19, 1)
+
+// スイッチは[br]
+// したに[br]
+// はいっている。
+The switch is flipped downward.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x1F
+#STARTMSG(0x16DC0, 19, 1)
+
+// スイッチは[br]
+// うえに[br]
+// はいっている。
+The switch is flipped upward.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x20
+#STARTMSG(0x16DD3, 14, 1)
+
+// スイッチを[br]
+// うごかす？
+Flip the switch?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x21
+#STARTMSG(0x16DE1, 15, 1)
+
+// とりあえず[br]
+// ほっとこう。
+I'll leave it alone for now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x22
+#STARTMSG(0x16DF0, 19, 1)
+
+// すいろの[br]
+// ながれが[br]
+// かわった。
+The water-[br]
+way's flow[br]
+has changed[small_period]
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x23
+#STARTMSG(0x16E03, 15, 1)
+
+// りゅうのつの[br]
+// てにいれた。
+Dragon Horn[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x24
+#STARTMSG(0x16E12, 15, 1)
+
+// バッテリー[br]
+// てにいれた。
+Battery[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x25
+#STARTMSG(0x16E21, 17, 1)
+
+// まどうリボン[br]
+// てにいれた。
+Sorcery Ribbon[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x26
+#STARTMSG(0x16E32, 16, 1)
+
+// しろてぶくろ[br]
+// てにいれた。
+White Mitten[small_s][br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x27
+#STARTMSG(0x16E42, 14, 1)
+
+// くろいハコ[br]
+// てにいれた。
+Black Box[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x28
+#STARTMSG(0x16E50, 14, 1)
+
+// さびとり[br]
+// てにいれた。
+Rust Remover[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x29
+#STARTMSG(0x16E5E, 12, 1)
+
+// オイル[br]
+// てにいれた。
+Oil[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x2A
+#STARTMSG(0x16E6A, 17, 1)
+
+// いだてんぐさ[br]
+// てにいれた。
+Swift Herbs[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x2B
+#STARTMSG(0x16E7B, 16, 1)
+
+// めんたまぐさ[br]
+// てにいれた。
+Focus Herbs[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x2C
+#STARTMSG(0x16E8B, 29, 1)
+
+// うえから[br]
+// なにか[br]
+// おちてきた。
+Something drops from above.
+[wait]
+
+// いしころ[br]
+// てにいれた。
+Stone[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x2D
+#STARTMSG(0x16EA8, 20, 1)
+
+// これいじょう[br]
+// おもくて[br]
+// もてない。
+You can't hold any more weight.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x2E
+#STARTMSG(0x16EBC, 22, 1)
+
+// とびらは[br]
+// ちょっとだけ[br]
+// あいている。
+The door is open just a little.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x2F
+#STARTMSG(0x16ED2, 44, 1)
+
+// おかしな[br]
+// しかけの[br]
+// とびらがある。
+There's a[br]
+door with an[br]
+odd mecha-[br]
+nism.
+[wait]
+
+// かごにおもしを[br]
+// いれると[br]
+// ひらくようだ。
+It looks like it opens when weight is placed
+[wait]
+in the basket.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x30
+#STARTMSG(0x16EFE, 19, 1)
+
+// とびらは[br]
+// けっこう[br]
+// あいている。
+The door is slightly open.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 8-0x31
+#STARTMSG(0x16F11, 37, 1)
+
+// このかごに[br]
+// おもしを[br]
+// いれると
+It looks like a mechanism that will open the door
+[wait]
+
+// とびらが[br]
+// ひらく[br]
+// しかけみたい。
+when weight is placed in the basket.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 8-0x32
+#STARTMSG(0x16F36, 17, 1)
+
+// かごに[br]
+// いしころを[br]
+// いれた。
+You place the Stone in the basket.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x33
+#STARTMSG(0x16F47, 19, 1)
+
+// けっこう[br]
+// とびらが[br]
+// ひらいた。
+The door opens slightly.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x34
+#STARTMSG(0x16F5A, 21, 1)
+
+// すこしだけ[br]
+// とびらが[br]
+// ひらいた。
+The door opens just a little.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x35
+#STARTMSG(0x16F6F, 16, 1)
+
+// とびらは[br]
+// ぜんかいした。
+The door opens fully.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 8-0x36
+#STARTMSG(0x16F7F, 15, 1)
+
+// カレーライス[br]
+// てにいれた。
+Curry[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+#ENDREGION(8)
+
+//===========================================================
+// Region 9
+//===========================================================
+
+#STARTREGION(9)
+
+// script 9-0x0
+#STARTMSG(0x16FFC, 20, 1)
+
+// たからばこが[br]
+// ある。
+There is a treasure chest.
+[wait]
+
+// あけますか？
+Open it?
+[end]
+
+#ENDMSG()
+
+// script 9-0x1
+#STARTMSG(0x17010, 19, 1)
+
+// わなかも[br]
+// しれないから[br]
+// やーめた。
+No way. It might be a trap.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x2
+#STARTMSG(0x17023, 19, 1)
+
+// カンバンに[br]
+// なにか[br]
+// かいてある。
+Something is written on a sign.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x3
+#STARTMSG(0x17036, 15, 1)
+
+// 『しあわせは[br]
+// もう　ない』
+{There is happiness no more}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x4
+#STARTMSG(0x17045, 21, 1)
+
+// 『ここに[br]
+// しあわせが[br]
+// ねむっている』
+{Here, happiness sleeps}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x5
+#STARTMSG(0x1705A, 23, 1)
+
+// 『ボロボロ』[br]
+// かべが[br]
+// くずれた。
+*crumble*[br]
+The wall collapses.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x6
+#STARTMSG(0x17071, 16, 1)
+
+// もう　なにも[br]
+// おちてこない。
+Nothing else is coming down.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x7
+#STARTMSG(0x17081, 17, 1)
+
+// うえから[br]
+// なにか[br]
+// おちてきた。
+Something drops from above.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x8
+#STARTMSG(0x17092, 18, 1)
+
+// おうごんリンゴ[br]
+// てにいれた。
+Golden Apple[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x9
+#STARTMSG(0x170A4, 13, 1)
+
+// いしころ[br]
+// てにいれた。
+Stone[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0xA
+#STARTMSG(0x170B1, 77, 1)
+
+// よしッ！[br]
+// いいゆかげんに[br]
+// なった。
+All right![br]
+The water's nice and comfy now.
+[wait]
+
+// それじゃあ[br]
+// ちょっと[br]
+// しつれいして…
+Now then, if[br]
+you'll ex-[br]
+cuse me for a moment...
+[wait]
+
+// んんんッ。[br]
+// いいゆだなあ。
+Mmmm![br]
+The water's so nice!
+[wait]
+
+// つかれが[br]
+// いっぺんで[br]
+// ふきとんだ。
+Your fatigue vanishes completely.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0xB
+#STARTMSG(0x170FE, 19, 1)
+
+// おゆは[br]
+// じょうはつして[br]
+// きえた。
+The water evaporates away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0xC
+#STARTMSG(0x17111, 72, 1)
+
+// わあ。[br]
+// カチンカチンに[br]
+// こおった。
+Waah![br]
+It froze solid.
+[wait]
+
+// これは[br]
+// つめたそーだよ
+That looks cold.
+[wait]
+
+// あああ…[br]
+// ヒンヤリしてて[br]
+// きもちいい。
+Ahhh...![br]
+This coolness feels good.
+[wait]
+
+// なんだか[br]
+// あたまが[br]
+// すっきりした。
+Somehow, your head feels clear.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0xD
+#STARTMSG(0x17159, 14, 1)
+
+// こおりは[br]
+// とけてきえた。
+The ice melts away.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0xE
+#STARTMSG(0x17167, 11, 1)
+
+// まほうじんだ！
+It's a magic circle!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0xF
+#STARTMSG(0x17172, 13, 1)
+
+// わあッ！[br]
+// りゅうさッ？
+WAAAH![br]
+Quicksand!?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x10
+#STARTMSG(0x1717F, 18, 1)
+
+// とびらに[br]
+// なにか[br]
+// かいてある。
+Something is written on the door.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x11
+#STARTMSG(0x17191, 24, 1)
+
+// 『げきやすの[br]
+// ももものおみせ[br]
+// スグそこ』
+{Momomo's Discount Dungeon just ahead}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x12
+#STARTMSG(0x171A9, 21, 1)
+
+// 『このさき[br]
+// ちょーキケン[br]
+// ひきかえせ』
+{EXTREME HAZARD AHEAD![br]
+Turn back!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x13
+#STARTMSG(0x171BE, 17, 1)
+
+// いだてんぐさ[br]
+// てにいれた。
+Swift Herbs[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x14
+#STARTMSG(0x171CF, 15, 1)
+
+// りゅうのツメ[br]
+// てにいれた。
+Dragon Claw[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x15
+#STARTMSG(0x171DE, 16, 1)
+
+// セイレーンのや[br]
+// てにいれた。
+Siren's Arrow[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x16
+#STARTMSG(0x171EE, 22, 1)
+
+// かいだんが[br]
+// あるよ！
+There are stairs!
+[wait]
+
+// おりようかな？
+Go down?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x17
+#STARTMSG(0x17204, 11, 1)
+
+// やっぱ[br]
+// やめた。
+Not now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x18
+#STARTMSG(0x1720F, 11, 1)
+
+// よし！[br]
+// おりよう。
+All right, let's go down!
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x19
+#STARTMSG(0x1721A, 23, 1)
+
+// かいだんが[br]
+// あるよ！
+There are stairs!
+[wait]
+
+// のぼろうかな？
+Go up?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x1A
+#STARTMSG(0x17231, 12, 1)
+
+// よし！[br]
+// のぼろう。
+All right, let's go up!
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x1B
+#STARTMSG(0x1723D, 80, 1)
+
+// 『きかんしの[br]
+// こころえ。
+{ENGINEER RULES
+[wait]
+
+// エンジンルーム[br]
+// では　あんぜん[br]
+// だいいち。
+Safety first in the engine room!
+[wait]
+
+// まえみて[br]
+// みぎみて。[br]
+// ひだりをみる。
+Look to the front, to the right, and to the left.
+[wait]
+
+// あんぜん[br]
+// かくにんを[br]
+// わすれるな』
+Don't forget to confirm your safety.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x1C
+#STARTMSG(0x1728D, 37, 1)
+
+// 『このさき[br]
+// エンジンルーム
+{This Way: Engine Room
+[wait]
+
+// かんけいしゃ[br]
+// いがいは[br]
+// はいるなッ！』
+Authorized personnel only!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x1D
+#STARTMSG(0x172B2, 42, 1)
+
+// ゴオンゴオンと[br]
+// ひくく[br]
+// うなるよーな
+You hear the sound of a machine
+[wait]
+
+// きかいの[br]
+// うごくおとが[br]
+// きこえる。
+that seems to whir with a low hum.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x1E
+#STARTMSG(0x172DC, 54, 1)
+
+// 『みぎ[br]
+// エンジン[br]
+// せいぎょしつ。
+{Right: Engine Control Roo[small_m]
+[wait]
+
+// エンジンを[br]
+// とめるばあいは
+Boss's permission required to stop the engine.}
+[wait]
+
+// おやかたの[br]
+// ゆるしを[br]
+// えること』
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x1F
+#STARTMSG(0x17312, 26, 1)
+
+// めのまえに[br]
+// スイッチ。
+There's a switch in front of you.
+[wait]
+
+// スイッチを[br]
+// いれてみる？
+Flip it?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x20
+#STARTMSG(0x1732C, 15, 1)
+
+// とりあえず[br]
+// ほっとこう。
+I'll leave it alone for now.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x21
+#STARTMSG(0x1733B, 21, 1)
+
+// あれ？[br]
+// このスイッチ[br]
+// もどらないや。
+Huh?[br]
+The switch won't flip back.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x22
+#STARTMSG(0x17350, 22, 1)
+
+// ようさいの[br]
+// エンジンが[br]
+// ていしした。
+The fort-[br]
+ress' engine comes to a stop.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x23
+#STARTMSG(0x17366, 14, 1)
+
+// かちりと[br]
+// おとがした。
+You hear a click.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x24
+#STARTMSG(0x17374, 39, 1)
+
+// ありゃりゃ？[br]
+// スイッチが[br]
+// もどったよ。
+Huh? The switch flipped back!
+[wait]
+
+// どーなってんの[br]
+// これって…？
+What's going on here...?
+[wait]
+[end]
+// TODO: check
+
+#ENDMSG()
+
+// script 9-0x25
+#STARTMSG(0x1739B, 102, 1)
+
+// どこからか[br]
+// こえが[br]
+// きこえる。
+You hear a voice from somewhere.
+[wait]
+
+// 『ようさい[br]
+// かどうちゅうは[br]
+// きけんなため
+{Due to risk of injury, the magic circle
+[wait]
+
+// まほうじんは[br]
+// しよう[br]
+// できません。
+may not be[br]
+used while[br]
+the fortres[small_s][br]
+is in motion.
+[wait]
+
+// さいあく[br]
+// テレポートに[br]
+// しっぱいすると
+In the worst[br]
+case, failur[small_e][br]
+may result
+[wait]
+
+// いしのなかに[br]
+// しゅつげん[br]
+// します』
+in telepor-[br]
+tation into solid matter.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x26
+#STARTMSG(0x17401, 22, 1)
+
+// ちかくで[br]
+// まりょくが[br]
+// かいほうされた
+Magic is released nearby.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x27
+#STARTMSG(0x17417, 33, 1)
+
+// あれ？[br]
+// このスイッチ[br]
+// もどらないや。
+//Huh?[br]
+//The switch won't flip back.
+
+Huh?[br]
+The switch won't flip.
+[wait]
+
+// こわれてんの[br]
+// かなあ？
+Is it broken?
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x28
+#STARTMSG(0x17438, 13, 1)
+
+// わあッ！[br]
+// おとしあなッ？
+WAAAH![br]
+A pitfall!?
+[end]
+
+#ENDMSG()
+
+// script 9-0x29
+#STARTMSG(0x17445, 7, 1)
+
+// あいててて
+Owwww...
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x2A
+#STARTMSG(0x1744C, 38, 1)
+
+// 『ああッ！[br]
+// ツノとつばさの[br]
+// ハデなおじさん
+{AHH! I finally found that showy guy
+[wait]
+
+// やっと[br]
+// みつけたぞ。
+with the horns and wings!}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x2B
+#STARTMSG(0x17472, 75, 1)
+
+// 『あのときの[br]
+// なまいきな[br]
+// こどもか…
+{If it isn't[br]
+the smart-[br]
+mouthed[space3px]bra[small_t][br]
+from before...
+[wait]
+
+// わが[br]
+// サタンぐみに[br]
+// はむかう
+I heard that a magician had risen up
+[wait]
+
+// まどうしが[br]
+// いると[br]
+// きいていたが…
+against my Satan Corps, but...
+[wait]
+
+// まさか[br]
+// おまえ[br]
+// だったとは。
+Never did I think it would turn out to be you.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x2C
+#STARTMSG(0x174BD, 68, 1)
+
+// 『さあ　もう[br]
+// かんねん[br]
+// しなよッ！
+{Come on, just give it up!
+[wait]
+
+// いたいめに[br]
+// あいたく[br]
+// なかったら
+Pack your bags and leave the forest right now
+[wait]
+
+// にもつを[br]
+// まとめて
+unless you want to get hurt!}
+[wait]
+
+// はやいとこ[br]
+// このもりから[br]
+// でてってよッ！
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x2D
+#STARTMSG(0x17501, 37, 1)
+
+// 『こども[br]
+// らしからぬ[br]
+// セリフ…
+{Words so unbefitting of a child...
+[wait]
+
+// ゆくすえが[br]
+// ふあんな[br]
+// ヤツだな。
+I fear for your future.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x2E
+#STARTMSG(0x17526, 52, 1)
+
+// 『ほっといてよ
+{Back off, mister!
+[wait]
+
+// でも　なかなか[br]
+// カッコよかった[br]
+// でしょ？
+But yeah, that was pretty cool, huh?
+[wait]
+
+// シーリンに[br]
+// おしえて[br]
+// もらったんだよ
+Ceelyn taught it to me.}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x2F
+#STARTMSG(0x1755A, 140, 1)
+
+// 『…なるほど。
+{...I see.
+[wait]
+
+// ようせいを[br]
+// なかまに[br]
+// していたのか。
+So you're in this with the fairies.
+[wait]
+
+// だが[br]
+// それしきでは[br]
+// わが　やぼうを
+But such[br]
+trifles are[br]
+insufficient[br]
+to crush my[br]
+ambitions.
+[wait]
+
+// くじくことは[br]
+// できんぞ。
+
+//[wait]
+
+// このちに[br]
+// さいだいの[br]
+// ゆうえんちと
+I'll make you obey, for the sake of building
+[wait]
+
+// ハーレムを[br]
+// きずくため
+the largest theme park and harem in the land!
+[wait]
+
+// おまえには[br]
+// おとなしく[br]
+// してもらおう。
+Oh, don't worry.
+[wait]
+
+// あんしんしろ。[br]
+// ころしは[br]
+// しないから。
+I don't plan on killing you.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x30
+#STARTMSG(0x175E6, 48, 1)
+
+// 『？　？　？
+{???
+[wait]
+
+// ごめーん。[br]
+// むずかしくて
+Sorry, I didn't really get any of that.}
+[wait]
+
+// いってるイミが[br]
+// ぜーんぜん[br]
+// わかんないや。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x31
+#STARTMSG(0x17616, 24, 1)
+
+// 『だーッ！
+{Wha...!
+[wait]
+
+// か、かんたんに[br]
+// いうとだな。
+I-I'll put it in layman's terms for you.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x32
+#STARTMSG(0x1762E, 8, 1)
+
+// 『うんうん。
+{Okey-[br]
+dokey.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x33
+#STARTMSG(0x17636, 22, 1)
+
+// 『おまえを[br]
+// なかしちゃる[br]
+// ってことだ。
+{I'm gonna send you crying home to Mommy.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x34
+#STARTMSG(0x1764C, 25, 1)
+
+// 『なにーッ！[br]
+// いじめっこは[br]
+// ゆるさないぞ。
+{WHAT!?[br]
+I won't stand for bullying!}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x35
+#STARTMSG(0x17665, 84, 1)
+
+// 『い、[br]
+// いじめっこ…
+{B...[br]
+Bullying...
+[wait]
+
+// ほかにまだ[br]
+// いいようが[br]
+// あるだろーが。
+Couldn't you have found a better way to put it?
+[wait]
+
+// まあ　いい。[br]
+// イミがつうじた[br]
+// だけでもな。
+Whatever. You've got the idea, anyway.
+[wait]
+
+// というわけで[br]
+// かかってくるが[br]
+// いい。
+How about we get down to business, then?}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x36
+#STARTMSG(0x176B9, 9, 1)
+
+// 『よぉーしッ！
+{All RIGHT!}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x37
+#STARTMSG(0x176C2, 28, 1)
+
+// 『おやかたの[br]
+// へや。
+{Boss's Room
+[wait]
+
+// ノックを[br]
+// してから[br]
+// はいろう』
+Knock before entering.}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x38
+#STARTMSG(0x176DE, 52, 1)
+
+// 『クゥゥゥッ。
+{ZZZZZ...
+[wait]
+
+// コノ　キセツハ[br]
+// ナマノデンキニ[br]
+// カギル。
+THIS TIME OF[br]
+YEAR, I'M[br]
+LIMITED TO[br]
+RAW ELEC-[br]
+TRICITY.
+[wait]
+
+// ゴゾウロップニ[br]
+// シミワタルゼ。
+IT PERMEATE[small_S][br]
+EVERY FIBER[br]
+OF MY BEING.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x39
+#STARTMSG(0x17712, 39, 1)
+
+// へんてこで[br]
+// イミふめいな[br]
+// きかいがある。
+There is a strange, cryptic device.
+[wait]
+
+// さわると[br]
+// あぶなそーだ。
+It looks dangerous to touch.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x3A
+#STARTMSG(0x17739, 48, 1)
+
+// 『さゆうのへや[br]
+// ゴーレムよう[br]
+// じゅうでんしつ
+{Left and Right: Golem Charging Rooms
+[wait]
+
+// こうでんあつ[br]
+// なんで[br]
+// ようちゅうい』
+CAUTION: High Voltage}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x3B
+#STARTMSG(0x17769, 33, 1)
+
+// 『…？
+{...?
+[wait]
+
+// ねえ[br]
+// たたかわないん[br]
+// だったら
+Hey, if you're not gonna fight,
+[wait]
+
+// そこを[br]
+// どいてよ。
+could you move over?}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x3C
+#STARTMSG(0x1778A, 79, 1)
+
+// 『だめダ。
+{NO.
+[wait]
+
+// ヒルヤスミヲ[br]
+// ノゾキ
+IT'S MY JOB TO GUARD THIS PLACE FROM 9 TO 5,
+[wait]
+
+// ９ジカラ[br]
+// ５ジマデノ[br]
+// アイダ
+EXCEPT FOR LUNCH BREAK.
+[wait]
+
+// ココヲ[br]
+// マモルノガ[br]
+// おれノ　シゴト
+NOW, YOU'RE IN MY WAY. BEAT IT.}
+[wait]
+
+// サア[br]
+// じゃまダカラ[br]
+// ドッカイケ
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x3D
+#STARTMSG(0x177D9, 57, 1)
+
+// 『ヤヤッ[br]
+// オマエハ[br]
+// サッキノ…
+{WELL, WELL... THE ONE FROM BEFORE...
+[wait]
+
+// ダガ　イマハ[br]
+// ショクジチュウ
+I'M EATING NOW.
+[wait]
+
+// ヒルヤスミガ[br]
+// オワッタラ[br]
+// アイテシテヤル
+I'LL DEAL WITH YOU WHEN I'M DONE.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x3E
+#STARTMSG(0x17812, 16, 1)
+
+// のうてんぐさ[br]
+// てにいれた。
+Focus Herbs[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x3F
+#STARTMSG(0x17822, 15, 1)
+
+// カレーライス[br]
+// てにいれた。
+Curry[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x40
+#STARTMSG(0x17831, 18, 1)
+
+// ほうそうようの[br]
+// きかいがある。
+There's a machine that looks like it's used
+[wait]
+for broad-[br]
+casting.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x41
+#STARTMSG(0x17843, 93, 1)
+
+// どこかで[br]
+// みたことのある[br]
+// きかいがある。
+There's a[br]
+machine her[small_e][br]
+you've seen[br]
+before[br]
+somewhere.
+[wait]
+
+// これって[br]
+// ほうそうようの[br]
+// きかいだよ。
+It looks like[br]
+it's used[br]
+for broad-[br]
+casting.
+[wait]
+
+// たてものの[br]
+// なかなら[br]
+// どこでも
+You can use this to send your voice anywhere in the building.
+[wait]
+
+// こえを[br]
+// ながせるヤツ。
+
+//[wait]
+
+// よーちえんにも[br]
+// あったもんね。
+We had one[br]
+at the kin-[br]
+dergarten, too.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x42
+#STARTMSG(0x178A0, 47, 1)
+
+// あっ　そーだ。[br]
+// いいこと[br]
+// おもいついた。
+Ah-ha, I just got a good idea.
+[wait]
+
+// ボクだって[br]
+// つかいかたは[br]
+// しってるんだ。
+I know how to use this, too.
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x43
+#STARTMSG(0x178CF, 75, 1)
+
+// 『はーいッ！[br]
+// みなさん[br]
+// おひるですよぉ
+{O-kaaay![br]
+Lunch time, everybody!
+[wait]
+
+// はやく[br]
+// ごはんを[br]
+// たべにいこォ。
+Hurry and go eat.}
+[wait]
+
+// これで[br]
+// ばっちり。
+This is perfect.
+[wait]
+
+// さっきの[br]
+// とおせんぼも[br]
+// クリアーだい。
+That thing blocking the way earlier will be gone now.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x44
+#STARTMSG(0x1791A, 28, 1)
+
+// へやのなかは[br]
+// ようふくが[br]
+// たくさん
+There are[br]
+many clothe[small_s][br]
+hung up in the room.
+[wait]
+
+// かけられている
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 9-0x45
+#STARTMSG(0x17936, 34, 1)
+
+// なんか[br]
+// ヘンなとこ…
+What a weird place...
+[wait]
+
+// しゅみのわるい[br]
+// ハデなふく[br]
+// ばっかり。
+There's nothing but tasteless, gaudy clothing.
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 9-0x46
+#STARTMSG(0x17958, 42, 1)
+
+// あれ？[br]
+// かわいい[br]
+// カバンだなあ。
+Huh?[br]
+What a cute bag.
+[wait]
+
+// ボクに[br]
+// ピッタリだ。[br]
+// もーらおっと。
+It's perfect for me. I'll take this.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 9-0x47
+#STARTMSG(0x17982, 15, 1)
+
+// ポシェット[br]
+// てにいれた。
+Pochette[br]
+obtained.
+[wait]
+[end]
+
+#ENDMSG()
+
+#ENDREGION(9)
+
+//===========================================================
+// Region 10
+//===========================================================
+
+#STARTREGION(10)
+
+// script 10-0x0
+#STARTMSG(0x1DE7D, 25, 1)
+
+// アルジヨ。[br]
+// ドコヘユク？[br]
+// エランデクレ。
+WHERE WILL YOU GO, MASTER? CHOOSE.
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 10-0x1
+#STARTMSG(0x1DE96, 48, 1)
+
+// 『リョウカイ。[br]
+// びーぐるＳ[br]
+// サドウ。[br]
+// デハ　ワタシノ[br]
+// ぼでぃニ[br]
+// ツカマルノダ。
+{ROGER. BEAGLE-S ONLINE.
+[wait]
+OKAY, TAKE HOLD OF MY BODY.}
+[wait]
+[end]
+
+#ENDMSG()
+
+// script 10-0x2
+#STARTMSG(0x1DEC6, 22, 1)
+
+// 『リョウカイ。
+{ROGER.
+[wait]
+
+// マドウホウ[br]
+// ハッシャ！
+SORCERY CANNON, FIRE!}
+[wait]
+[end]
+
+#ENDMSG()
+
+
+
+#SETHEIGHT(5)
+
+// script 10-0x3
+#STARTMSG(0x1DEDC, 43, 1)
+
+// 『アルジヨ[br]
+// マドウリョクガ[br]
+// タリナイ。[br]
+// コレデハ[br]
+// マドウホウハ[br]
+// ウテヌ。
+{MASTER, YOU DON'T HAVE ENOUGH MAGIC POWER.
+[wait]
+YOU CAN'T FIRE THE SORCERY CANNON NOW.}
+[wait]
+[end]
+
+#ENDMSG()
+
+#SETHEIGHT(4)
+
+
+
+// script 10-0x4
+#STARTMSG(0x1DF07, 27, 1)
+
+// 『アルジヨ。
+{MASTER, WE CAN'T TRAVEL FROM HERE.}
+[wait]
+
+// ココカラノ[br]
+// イドウハ[br]
+// デキヌ。
+
+//[wait]
+[end]
+
+#ENDMSG()
+
+#ENDREGION(10)
+
